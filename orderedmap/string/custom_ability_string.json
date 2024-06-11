@@ -1,0 +1,236 @@
+{
+    "change_skill_devil_clown_xm21": [
+        "『フェイク・ファンタジア』の「敵全体に累積光属性耐性ダウン効果」を「敵全体に累積光属性耐性ダウン ＆ 累積攻撃力ダウン効果」に変化"
+    ],
+    "change_skill_kyouka": [
+        "『コスモブルーフラッシュ』の威力を強化"
+    ],
+    "change_skill_misogi": [
+        "『トリックボマー』に「命中した敵に火属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_spanner_girl": [
+        "『エレキトリック・リペア』の回復量を強化"
+    ],
+    "change_skill_tsundere_bountyhunter_vt22": [
+        "『ガンナッシュ・カタラット』に「自身に連撃効果」を追加"
+    ],
+    "change_skill_ice_dragon": [
+        "『オード・イグ・ベイラ』に「命中した敵に累積攻撃力ダウン効果」を追加"
+    ],
+    "change_skill_super_robot": [
+        "『マルチプルバスター』のチャージレーザーの威力と範囲を強化"
+    ],
+    "change_skill_katana_ghost_wt22": [
+        "『契りの剣』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_bigwing_shaman_smr21": [
+        "『シルフレイジ・トルネード』の「パワーフリップダメージアップ効果」を強化"
+    ],
+    "change_skill_mercenary_smr21": [
+        "『フェイヴァラブル・タイフーン』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_ruin_girl_smr21": [
+        "『シェメウ・レアー』の「攻撃力アップ効果 ／ 連撃効果」を強化"
+    ],
+    "change_skill_still_obstinator": [
+        "『システム・オートマタ』の威力を強化"
+    ],
+    "change_skill_anger_investigator": [
+        "『ドレッドフル・バースト』の「火属性耐性ダウン効果」を強化"
+    ],
+    "ability_skill_estateguild_leader": [
+        "『貫通 ＆ 浮遊 ＆ 最大速度固定 ＆ 無敵 ＆ 回復無効効果』を持つ霊魂を2体召喚する（MB召喚）"
+    ],
+    "change_skill_neoviolin_musician_hw21": [
+        "『輝く月のキャロル』の「パワーフリップダメージアップ効果」を強化"
+    ],
+    "change_skill_sanctuary_guard_hw21": [
+        "『バーンド・ダウン』の「貫通効果」を強化"
+    ],
+    "change_skill_pirates_girl_2anv": [
+        "『システム・スターウォーカー』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_combat_animal_xm21": [
+        "『ナイトナイト・コンビネーション』の「攻撃力アップ ＋ スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_heavenly_three": [
+        "『リトラステップ』の「パワーフリップダメージアップ効果」を強化"
+    ],
+    "change_skill_rural_ladyship": [
+        "『フルブルーム・スマイル』の「攻撃力アップ効果」を強化 ＆ 弱体効果回復数を強化"
+    ],
+    "change_skill_sand_bandit": [
+        "『ソム・シャムシール』に「命中した敵に累積水属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_psychic_yamikawa": [
+        "『メーデイア・エンブレイス』の「闇属性耐性ダウン効果」を闇属性マルチボールの数に応じて強化"
+    ],
+    "change_skill_guildknight_leader": [
+        "『迷宮遺物・しろがね』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_holysword_girl": [
+        "『ハルト・シュトラール』の「攻撃力アップ ＋ スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_little_vampire": [
+        "『ヴァンピール・ミニュイット』の「攻撃力アップ効果」を強化、「自身以外の雷属性キャラのHPが50%以上の時、そのキャラにダメージ」を追加"
+    ],
+    "change_skill_2_tsundere_bountyhunter_vt22": [
+        "『ガンナッシュ・カタラット』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_golemclub_captain": [
+        "スキル『タロスくん９９号』の「火属性マルチボールに攻撃力アップ ＋ 直接攻撃ダメージアップ効果」を強化"
+    ],
+    "change_skill_psychic_nao": [
+        "『星海領域』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_psychic_tomboygirl_hw22": [
+        "『悪戯の言霊』に「フィールド全体の敵の強化効果を1つ消去」を追加"
+    ],
+    "change_skill_2_super_robot": [
+        "『マルチプルバスター』に「スキャンが命中した敵に雷属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_reformist_prince": [
+        "『王殻剣・ライトエッジ』に「命中した敵の強化効果を1つ消去」を追加"
+    ],
+    "change_skill_wind_oracle_meteor23": [
+        "『シルフィリア・ソード・ライト』の威力を強化"
+    ],
+    "change_skill_psychic_taichi": [
+        "『鬼神ノ手・共鳴』の威力を強化"
+    ],
+    "change_skill_catbaby_psychicer": [
+        "『キトゥンキネシス』の「しばらくの間近づいた敵に火ダメージ 」の効果時間を強化"
+    ],
+    "change_skill_holysword_girl_2": [
+        "『ハルト・シュトラール』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_holysword_girl_3": [
+        "『ハルト・シュトラール』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_holysword_girl_4": [
+        "『ハルト・シュトラール』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_ghost_nymph": [
+        "『水月鏡像』の「スキルダメージアップ効果」を強化"
+    ],
+    "ability_skill_resistance_princess_3halfanv": [
+        "パワーフリップLv3がヒットする度、コンボ数 + 1"
+    ],
+    "change_skill_alk_3halfanv": [
+        "『メテオブレイク・ライズ』の威力を強化"
+    ],
+    "change_skill_psychic_nao_3halfanv": [
+        "『星よ、未来を掴め』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_priest_prince_playable": [
+        "『パラサイト・アビス』に「闇属性マルチボールにバリア効果」を追加"
+    ],
+    "change_skill_amulet_bosslady": [
+        "『水禍招来・四罪共工』に「命中した敵に累積水属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_evilloli_master": [
+        "『イノセント・カルマ』の威力を強化"
+    ],
+    "change_skill_lion_swordman_playable": [
+        "『アンガー・スクリーム』の威力を強化"
+    ],
+    "change_skill_psychic_yamikawa_smr23": [
+        "『ヘラ・リストレイント』に「命中した敵に風属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_palpebra_knight_lady_hw22": [
+        "『ブラックウエディング・マーチ』の威力を強化"
+    ],
+    "change_skill_general_toyakiren_ny23": [
+        "『サリュート・オブ・ガンズ』の「パワーフリップダメージアップ効果」を強化"
+    ],
+    "change_skill_general_toyakiren_ny23_2": [
+        "『サリュート・オブ・ガンズ』の「攻撃力アップ効果」を強化"
+    ],
+    "override_string_psycho_reaper_meteor23": [
+        "パワーフリップを特殊強化"
+    ],
+    "change_skill_sleep_puppy_vt23": [
+        "『トロイム・ジュース』の「攻撃力アップ ＋ 火属性耐性アップ効果」を強化"
+    ],
+    "change_skill_black_wolf_knight_wt23": [
+        "『シュラッヘンデンオールト』の「パワーフリップダメージアップ効果」を強化"
+    ],
+    "change_skill_ruin_lady_meteor23": [
+        "『ウベン・アーネジェウ』の「攻撃力アップ効果」を2つ強化"
+    ],
+    "change_skill_pbc_ceo_playable": [
+        "『パラダイム・ブレイカー』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_wind_oracle_meteor23_2": [
+        "『シルフィリア・ソード・ライト』の威力を強化"
+    ],
+    "change_skill_wirfled_playable": [
+        "『フラム・クラフト』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_artificialeye_sniper": [
+        "『デッドライン３０００』の「雷属性耐性ダウン効果」を強化"
+    ],
+    "change_skill_psychic_taichi_2": [
+        "『鬼神ノ手・共鳴』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_psychic_katana": [
+        "『天雷一閃』の威力を強化"
+    ],
+    "change_skill_catbaby_psychicer_2": [
+        "『キトゥンキネシス』の「貫通効果」を強化"
+    ],
+    "change_skill_alk_3halfanv_2": [
+        "『メテオブレイク・ライズ』の威力を強化"
+    ],
+    "change_skill_psychic_nao_3halfanv_2": [
+        "『星よ、未来を掴め』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_psychic_nao_3halfanv_3": [
+        "『星よ、未来を掴め』の「スキルダメージアップ効果」を強化"
+    ],
+    "change_skill_dryad_hw23": [
+        "『アニマ・グラーシア』に「水属性キャラのスキルゲージ増加」を追加"
+    ],
+    "change_skill_summoner_little_smr23": [
+        "『ヴォイド・ゲイザー』の「最大速度固定効果」を強化"
+    ],
+    "change_skill_psychic_yamikawa_smr23_2": [
+        "『ヘラ・リストレイント』の「スキルダメージアップ効果」を強化"
+    ],
+    "ability_skill_fire_dragon_zenith": [
+        "特殊スキルを発動"
+    ],
+    "change_skill_guild_front_girl_playable": [
+        "『ギルド・サポート』に「水属性キャラの弱体効果を1つ回復」を追加"
+    ],
+    "change_skill_wirfled_playable_2": [
+        "『フラム・クラフト』の「スキルダメージアップ効果」を強化"
+    ],
+    "override_string_wind_spgirl_4anv": [
+        "パワーフリップを特殊強化"
+    ],
+    "change_skill_stella_copy_4anv": [
+        "『闇灯す夢の明星』に「敵全体に闇属性耐性ダウン効果」を追加"
+    ],
+    "change_skill_silence_suzuka": [
+        "『先頭の景色は譲らない…！』の「最大速度固定効果」を強化 ＆ アウトホールに柵を設置 ＆ しばらくの間ダッシュを受け付けない"
+    ],
+    "change_skill_gold_ship": [
+        "「アタシに表に出ろとはいい度胸じゃねーか！本気出してやるよ！」"
+    ],
+    "change_skill_kazuma": [
+        "『ドレインタッチ』に「接触した敵に攻撃力ダウン効果」を追加 ＆ 回復量を強化"
+    ],
+    "change_skill_aqua": [
+        "『ヒール』の「追加でフィーバーゲージ増加」を強化"
+    ],
+    "change_skill_megumin": [
+        "『エクスプロージョン』の威力を強化"
+    ],
+    "change_skill_kazuma_2": [
+        "『ドレインタッチ』の「攻撃力アップ効果」を強化"
+    ],
+    "change_skill_yuno": [
+        "『スピリット・ストーム』の威力を強化"
+    ]
+}

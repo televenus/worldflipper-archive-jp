@@ -1,0 +1,27 @@
+{
+    "special": [
+        "battle/action/power_flip/action/special$special_lv1",
+        "battle/action/power_flip/action/special$special_lv2",
+        "battle/action/power_flip/action/special$special_lv3"
+    ],
+    "ruin_girl": [
+        "battle/action/power_flip/action/empty",
+        "battle/action/power_flip/action/empty",
+        "battle/action/power_flip/action/empty"
+    ],
+    "thunder_dragon": [
+        "battle/action/power_flip/action/empty",
+        "battle/action/power_flip/action/empty",
+        "battle/action/power_flip/action/empty"
+    ],
+    "override_psycho_reaper_meteor23": [
+        "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv1",
+        "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv2",
+        "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv3"
+    ],
+    "override_wind_spgirl_4anv": [
+        "battle/action/power_flip/action/override/override_wind_spgirl_4anv$override_wind_spgirl_4anv_lv1",
+        "battle/action/power_flip/action/override/override_wind_spgirl_4anv$override_wind_spgirl_4anv_lv2",
+        "battle/action/power_flip/action/override/override_wind_spgirl_4anv$override_wind_spgirl_4anv_lv3"
+    ]
+}

@@ -1,0 +1,418 @@
+{
+  "name": "ピックアップガチャ",
+  "banner": "dynamic/gacha_list_banner/black_element_pickup_05",
+  "rarity3": [
+    {
+      "name": "ルシル",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "コーディ",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "タルハ",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "メリル",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "ノーセル",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "レベッカ",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "ドロセア",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "アディル",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "シオン",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "アーリィ",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "ジャリル",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    },
+    {
+      "name": "ファルチェ",
+      "rank": 3,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 8.333,
+      "rate": 5.833
+    }
+  ],
+  "rarity4": [
+    {
+      "name": "アルマデウス",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "影丘リュウイチ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "ヴィルジア",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "タウィール",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "ロンダール",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "エドワルド",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "ゼルマ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "ブライス",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "グリーグ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "ルナ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "セルジール",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "リアン",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "アンディ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    },
+    {
+      "name": "マリアンネ",
+      "rank": 4,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 7.142,
+      "rate": 1.785
+    }
+  ],
+  "rarity5": [
+    {
+      "name": "プリムラ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ベルセティア",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "アリス",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "チャトリナ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "マーデン",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "澄波ヒビキ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "イオレス",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "タナキエラ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "エルモル",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "操里ユカリコ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ルイリーズ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ヒルデガード",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "伊野里ショウタ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "プリムラ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ベアトリクス",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "メイルビオラ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "クエット",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "エデュケウス",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ディーネ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "キャル",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "オリヴィエ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "カーラ",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "モルミア",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ヴェロン",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    },
+    {
+      "name": "ベルセティア",
+      "rank": 5,
+      "odd": 1,
+      "isPickup": false,
+      "localRate": 4,
+      "rate": 0.2
+    }
+  ]
+}
