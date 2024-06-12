@@ -1,0 +1,161 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 835,
+        "y": 1319
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 617,
+        "y": 882
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 617,
+        "y": 1343,
+        "fx": -1,
+        "fy": 0,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/d",
+        "w": 50,
+        "h": 256,
+        "x": 672,
+        "y": 1469,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 258,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/e",
+        "w": 76,
+        "h": 255,
+        "x": 757,
+        "y": 1247,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 257,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/f",
+        "w": 53,
+        "h": 377,
+        "x": 617,
+        "y": 1504,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 380,
+        "fh": 56
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 827,
+        "y": 1147,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/h",
+        "w": 852,
+        "h": 879,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -80,
+        "fy": -194,
+        "fw": 1038,
+        "fh": 1056
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 839,
+        "y": 1219,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/j",
+        "w": 614,
+        "h": 1040,
+        "x": 1,
+        "y": 882,
+        "fx": -605,
+        "fy": -219,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 827,
+        "y": 1117,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 843,
+        "y": 1117
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 835,
+        "y": 1331
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 835,
+        "y": 1343
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 617,
+        "y": 1117,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_59/wind_dragon_wt22/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 617,
+        "y": 1213,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

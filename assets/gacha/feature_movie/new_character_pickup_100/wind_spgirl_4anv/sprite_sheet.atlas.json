@@ -1,0 +1,161 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1081,
+        "y": 410
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 907,
+        "y": 1243
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1009,
+        "y": 1799,
+        "fx": -1,
+        "fy": 0,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/d",
+        "w": 50,
+        "h": 215,
+        "x": 1081,
+        "y": 177,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 217,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/e",
+        "w": 77,
+        "h": 319,
+        "x": 1047,
+        "y": 1478,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 321,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/f",
+        "w": 54,
+        "h": 174,
+        "x": 1081,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 177,
+        "fh": 56
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1123,
+        "y": 394,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/h",
+        "w": 904,
+        "h": 794,
+        "x": 1,
+        "y": 1243,
+        "r": true,
+        "fx": -142,
+        "fy": -119,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1123,
+        "y": 494,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/j",
+        "w": 1078,
+        "h": 1240,
+        "x": 1,
+        "y": 1,
+        "fx": -141,
+        "fy": -438,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1081,
+        "y": 394
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1111,
+        "y": 394
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1093,
+        "y": 410
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1081,
+        "y": 422
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/o",
+        "w": 100,
+        "h": 238,
+        "x": 907,
+        "y": 1799,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 244,
+        "fh": 106
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 907,
+        "y": 1478,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

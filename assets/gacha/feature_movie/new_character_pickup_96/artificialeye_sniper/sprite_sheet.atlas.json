@@ -1,0 +1,133 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1148,
+        "y": 1508
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 929,
+        "y": 1243
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 929,
+        "y": 1528,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/d",
+        "w": 217,
+        "h": 48,
+        "x": 929,
+        "y": 1478,
+        "fx": 0,
+        "fy": -1,
+        "fw": 218,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/e",
+        "w": 74,
+        "h": 387,
+        "x": 1047,
+        "y": 25,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 389,
+        "fh": 75
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/f",
+        "w": 53,
+        "h": 345,
+        "x": 1047,
+        "y": 414,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1149,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/h",
+        "w": 926,
+        "h": 754,
+        "x": 1,
+        "y": 1243,
+        "r": true,
+        "fx": -136,
+        "fy": -115,
+        "fw": 1038,
+        "fh": 1054
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 1047,
+        "y": 13,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/j",
+        "w": 1044,
+        "h": 1240,
+        "x": 1,
+        "y": 1,
+        "fx": -175,
+        "fy": -342,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1148,
+        "y": 1478,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1047,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1148,
+        "y": 1520
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1123,
+        "y": 25
+    }
+]

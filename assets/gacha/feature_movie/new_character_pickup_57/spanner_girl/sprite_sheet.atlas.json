@@ -1,0 +1,134 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1075,
+        "y": 326
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 856,
+        "y": 1264
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 897,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/d",
+        "w": 48,
+        "h": 250,
+        "x": 974,
+        "y": 347,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 251,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/e",
+        "w": 75,
+        "h": 265,
+        "x": 897,
+        "y": 127,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 267,
+        "fh": 77
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/f",
+        "w": 50,
+        "h": 344,
+        "x": 1023,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 345,
+        "fh": 51
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/g",
+        "w": 10,
+        "h": 89,
+        "x": 1075,
+        "y": 235,
+        "fx": 0,
+        "fy": -11,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/h",
+        "w": 853,
+        "h": 664,
+        "x": 1,
+        "y": 1264,
+        "r": true,
+        "fx": -193,
+        "fy": -134,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/i",
+        "w": 10,
+        "h": 100,
+        "x": 1075,
+        "y": 133,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/j",
+        "w": 894,
+        "h": 1261,
+        "x": 1,
+        "y": 1,
+        "fx": -325,
+        "fy": -334,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1075,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1075,
+        "y": 31
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1075,
+        "y": 338
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/spanner_girl/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 974,
+        "y": 127
+    }
+]

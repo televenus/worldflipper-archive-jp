@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1180,
+        "y": 1075
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1235,
+        "y": 760
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1600,
+        "y": 760,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/d",
+        "w": 219,
+        "h": 48,
+        "x": 1206,
+        "y": 1045,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/e",
+        "w": 74,
+        "h": 325,
+        "x": 1104,
+        "y": 760,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 327,
+        "fh": 75
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/f",
+        "w": 53,
+        "h": 283,
+        "x": 1180,
+        "y": 760,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 285,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1427,
+        "y": 995,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/h",
+        "w": 869,
+        "h": 757,
+        "x": 1104,
+        "y": 1,
+        "r": true,
+        "fx": -149,
+        "fy": -167,
+        "fw": 1038,
+        "fh": 1046
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1439,
+        "y": 995,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/j",
+        "w": 1101,
+        "h": 1098,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": -350,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1180,
+        "y": 1045,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1104,
+        "y": 1087,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1192,
+        "y": 1075
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1235,
+        "y": 995
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 1451,
+        "y": 995,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1470,
+        "y": 760,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

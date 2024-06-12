@@ -1,0 +1,294 @@
+[
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 183,
+        "y": 1736
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/aa",
+        "w": 66,
+        "h": 229,
+        "x": 834,
+        "y": 1151,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 229,
+        "fh": 67
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/ab",
+        "w": 278,
+        "h": 48,
+        "x": 322,
+        "y": 1723,
+        "fx": 0,
+        "fy": 0,
+        "fw": 278,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/ac",
+        "w": 48,
+        "h": 248,
+        "x": 902,
+        "y": 1151,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 248,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/b",
+        "w": 10,
+        "h": 98,
+        "x": 1020,
+        "y": 1151,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/c",
+        "w": 360,
+        "h": 210,
+        "x": 672,
+        "y": 1410,
+        "fx": 0,
+        "fy": -37,
+        "fw": 360,
+        "fh": 247
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/d",
+        "w": 28,
+        "h": 14,
+        "x": 1,
+        "y": 1748
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/e",
+        "w": 180,
+        "h": 10,
+        "x": 1,
+        "y": 1736,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/f",
+        "w": 10,
+        "h": 10,
+        "x": 602,
+        "y": 1723
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/g",
+        "w": 40,
+        "h": 39,
+        "x": 620,
+        "y": 1501,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/h",
+        "w": 138,
+        "h": 128,
+        "x": 633,
+        "y": 1622,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/i",
+        "w": 40,
+        "h": 40,
+        "x": 952,
+        "y": 1354
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/j",
+        "w": 1035,
+        "h": 1148,
+        "x": 1,
+        "y": 1,
+        "fx": -135,
+        "fy": -326,
+        "fw": 1380,
+        "fh": 1840
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/k",
+        "w": 248,
+        "h": 80,
+        "x": 325,
+        "y": 1586,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/l",
+        "w": 322,
+        "h": 80,
+        "x": 1,
+        "y": 1586,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/m",
+        "w": 831,
+        "h": 218,
+        "x": 1,
+        "y": 1151,
+        "fx": -1,
+        "fy": -1,
+        "fw": 833,
+        "fh": 220
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/n",
+        "w": 98,
+        "h": 98,
+        "x": 773,
+        "y": 1622,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/o",
+        "w": 40,
+        "h": 35,
+        "x": 873,
+        "y": 1683,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/p",
+        "w": 67,
+        "h": 70,
+        "x": 551,
+        "y": 1501,
+        "fx": -2,
+        "fy": -3,
+        "fw": 71,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/q",
+        "w": 57,
+        "h": 59,
+        "x": 873,
+        "y": 1622,
+        "fx": -3,
+        "fy": -3,
+        "fw": 61,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/r",
+        "w": 38,
+        "h": 40,
+        "x": 932,
+        "y": 1622,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 44
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/s",
+        "w": 35,
+        "h": 40,
+        "x": 972,
+        "y": 1622
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/t",
+        "w": 40,
+        "h": 35,
+        "x": 620,
+        "y": 1542,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/u",
+        "w": 548,
+        "h": 83,
+        "x": 1,
+        "y": 1501,
+        "fx": -4,
+        "fy": -3,
+        "fw": 558,
+        "fh": 90
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/v",
+        "w": 669,
+        "h": 89,
+        "x": 1,
+        "y": 1410,
+        "fx": -5,
+        "fy": -4,
+        "fw": 677,
+        "fh": 96
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/w",
+        "w": 309,
+        "h": 53,
+        "x": 322,
+        "y": 1668
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/x",
+        "w": 826,
+        "h": 37,
+        "x": 1,
+        "y": 1371,
+        "fx": -2,
+        "fy": -1,
+        "fw": 829,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/y",
+        "w": 66,
+        "h": 201,
+        "x": 952,
+        "y": 1151,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 201,
+        "fh": 67
+    },
+    {
+        "n": "gacha/feature_movie/revival_smr20_character_pickup_03/top/.gen/feature/z",
+        "w": 319,
+        "h": 66,
+        "x": 1,
+        "y": 1668,
+        "fx": 0,
+        "fy": 0,
+        "fw": 319,
+        "fh": 67
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 957,
+        "y": 1256
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 722,
+        "y": 1240
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 862,
+        "y": 1575,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/d",
+        "w": 221,
+        "h": 52,
+        "x": 722,
+        "y": 1475,
+        "fx": -1,
+        "fy": -1,
+        "fw": 224,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/e",
+        "w": 73,
+        "h": 200,
+        "x": 957,
+        "y": 1353,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 202,
+        "fh": 76
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/f",
+        "w": 55,
+        "h": 219,
+        "x": 991,
+        "y": 1132,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 221,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1032,
+        "y": 1455,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/h",
+        "w": 719,
+        "h": 885,
+        "x": 1,
+        "y": 1132,
+        "fx": -146,
+        "fy": -217,
+        "fw": 1038,
+        "fh": 1111
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 945,
+        "y": 1475,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/j",
+        "w": 1048,
+        "h": 1129,
+        "x": 1,
+        "y": 1,
+        "fx": -171,
+        "fy": -400,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 957,
+        "y": 1240
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1032,
+        "y": 1353
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 969,
+        "y": 1256
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 957,
+        "y": 1268
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/o",
+        "w": 267,
+        "h": 106,
+        "x": 722,
+        "y": 1132,
+        "fx": -3,
+        "fy": -3,
+        "fw": 273,
+        "fh": 112
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/stella_ballot23/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 722,
+        "y": 1529,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

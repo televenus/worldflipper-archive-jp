@@ -1,0 +1,159 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1735,
+        "y": 223
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 851,
+        "y": 773
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1312,
+        "y": 773,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/d",
+        "w": 51,
+        "h": 220,
+        "x": 1705,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 222,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/e",
+        "w": 287,
+        "h": 82,
+        "x": 1182,
+        "y": 913,
+        "fx": -1,
+        "fy": -1,
+        "fw": 289,
+        "fh": 84
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/f",
+        "w": 294,
+        "h": 55,
+        "x": 1438,
+        "y": 773,
+        "fx": -1,
+        "fy": -2,
+        "fw": 296,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1053,
+        "y": 1008,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/h",
+        "w": 852,
+        "h": 770,
+        "x": 851,
+        "y": 1,
+        "r": true,
+        "fx": -114,
+        "fy": -229,
+        "fw": 1038,
+        "fh": 1094
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 953,
+        "y": 1008,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/j",
+        "w": 848,
+        "h": 1020,
+        "x": 1,
+        "y": 1,
+        "fx": -371,
+        "fy": -455,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1705,
+        "y": 223
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 851,
+        "y": 1008,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1735,
+        "y": 235
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1705,
+        "y": 239
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 1086,
+        "y": 773,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/nagato_yuki/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1182,
+        "y": 773,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

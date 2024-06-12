@@ -1,0 +1,370 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/a",
+        "w": 40,
+        "h": 40,
+        "x": 1046,
+        "y": 1067
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/aa",
+        "w": 98,
+        "h": 98,
+        "x": 794,
+        "y": 1892,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ab",
+        "w": 35,
+        "h": 40,
+        "x": 477,
+        "y": 1867
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ac",
+        "w": 67,
+        "h": 70,
+        "x": 846,
+        "y": 1820,
+        "fx": -2,
+        "fy": -3,
+        "fw": 71,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ad",
+        "w": 57,
+        "h": 59,
+        "x": 1027,
+        "y": 1006,
+        "fx": -3,
+        "fy": -3,
+        "fw": 61,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ae",
+        "w": 38,
+        "h": 40,
+        "x": 1026,
+        "y": 668,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 44
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/af",
+        "w": 35,
+        "h": 40,
+        "x": 477,
+        "y": 1909
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ag",
+        "w": 35,
+        "h": 40,
+        "x": 477,
+        "y": 1951
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ah",
+        "w": 527,
+        "h": 43,
+        "x": 1,
+        "y": 1822
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ai",
+        "w": 41,
+        "h": 739,
+        "x": 983,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/aj",
+        "w": 47,
+        "h": 358,
+        "x": 1000,
+        "y": 1608,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 359,
+        "fh": 47
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/ak",
+        "w": 36,
+        "h": 823,
+        "x": 945,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 829,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/al",
+        "w": 278,
+        "h": 65,
+        "x": 514,
+        "y": 1887,
+        "fx": 0,
+        "fy": 0,
+        "fw": 278,
+        "fh": 66
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/am",
+        "w": 288,
+        "h": 65,
+        "x": 556,
+        "y": 1820,
+        "fx": 0,
+        "fy": 0,
+        "fw": 288,
+        "fh": 66
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/an",
+        "w": 334,
+        "h": 64,
+        "x": 1,
+        "y": 1867,
+        "fx": 0,
+        "fy": 0,
+        "fw": 334,
+        "fh": 65
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/b",
+        "w": 99,
+        "h": 4,
+        "x": 945,
+        "y": 1086,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 4
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/c",
+        "w": 4,
+        "h": 400,
+        "x": 1078,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/d",
+        "w": 20,
+        "h": 20,
+        "x": 975,
+        "y": 1092
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/e",
+        "w": 40,
+        "h": 40,
+        "x": 1039,
+        "y": 824
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/f",
+        "w": 1080,
+        "h": 480,
+        "x": 1,
+        "y": 1126,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/g",
+        "w": 10,
+        "h": 10,
+        "x": 945,
+        "y": 1108
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/h",
+        "w": 99,
+        "h": 8,
+        "x": 945,
+        "y": 1076,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/i",
+        "w": 360,
+        "h": 210,
+        "x": 556,
+        "y": 1608,
+        "fx": 0,
+        "fy": -37,
+        "fw": 360,
+        "fh": 247
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/j",
+        "w": 28,
+        "h": 14,
+        "x": 945,
+        "y": 1092
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/k",
+        "w": 10,
+        "h": 180,
+        "x": 1027,
+        "y": 824
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/l",
+        "w": 10,
+        "h": 10,
+        "x": 957,
+        "y": 1108
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/m",
+        "w": 40,
+        "h": 40,
+        "x": 1039,
+        "y": 866
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/n",
+        "w": 40,
+        "h": 34,
+        "x": 894,
+        "y": 1932,
+        "fx": 0,
+        "fy": -6,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/o",
+        "w": 40,
+        "h": 40,
+        "x": 1039,
+        "y": 908
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/p",
+        "w": 40,
+        "h": 40,
+        "x": 1039,
+        "y": 950
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/q",
+        "w": 80,
+        "h": 80,
+        "x": 983,
+        "y": 742,
+        "fx": -1,
+        "fy": -1,
+        "fw": 82,
+        "fh": 82
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/r",
+        "w": 40,
+        "h": 40,
+        "x": 1026,
+        "y": 542
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/s",
+        "w": 40,
+        "h": 40,
+        "x": 1026,
+        "y": 584
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/t",
+        "w": 40,
+        "h": 40,
+        "x": 1026,
+        "y": 626
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/u",
+        "w": 138,
+        "h": 128,
+        "x": 337,
+        "y": 1867,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/v",
+        "w": 942,
+        "h": 1123,
+        "x": 1,
+        "y": 1,
+        "fx": -286,
+        "fy": -441,
+        "fw": 1440,
+        "fh": 1840
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/w",
+        "w": 80,
+        "h": 248,
+        "x": 945,
+        "y": 826,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/x",
+        "w": 80,
+        "h": 322,
+        "x": 918,
+        "y": 1608,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/y",
+        "w": 553,
+        "h": 212,
+        "x": 1,
+        "y": 1608,
+        "fx": -5,
+        "fy": -2,
+        "fw": 561,
+        "fh": 217
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/top/.gen/feature/z",
+        "w": 50,
+        "h": 539,
+        "x": 1026,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 541,
+        "fh": 51
+    }
+]

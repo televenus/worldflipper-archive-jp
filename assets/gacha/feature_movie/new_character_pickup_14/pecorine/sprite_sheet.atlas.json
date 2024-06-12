@@ -1,0 +1,191 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1796,
+        "y": 303
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1510,
+        "y": 1344,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/c",
+        "w": 890,
+        "h": 350,
+        "x": 618,
+        "y": 1289,
+        "fx": -94,
+        "fy": -4,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/d",
+        "w": 351,
+        "h": 891,
+        "x": 1443,
+        "y": 86,
+        "r": true,
+        "fx": -94,
+        "fy": -3,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1706,
+        "y": 1788,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 618,
+        "y": 906
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/g",
+        "w": 825,
+        "h": 329,
+        "x": 618,
+        "y": 1641,
+        "fx": -124,
+        "fy": -14,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1818,
+        "y": 303
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1445,
+        "y": 1788,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1575,
+        "y": 1788,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1510,
+        "y": 1553
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/l",
+        "w": 487,
+        "h": 308,
+        "x": 1340,
+        "y": 979,
+        "fx": -79,
+        "fy": -27,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/m",
+        "w": 305,
+        "h": 53,
+        "x": 1510,
+        "y": 1289,
+        "fx": -98,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/n",
+        "w": 378,
+        "h": 83,
+        "x": 1443,
+        "y": 1,
+        "fx": -166,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/o",
+        "w": 42,
+        "h": 215,
+        "x": 1796,
+        "y": 86,
+        "r": true,
+        "fx": -71,
+        "fy": -5,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/p",
+        "w": 1440,
+        "h": 286,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/q",
+        "w": 615,
+        "h": 1023,
+        "x": 1,
+        "y": 906,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/pecorine/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1796,
+        "y": 325
+    }
+]

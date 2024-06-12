@@ -1,0 +1,134 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1011,
+        "y": 103
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 799,
+        "y": 1168
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 799,
+        "y": 1528,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/d",
+        "w": 217,
+        "h": 48,
+        "x": 799,
+        "y": 1403,
+        "fx": 0,
+        "fy": -1,
+        "fw": 218,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/e",
+        "w": 140,
+        "h": 73,
+        "x": 799,
+        "y": 1453,
+        "fx": -1,
+        "fy": -1,
+        "fw": 142,
+        "fh": 75
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/f",
+        "w": 51,
+        "h": 375,
+        "x": 941,
+        "y": 1453,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 377,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 987,
+        "y": 17,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/h",
+        "w": 796,
+        "h": 837,
+        "x": 1,
+        "y": 1168,
+        "fx": -136,
+        "fy": -198,
+        "fw": 1038,
+        "fh": 1044
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/i",
+        "w": 10,
+        "h": 97,
+        "x": 999,
+        "y": 17,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/j",
+        "w": 984,
+        "h": 1165,
+        "x": 1,
+        "y": 1,
+        "fx": -235,
+        "fy": -423,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 987,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1017,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1011,
+        "y": 115
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 999,
+        "y": 116
+    }
+]

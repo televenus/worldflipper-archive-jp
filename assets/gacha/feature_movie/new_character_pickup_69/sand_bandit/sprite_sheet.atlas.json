@@ -1,0 +1,136 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1173,
+        "y": 884
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1768,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1768,
+        "y": 362,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/d",
+        "w": 221,
+        "h": 51,
+        "x": 1768,
+        "y": 236,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/e",
+        "w": 194,
+        "h": 71,
+        "x": 1768,
+        "y": 289,
+        "fx": -1,
+        "fy": -1,
+        "fw": 196,
+        "fh": 73
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/f",
+        "w": 56,
+        "h": 300,
+        "x": 1894,
+        "y": 362,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 302,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1173,
+        "y": 872,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/h",
+        "w": 609,
+        "h": 869,
+        "x": 1157,
+        "y": 1,
+        "fx": -231,
+        "fy": -153,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 1157,
+        "y": 902,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/j",
+        "w": 1154,
+        "h": 916,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -206,
+        "fy": -480,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1157,
+        "y": 872,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1991,
+        "y": 236
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1185,
+        "y": 884
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_69/sand_bandit/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1197,
+        "y": 884
+    }
+]

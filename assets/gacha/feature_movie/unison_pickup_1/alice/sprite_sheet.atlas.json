@@ -1,0 +1,193 @@
+[
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 56,
+        "y": 1741
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 334,
+        "y": 1443,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/c",
+        "w": 765,
+        "h": 297,
+        "x": 1180,
+        "y": 799,
+        "fx": -137,
+        "fy": -30,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/d",
+        "w": 297,
+        "h": 765,
+        "x": 1180,
+        "y": 1098,
+        "r": true,
+        "fx": -137,
+        "fy": -30,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1,
+        "y": 1765,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/f",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/g",
+        "w": 279,
+        "h": 708,
+        "x": 1479,
+        "y": 1098,
+        "r": true,
+        "fx": -164,
+        "fy": -40,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 78,
+        "y": 1741
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 334,
+        "y": 1693,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1760,
+        "y": 1731,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 56,
+        "y": 1443
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/l",
+        "w": 253,
+        "h": 631,
+        "x": 1760,
+        "y": 1098,
+        "r": true,
+        "fx": -9,
+        "fy": -22,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/m",
+        "w": 53,
+        "h": 312,
+        "x": 1,
+        "y": 1443,
+        "r": true,
+        "fx": -95,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/n",
+        "w": 225,
+        "h": 83,
+        "x": 107,
+        "y": 1765,
+        "fx": -246,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/o",
+        "w": 251,
+        "h": 46,
+        "x": 56,
+        "y": 1693,
+        "fx": -53,
+        "fy": -4,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 563,
+        "y": 563,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/q",
+        "w": 615,
+        "h": 964,
+        "x": 563,
+        "y": 799,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 563,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/alice/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 100,
+        "y": 1741
+    }
+]

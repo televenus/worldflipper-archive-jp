@@ -1,0 +1,196 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1580,
+        "y": 1538
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1280,
+        "y": 1581,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/c",
+        "w": 335,
+        "h": 1016,
+        "x": 906,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -23,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/d",
+        "w": 335,
+        "h": 1016,
+        "x": 1243,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -23,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1741,
+        "y": 346,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 289,
+        "y": 1718
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/g",
+        "w": 315,
+        "h": 989,
+        "x": 1580,
+        "y": 547,
+        "r": true,
+        "fx": -9,
+        "fy": -32,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 906,
+        "y": 1667
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1246,
+        "y": 1790,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1386,
+        "y": 1790,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1011,
+        "y": 1667
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/l",
+        "w": 296,
+        "h": 544,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -12,
+        "fy": -28,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/m",
+        "w": 54,
+        "h": 343,
+        "x": 1741,
+        "y": 1,
+        "r": true,
+        "fx": -79,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/n",
+        "w": 372,
+        "h": 84,
+        "x": 906,
+        "y": 1581,
+        "fx": -172,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/o",
+        "w": 215,
+        "h": 47,
+        "x": 1011,
+        "y": 1902,
+        "fx": -71,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 1,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/q",
+        "w": 615,
+        "h": 1153,
+        "x": 289,
+        "y": 563,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_05/thunder_archer/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1530,
+        "y": 1581
+    }
+]

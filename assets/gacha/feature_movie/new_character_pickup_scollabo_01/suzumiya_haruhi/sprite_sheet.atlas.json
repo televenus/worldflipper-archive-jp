@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1194,
+        "y": 1026
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1147,
+        "y": 742
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1608,
+        "y": 742,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/d",
+        "w": 184,
+        "h": 48,
+        "x": 1218,
+        "y": 977,
+        "fx": 0,
+        "fy": -1,
+        "fw": 185,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/e",
+        "w": 337,
+        "h": 79,
+        "x": 1404,
+        "y": 952,
+        "fx": -1,
+        "fy": -1,
+        "fw": 338,
+        "fh": 81
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/f",
+        "w": 53,
+        "h": 258,
+        "x": 1092,
+        "y": 742,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 260,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1108,
+        "y": 1014,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/h",
+        "w": 866,
+        "h": 739,
+        "x": 1092,
+        "y": 1,
+        "r": true,
+        "fx": -124,
+        "fy": -218,
+        "fw": 1038,
+        "fh": 1097
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 1108,
+        "y": 1002,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/j",
+        "w": 1089,
+        "h": 1048,
+        "x": 1,
+        "y": 1,
+        "fx": -112,
+        "fy": -422,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1092,
+        "y": 1002,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1092,
+        "y": 1032,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1194,
+        "y": 1038
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1206,
+        "y": 1026
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 1382,
+        "y": 742,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_scollabo_01/suzumiya_haruhi/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1478,
+        "y": 742,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

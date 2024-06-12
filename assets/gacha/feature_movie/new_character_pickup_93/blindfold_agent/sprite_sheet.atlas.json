@@ -1,0 +1,136 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1079,
+        "y": 119
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 875,
+        "y": 1212
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 953,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/d",
+        "w": 187,
+        "h": 52,
+        "x": 875,
+        "y": 1447,
+        "fx": -1,
+        "fy": -1,
+        "fw": 189,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/e",
+        "w": 77,
+        "h": 320,
+        "x": 953,
+        "y": 127,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 322,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/f",
+        "w": 56,
+        "h": 331,
+        "x": 1032,
+        "y": 131,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 333,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1091,
+        "y": 17,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/h",
+        "w": 872,
+        "h": 777,
+        "x": 1,
+        "y": 1212,
+        "r": true,
+        "fx": -113,
+        "fy": -181,
+        "fw": 1038,
+        "fh": 1063
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1091,
+        "y": 117,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/j",
+        "w": 950,
+        "h": 1209,
+        "x": 1,
+        "y": 1,
+        "fx": -269,
+        "fy": -438,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1079,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1079,
+        "y": 17
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1064,
+        "y": 1447
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_93/blindfold_agent/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1076,
+        "y": 1447
+    }
+]

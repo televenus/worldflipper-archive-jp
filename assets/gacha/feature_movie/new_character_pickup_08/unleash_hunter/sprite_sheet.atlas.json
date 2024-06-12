@@ -1,0 +1,195 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 904,
+        "y": 218
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1624,
+        "y": 1231,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/c",
+        "w": 962,
+        "h": 308,
+        "x": 1,
+        "y": 1443,
+        "fx": -38,
+        "fy": -52,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/d",
+        "w": 962,
+        "h": 308,
+        "x": 965,
+        "y": 1,
+        "fx": -38,
+        "fy": -52,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1929,
+        "y": 1,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 851,
+        "y": 614,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/g",
+        "w": 891,
+        "h": 301,
+        "x": 965,
+        "y": 311,
+        "fx": -73,
+        "fy": -59,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 926,
+        "y": 218
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1858,
+        "y": 344,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1858,
+        "y": 474,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1624,
+        "y": 1440
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/l",
+        "w": 657,
+        "h": 333,
+        "x": 965,
+        "y": 1336,
+        "fx": -12,
+        "fy": -19,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/m",
+        "w": 51,
+        "h": 353,
+        "x": 851,
+        "y": 1,
+        "r": true,
+        "fx": -78,
+        "fy": -6,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/n",
+        "w": 87,
+        "h": 235,
+        "x": 1929,
+        "y": 107,
+        "r": true,
+        "fx": -240,
+        "fy": -6,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/o",
+        "w": 48,
+        "h": 215,
+        "x": 904,
+        "y": 1,
+        "r": true,
+        "fx": -71,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 563,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/q",
+        "w": 855,
+        "h": 615,
+        "x": 1133,
+        "y": 614,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_08/unleash_hunter/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 904,
+        "y": 240
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 516,
+        "y": 862
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1186,
+        "y": 651
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1421,
+        "y": 731,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/d",
+        "w": 221,
+        "h": 52,
+        "x": 263,
+        "y": 826,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/e",
+        "w": 328,
+        "h": 78,
+        "x": 1421,
+        "y": 651,
+        "fx": -1,
+        "fy": -1,
+        "fw": 330,
+        "fh": 81
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/f",
+        "w": 260,
+        "h": 55,
+        "x": 1,
+        "y": 826,
+        "fx": -2,
+        "fy": -1,
+        "fw": 263,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 486,
+        "y": 838,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/h",
+        "w": 846,
+        "h": 648,
+        "x": 1186,
+        "y": 1,
+        "r": true,
+        "fx": -175,
+        "fy": -148,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 486,
+        "y": 850,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/j",
+        "w": 1183,
+        "h": 823,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -233,
+        "fy": -189,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 486,
+        "y": 862
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 486,
+        "y": 826,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 516,
+        "y": 874
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 528,
+        "y": 862
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 1751,
+        "y": 651,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 1847,
+        "y": 651,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

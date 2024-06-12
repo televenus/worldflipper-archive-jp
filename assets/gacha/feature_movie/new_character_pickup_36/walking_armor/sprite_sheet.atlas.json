@@ -1,0 +1,195 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 445,
+        "y": 1664
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1,
+        "y": 1443,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/c",
+        "w": 798,
+        "h": 190,
+        "x": 906,
+        "y": 89,
+        "fx": -100,
+        "fy": -102,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/d",
+        "w": 799,
+        "h": 190,
+        "x": 549,
+        "y": 1443,
+        "fx": -100,
+        "fy": -102,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1350,
+        "y": 1543,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/f",
+        "w": 279,
+        "h": 720,
+        "x": 1523,
+        "y": 464,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/g",
+        "w": 739,
+        "h": 181,
+        "x": 906,
+        "y": 281,
+        "fx": -132,
+        "fy": -106,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 467,
+        "y": 1664
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1647,
+        "y": 281,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1350,
+        "y": 1412,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 210,
+        "y": 1443
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/l",
+        "w": 278,
+        "h": 497,
+        "x": 1523,
+        "y": 1186,
+        "r": true,
+        "fx": -33,
+        "fy": -70,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/m",
+        "w": 53,
+        "h": 219,
+        "x": 445,
+        "y": 1443,
+        "r": true,
+        "fx": -141,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/n",
+        "w": 383,
+        "h": 86,
+        "x": 1350,
+        "y": 1,
+        "fx": -168,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/o",
+        "w": 47,
+        "h": 217,
+        "x": 500,
+        "y": 1443,
+        "r": true,
+        "fx": -70,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 618,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/q",
+        "w": 615,
+        "h": 946,
+        "x": 906,
+        "y": 464,
+        "r": true,
+        "fx": -85,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/r",
+        "w": 615,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_36/walking_armor/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 489,
+        "y": 1664
+    }
+]

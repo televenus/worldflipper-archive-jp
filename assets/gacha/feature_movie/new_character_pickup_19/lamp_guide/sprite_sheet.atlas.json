@@ -1,0 +1,137 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1174,
+        "y": 1275
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1208,
+        "y": 876
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1188,
+        "y": 1132,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/d",
+        "w": 187,
+        "h": 51,
+        "x": 1314,
+        "y": 1111,
+        "fx": -1,
+        "fy": -1,
+        "fw": 189,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/e",
+        "w": 77,
+        "h": 373,
+        "x": 1072,
+        "y": 876,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 375,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/f",
+        "w": 55,
+        "h": 254,
+        "x": 1151,
+        "y": 876,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 256,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1088,
+        "y": 1251,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/h",
+        "w": 777,
+        "h": 873,
+        "x": 1072,
+        "y": 1,
+        "fx": -104,
+        "fy": -145,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 1088,
+        "y": 1263,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/j",
+        "w": 1069,
+        "h": 1295,
+        "x": 1,
+        "y": 1,
+        "fx": -150,
+        "fy": -332,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1072,
+        "y": 1251,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1072,
+        "y": 1281,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1186,
+        "y": 1275
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_19/lamp_guide/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1187,
+        "y": 1263
+    }
+]

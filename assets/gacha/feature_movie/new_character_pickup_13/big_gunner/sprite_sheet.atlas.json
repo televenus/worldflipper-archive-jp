@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 262,
+        "y": 1549
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1750,
+        "y": 1041,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/c",
+        "w": 988,
+        "h": 229,
+        "x": 851,
+        "y": 1,
+        "fx": -14,
+        "fy": -81,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/d",
+        "w": 913,
+        "h": 218,
+        "x": 851,
+        "y": 232,
+        "fx": -51,
+        "fy": -85,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 262,
+        "y": 1443,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1468,
+        "y": 452,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/g",
+        "w": 913,
+        "h": 218,
+        "x": 851,
+        "y": 232,
+        "fx": -51,
+        "fy": -85,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 284,
+        "y": 1549
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1,
+        "y": 1443,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 131,
+        "y": 1443,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1468,
+        "y": 1174
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/l",
+        "w": 221,
+        "h": 587,
+        "x": 1750,
+        "y": 452,
+        "r": true,
+        "fx": -8,
+        "fy": -77,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/m",
+        "w": 384,
+        "h": 53,
+        "x": 220,
+        "y": 1574,
+        "fx": -59,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/n",
+        "w": 227,
+        "h": 86,
+        "x": 368,
+        "y": 1443,
+        "fx": -243,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/o",
+        "w": 217,
+        "h": 47,
+        "x": 1,
+        "y": 1583,
+        "fx": -70,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 563,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/q",
+        "w": 615,
+        "h": 1123,
+        "x": 851,
+        "y": 452,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/r",
+        "w": 560,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/big_gunner/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 306,
+        "y": 1549
+    }
+]

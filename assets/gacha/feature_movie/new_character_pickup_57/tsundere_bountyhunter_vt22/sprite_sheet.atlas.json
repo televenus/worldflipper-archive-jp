@@ -1,0 +1,159 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1101,
+        "y": 484
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 896,
+        "y": 1217
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 908,
+        "y": 277,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/d",
+        "w": 218,
+        "h": 48,
+        "x": 908,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 219,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/e",
+        "w": 75,
+        "h": 313,
+        "x": 1048,
+        "y": 153,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 314,
+        "fh": 76
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/f",
+        "w": 53,
+        "h": 362,
+        "x": 1046,
+        "y": 468,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 364,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1034,
+        "y": 277,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/h",
+        "w": 893,
+        "h": 729,
+        "x": 1,
+        "y": 1217,
+        "r": true,
+        "fx": -168,
+        "fy": -156,
+        "fw": 1038,
+        "fh": 1060
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1034,
+        "y": 377,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/j",
+        "w": 905,
+        "h": 1214,
+        "x": 1,
+        "y": 1,
+        "fx": -314,
+        "fy": -413,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1101,
+        "y": 468
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1118,
+        "y": 51
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1113,
+        "y": 484
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1101,
+        "y": 496
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 908,
+        "y": 51,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_57/tsundere_bountyhunter_vt22/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 908,
+        "y": 147,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

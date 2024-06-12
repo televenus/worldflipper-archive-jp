@@ -1,0 +1,157 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1111,
+        "y": 1504
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 891,
+        "y": 1269
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1021,
+        "y": 1780,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/d",
+        "w": 218,
+        "h": 48,
+        "x": 891,
+        "y": 1504,
+        "fx": 0,
+        "fy": -1,
+        "fw": 219,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/e",
+        "w": 205,
+        "h": 74,
+        "x": 891,
+        "y": 1704,
+        "fx": -1,
+        "fy": -1,
+        "fw": 207,
+        "fh": 76
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/f",
+        "w": 214,
+        "h": 52,
+        "x": 891,
+        "y": 1554,
+        "fx": 0,
+        "fy": -1,
+        "fw": 215,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1126,
+        "y": 1401,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/h",
+        "w": 888,
+        "h": 753,
+        "x": 1,
+        "y": 1269,
+        "r": true,
+        "fx": -155,
+        "fy": -227,
+        "fw": 1038,
+        "fh": 1124
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1126,
+        "y": 1501,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/j",
+        "w": 1146,
+        "h": 1266,
+        "x": 1,
+        "y": 1,
+        "fx": -73,
+        "fy": -322,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1126,
+        "y": 1269,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1126,
+        "y": 1299
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1111,
+        "y": 1516
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1111,
+        "y": 1528
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 891,
+        "y": 1608,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 891,
+        "y": 1780,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

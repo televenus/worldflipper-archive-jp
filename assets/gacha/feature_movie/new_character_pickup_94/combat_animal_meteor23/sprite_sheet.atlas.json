@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1312,
+        "y": 1189
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1256,
+        "y": 954
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1491,
+        "y": 1094,
+        "fx": -1,
+        "fy": 0,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/d",
+        "w": 220,
+        "h": 50,
+        "x": 1335,
+        "y": 1221,
+        "fx": -1,
+        "fy": -1,
+        "fw": 222,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/e",
+        "w": 74,
+        "h": 241,
+        "x": 1180,
+        "y": 954,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 244,
+        "fh": 76
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/f",
+        "w": 261,
+        "h": 55,
+        "x": 1072,
+        "y": 1223,
+        "fx": -1,
+        "fy": -1,
+        "fw": 263,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1310,
+        "y": 1209,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/h",
+        "w": 801,
+        "h": 951,
+        "x": 1072,
+        "y": 1,
+        "fx": -119,
+        "fy": -100,
+        "fw": 1038,
+        "fh": 1059
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 1210,
+        "y": 1209,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/j",
+        "w": 1069,
+        "h": 1288,
+        "x": 1,
+        "y": 1,
+        "fx": -150,
+        "fy": -400,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1180,
+        "y": 1197
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1210,
+        "y": 1197,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1324,
+        "y": 1189
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1336,
+        "y": 1189
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/o",
+        "w": 106,
+        "h": 267,
+        "x": 1072,
+        "y": 954,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 273,
+        "fh": 112
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1491,
+        "y": 954,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1272,
+        "y": 1110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1170,
+        "y": 875
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1535,
+        "y": 957,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/d",
+        "w": 222,
+        "h": 52,
+        "x": 1535,
+        "y": 1083,
+        "fx": -1,
+        "fy": -1,
+        "fw": 224,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/e",
+        "w": 385,
+        "h": 80,
+        "x": 1405,
+        "y": 875,
+        "fx": -1,
+        "fy": -2,
+        "fw": 387,
+        "fh": 83
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/f",
+        "w": 304,
+        "h": 56,
+        "x": 1661,
+        "y": 971,
+        "fx": -1,
+        "fy": -2,
+        "fw": 306,
+        "fh": 59
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1270,
+        "y": 1122,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/h",
+        "w": 830,
+        "h": 872,
+        "x": 1170,
+        "y": 1,
+        "fx": -74,
+        "fy": -183,
+        "fw": 1038,
+        "fh": 1063
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 1170,
+        "y": 1122,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/j",
+        "w": 1167,
+        "h": 1134,
+        "x": 1,
+        "y": 1,
+        "fx": -52,
+        "fy": -412,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1370,
+        "y": 1110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1170,
+        "y": 1110,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1284,
+        "y": 1110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1296,
+        "y": 1110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 1792,
+        "y": 875,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1405,
+        "y": 957,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

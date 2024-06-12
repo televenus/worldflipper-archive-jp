@@ -1,0 +1,207 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1443,
+        "y": 827
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1572,
+        "y": 1376,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/c",
+        "w": 278,
+        "h": 824,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -67,
+        "fy": -41,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/d",
+        "w": 278,
+        "h": 824,
+        "x": 1292,
+        "y": 854,
+        "r": true,
+        "fx": -67,
+        "fy": -41,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1572,
+        "y": 1626,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1010,
+        "y": 854,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/g",
+        "w": 762,
+        "h": 262,
+        "x": 1,
+        "y": 1471,
+        "fx": -100,
+        "fy": -49,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1781,
+        "y": 1586
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1000,
+        "y": 1576,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1140,
+        "y": 1576,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 765,
+        "y": 1471
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/l",
+        "w": 324,
+        "h": 547,
+        "x": 1572,
+        "y": 827,
+        "r": true,
+        "fx": -9,
+        "fy": -5,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/m",
+        "w": 53,
+        "h": 205,
+        "x": 1815,
+        "y": 1,
+        "r": true,
+        "fx": -150,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/n",
+        "w": 90,
+        "h": 404,
+        "x": 1723,
+        "y": 1,
+        "r": true,
+        "fx": -154,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/o",
+        "w": 46,
+        "h": 239,
+        "x": 1723,
+        "y": 407,
+        "r": true,
+        "fx": -57,
+        "fy": -4,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/q",
+        "w": 1007,
+        "h": 615,
+        "x": 1,
+        "y": 854,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/s",
+        "w": 94,
+        "h": 208,
+        "x": 1781,
+        "y": 1376,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/nikaido_saki/.gen/feature/t",
+        "w": 20,
+        "h": 20,
+        "x": 1723,
+        "y": 648
+    }
+]

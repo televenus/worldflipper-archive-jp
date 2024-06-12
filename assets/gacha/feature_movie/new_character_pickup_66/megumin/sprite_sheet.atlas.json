@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1087,
+        "y": 1624
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 878,
+        "y": 1257
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 957,
+        "y": 1728,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/d",
+        "w": 219,
+        "h": 48,
+        "x": 379,
+        "y": 1939,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/e",
+        "w": 77,
+        "h": 266,
+        "x": 878,
+        "y": 1722,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 268,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/f",
+        "w": 376,
+        "h": 53,
+        "x": 1,
+        "y": 1939,
+        "fx": -1,
+        "fy": 0,
+        "fw": 378,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1100,
+        "y": 1522,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/h",
+        "w": 875,
+        "h": 680,
+        "x": 1,
+        "y": 1257,
+        "r": true,
+        "fx": -169,
+        "fy": -198,
+        "fw": 1038,
+        "fh": 1082
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1100,
+        "y": 1622,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/j",
+        "w": 1106,
+        "h": 1254,
+        "x": 1,
+        "y": 1,
+        "fx": -113,
+        "fy": -276,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1088,
+        "y": 1492,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1088,
+        "y": 1522
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1087,
+        "y": 1636
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1087,
+        "y": 1648
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 878,
+        "y": 1492,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/megumin/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 957,
+        "y": 1588,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

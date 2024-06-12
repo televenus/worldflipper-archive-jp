@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 936,
+        "y": 1416
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1255,
+        "y": 1486,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/c",
+        "w": 740,
+        "h": 250,
+        "x": 1,
+        "y": 1698,
+        "fx": -152,
+        "fy": -63,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/d",
+        "w": 250,
+        "h": 740,
+        "x": 1003,
+        "y": 799,
+        "r": true,
+        "fx": -152,
+        "fy": -63,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1175,
+        "y": 1835,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 1,
+        "y": 1416
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/g",
+        "w": 236,
+        "h": 685,
+        "x": 1255,
+        "y": 799,
+        "r": true,
+        "fx": -178,
+        "fy": -68,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1443,
+        "y": 265
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1175,
+        "y": 1695,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1305,
+        "y": 1695,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 936,
+        "y": 1541
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/l",
+        "w": 191,
+        "h": 543,
+        "x": 743,
+        "y": 1416,
+        "r": true,
+        "fx": -8,
+        "fy": -80,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/m",
+        "w": 54,
+        "h": 262,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -120,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/n",
+        "w": 237,
+        "h": 89,
+        "x": 936,
+        "y": 1776,
+        "fx": -240,
+        "fy": -6,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/o",
+        "w": 180,
+        "h": 47,
+        "x": 936,
+        "y": 1867,
+        "fx": -88,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 563,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/q",
+        "w": 1000,
+        "h": 615,
+        "x": 1,
+        "y": 799,
+        "fx": -66,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_13/pirates_gunner/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1171,
+        "y": 1541
+    }
+]

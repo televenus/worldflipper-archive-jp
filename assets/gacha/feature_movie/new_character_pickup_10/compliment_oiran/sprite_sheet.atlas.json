@@ -1,0 +1,134 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1189,
+        "y": 967
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1813,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1813,
+        "y": 340,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/d",
+        "w": 219,
+        "h": 48,
+        "x": 1813,
+        "y": 236,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/e",
+        "w": 184,
+        "h": 74,
+        "x": 1189,
+        "y": 891,
+        "fx": -1,
+        "fy": 0,
+        "fw": 186,
+        "fh": 75
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/f",
+        "w": 218,
+        "h": 52,
+        "x": 1813,
+        "y": 286,
+        "fx": -1,
+        "fy": -1,
+        "fw": 220,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 2033,
+        "y": 338,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/h",
+        "w": 634,
+        "h": 888,
+        "x": 1177,
+        "y": 1,
+        "fx": -178,
+        "fy": -153,
+        "fw": 1038,
+        "fh": 1052
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1177,
+        "y": 891,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/j",
+        "w": 1174,
+        "h": 1009,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -210,
+        "fy": -374,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1177,
+        "y": 991
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 2034,
+        "y": 236
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1189,
+        "y": 979
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_10/compliment_oiran/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1201,
+        "y": 967
+    }
+]

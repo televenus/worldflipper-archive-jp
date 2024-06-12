@@ -1,0 +1,195 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 854,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1713,
+        "y": 1114,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/c",
+        "w": 890,
+        "h": 303,
+        "x": 1,
+        "y": 1443,
+        "fx": -90,
+        "fy": -46,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/d",
+        "w": 890,
+        "h": 303,
+        "x": 893,
+        "y": 1442,
+        "fx": -90,
+        "fy": -46,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1141,
+        "y": 618,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1431,
+        "y": 697,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/g",
+        "w": 285,
+        "h": 822,
+        "x": 854,
+        "y": 618,
+        "r": true,
+        "fx": -122,
+        "fy": -54,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 854,
+        "y": 23
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1785,
+        "y": 618,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1785,
+        "y": 748,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1713,
+        "y": 879
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/l",
+        "w": 288,
+        "h": 691,
+        "x": 1141,
+        "y": 748,
+        "r": true,
+        "fx": 0,
+        "fy": -23,
+        "fw": 692,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/m",
+        "w": 54,
+        "h": 312,
+        "x": 1874,
+        "y": 1,
+        "r": true,
+        "fx": -94,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/n",
+        "w": 230,
+        "h": 77,
+        "x": 1247,
+        "y": 618,
+        "fx": -241,
+        "fy": -14,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/o",
+        "w": 47,
+        "h": 215,
+        "x": 1874,
+        "y": 315,
+        "r": true,
+        "fx": -71,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 618,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/q",
+        "w": 979,
+        "h": 615,
+        "x": 893,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/r",
+        "w": 615,
+        "h": 1440,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_21/sorceress_teacher/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 854,
+        "y": 45
+    }
+]

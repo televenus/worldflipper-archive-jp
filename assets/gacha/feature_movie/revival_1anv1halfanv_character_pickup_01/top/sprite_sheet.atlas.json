@@ -1,0 +1,259 @@
+[
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 964,
+        "y": 1826
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/b",
+        "w": 99,
+        "h": 10,
+        "x": 674,
+        "y": 1637,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/c",
+        "w": 360,
+        "h": 210,
+        "x": 834,
+        "y": 1379,
+        "fx": 0,
+        "fy": -37,
+        "fw": 360,
+        "fh": 247
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/d",
+        "w": 14,
+        "h": 28,
+        "x": 1178,
+        "y": 1591,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/e",
+        "w": 10,
+        "h": 180,
+        "x": 1278,
+        "y": 1379
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/f",
+        "w": 10,
+        "h": 10,
+        "x": 964,
+        "y": 1740
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/g",
+        "w": 40,
+        "h": 39,
+        "x": 1109,
+        "y": 1658,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/h",
+        "w": 138,
+        "h": 128,
+        "x": 1178,
+        "y": 1629,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/i",
+        "w": 40,
+        "h": 40,
+        "x": 1067,
+        "y": 1658
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/j",
+        "w": 1315,
+        "h": 1376,
+        "x": 1,
+        "y": 1,
+        "fx": -125,
+        "fy": -295,
+        "fw": 1440,
+        "fh": 2040
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/k",
+        "w": 80,
+        "h": 248,
+        "x": 1196,
+        "y": 1379,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/l",
+        "w": 322,
+        "h": 80,
+        "x": 674,
+        "y": 1658,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/m",
+        "w": 831,
+        "h": 218,
+        "x": 1,
+        "y": 1379,
+        "fx": -1,
+        "fy": -1,
+        "fw": 833,
+        "fh": 220
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/n",
+        "w": 98,
+        "h": 98,
+        "x": 864,
+        "y": 1740,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/o",
+        "w": 40,
+        "h": 35,
+        "x": 1067,
+        "y": 1700,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/p",
+        "w": 67,
+        "h": 70,
+        "x": 998,
+        "y": 1658,
+        "fx": -2,
+        "fy": -3,
+        "fw": 71,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/q",
+        "w": 57,
+        "h": 59,
+        "x": 1238,
+        "y": 1759,
+        "fx": -3,
+        "fy": -3,
+        "fw": 61,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/r",
+        "w": 38,
+        "h": 40,
+        "x": 1278,
+        "y": 1561,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 44
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/s",
+        "w": 40,
+        "h": 35,
+        "x": 1109,
+        "y": 1699,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/t",
+        "w": 40,
+        "h": 35,
+        "x": 553,
+        "y": 1795,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/u",
+        "w": 550,
+        "h": 84,
+        "x": 1,
+        "y": 1730,
+        "fx": -4,
+        "fy": -4,
+        "fw": 559,
+        "fh": 92
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/v",
+        "w": 671,
+        "h": 91,
+        "x": 1,
+        "y": 1637,
+        "fx": -5,
+        "fy": -4,
+        "fw": 679,
+        "fh": 98
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/w",
+        "w": 309,
+        "h": 53,
+        "x": 553,
+        "y": 1740
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/x",
+        "w": 823,
+        "h": 36,
+        "x": 1,
+        "y": 1599,
+        "fx": -3,
+        "fy": -1,
+        "fw": 829,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/y",
+        "w": 272,
+        "h": 65,
+        "x": 964,
+        "y": 1759,
+        "fx": 0,
+        "fy": 0,
+        "fw": 272,
+        "fh": 66
+    },
+    {
+        "n": "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/.gen/feature/z",
+        "w": 342,
+        "h": 65,
+        "x": 834,
+        "y": 1591,
+        "fx": 0,
+        "fy": 0,
+        "fw": 342,
+        "fh": 66
+    }
+]

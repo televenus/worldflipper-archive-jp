@@ -1,0 +1,161 @@
+[
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1438,
+        "y": 980
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1103,
+        "y": 758
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1696,
+        "y": 758,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/d",
+        "w": 52,
+        "h": 221,
+        "x": 1338,
+        "y": 758,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/e",
+        "w": 76,
+        "h": 201,
+        "x": 1488,
+        "y": 758,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 203,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/f",
+        "w": 302,
+        "h": 55,
+        "x": 13,
+        "y": 880,
+        "fx": -1,
+        "fy": -1,
+        "fw": 304,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1338,
+        "y": 981,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/h",
+        "w": 866,
+        "h": 755,
+        "x": 1103,
+        "y": 1,
+        "r": true,
+        "fx": -128,
+        "fy": -189,
+        "fw": 1038,
+        "fh": 1064
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 1392,
+        "y": 968,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/j",
+        "w": 1100,
+        "h": 877,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -342,
+        "fy": -380,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1491,
+        "y": 961,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1,
+        "y": 880
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1450,
+        "y": 980
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1462,
+        "y": 980
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 1392,
+        "y": 758,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/ny20/lightbullet_wiz_ny20/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1566,
+        "y": 758,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

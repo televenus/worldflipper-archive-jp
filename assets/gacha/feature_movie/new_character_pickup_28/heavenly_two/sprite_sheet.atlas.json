@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 894,
+        "y": 1256
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1,
+        "y": 1734
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 462,
+        "y": 1734,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/d",
+        "w": 48,
+        "h": 251,
+        "x": 844,
+        "y": 1205,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 252,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/e",
+        "w": 303,
+        "h": 77,
+        "x": 332,
+        "y": 1874,
+        "fx": -1,
+        "fy": -1,
+        "fw": 305,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/f",
+        "w": 52,
+        "h": 279,
+        "x": 844,
+        "y": 924,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 280,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 898,
+        "y": 1056,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/h",
+        "w": 841,
+        "h": 808,
+        "x": 1,
+        "y": 924,
+        "r": true,
+        "fx": -103,
+        "fy": -214,
+        "fw": 1038,
+        "fh": 1064
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 898,
+        "y": 1156,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/j",
+        "w": 918,
+        "h": 921,
+        "x": 1,
+        "y": 1,
+        "fx": -301,
+        "fy": -473,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 898,
+        "y": 924,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 898,
+        "y": 954
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 906,
+        "y": 1256
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 894,
+        "y": 1268
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 236,
+        "y": 1734,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_28/heavenly_two/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 332,
+        "y": 1734,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

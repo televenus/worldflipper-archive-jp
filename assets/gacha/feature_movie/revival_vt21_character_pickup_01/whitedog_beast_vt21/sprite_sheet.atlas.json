@@ -1,0 +1,156 @@
+[
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 17,
+        "y": 969
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 622,
+        "y": 772
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 131,
+        "y": 829,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/d",
+        "w": 51,
+        "h": 221,
+        "x": 857,
+        "y": 772,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/e",
+        "w": 320,
+        "h": 77,
+        "x": 257,
+        "y": 829,
+        "fx": -1,
+        "fy": -1,
+        "fw": 322,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/f",
+        "w": 379,
+        "h": 55,
+        "x": 1006,
+        "y": 772,
+        "fx": -1,
+        "fy": -1,
+        "fw": 381,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/g",
+        "w": 89,
+        "h": 10,
+        "x": 959,
+        "y": 994,
+        "r": true,
+        "fx": 0,
+        "fy": -11,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/h",
+        "w": 619,
+        "h": 826,
+        "x": 1,
+        "y": 1,
+        "fx": -261,
+        "fy": -158,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/i",
+        "w": 100,
+        "h": 10,
+        "x": 857,
+        "y": 995
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/j",
+        "w": 1088,
+        "h": 769,
+        "x": 622,
+        "y": 1,
+        "r": true,
+        "fx": -450,
+        "fy": -381,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1,
+        "y": 969,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 910,
+        "y": 982,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 17,
+        "y": 981
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 17,
+        "y": 993
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 910,
+        "y": 772,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 1,
+        "y": 829,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

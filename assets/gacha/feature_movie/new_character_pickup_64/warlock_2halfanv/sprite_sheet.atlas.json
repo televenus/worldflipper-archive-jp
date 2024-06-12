@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1082,
+        "y": 1549
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 887,
+        "y": 1164
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 945,
+        "y": 1757,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/d",
+        "w": 221,
+        "h": 52,
+        "x": 887,
+        "y": 1399,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/e",
+        "w": 193,
+        "h": 76,
+        "x": 887,
+        "y": 1549,
+        "fx": -1,
+        "fy": -2,
+        "fw": 196,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/f",
+        "w": 56,
+        "h": 262,
+        "x": 887,
+        "y": 1627,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 264,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1097,
+        "y": 1453,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/h",
+        "w": 884,
+        "h": 726,
+        "x": 1,
+        "y": 1164,
+        "r": true,
+        "fx": -136,
+        "fy": -132,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1109,
+        "y": 1501,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/j",
+        "w": 925,
+        "h": 1161,
+        "x": 1,
+        "y": 1,
+        "fx": -294,
+        "fy": -392,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1082,
+        "y": 1601
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1110,
+        "y": 1399
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1094,
+        "y": 1553
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1082,
+        "y": 1561
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 887,
+        "y": 1453,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 945,
+        "y": 1627,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

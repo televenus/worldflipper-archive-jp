@@ -1,0 +1,158 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1035,
+        "y": 1368
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 660,
+        "y": 1289
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 895,
+        "y": 1498,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/d",
+        "w": 257,
+        "h": 51,
+        "x": 660,
+        "y": 1236,
+        "fx": -1,
+        "fy": -1,
+        "fw": 259,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/e",
+        "w": 327,
+        "h": 79,
+        "x": 660,
+        "y": 1155,
+        "fx": -1,
+        "fy": -1,
+        "fw": 330,
+        "fh": 81
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/f",
+        "w": 56,
+        "h": 211,
+        "x": 989,
+        "y": 1155,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 213,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1047,
+        "y": 1287,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/h",
+        "w": 657,
+        "h": 851,
+        "x": 1,
+        "y": 1155,
+        "fx": -211,
+        "fy": -199,
+        "fw": 1038,
+        "fh": 1059
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/i",
+        "w": 10,
+        "h": 97,
+        "x": 919,
+        "y": 1236,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/j",
+        "w": 1065,
+        "h": 1152,
+        "x": 1,
+        "y": 1,
+        "fx": -4,
+        "fy": -303,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1047,
+        "y": 1155,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1047,
+        "y": 1185
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1035,
+        "y": 1380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1047,
+        "y": 1387
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/o",
+        "w": 208,
+        "h": 94,
+        "x": 660,
+        "y": 1524,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 895,
+        "y": 1368,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

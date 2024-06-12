@@ -1,0 +1,137 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1074,
+        "y": 178
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 864,
+        "y": 1204
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 871,
+        "y": 112,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/d",
+        "w": 222,
+        "h": 52,
+        "x": 871,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 224,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/e",
+        "w": 75,
+        "h": 256,
+        "x": 997,
+        "y": 148,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 259,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/f",
+        "w": 221,
+        "h": 55,
+        "x": 871,
+        "y": 55,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 997,
+        "y": 136,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/h",
+        "w": 861,
+        "h": 671,
+        "x": 1,
+        "y": 1204,
+        "r": true,
+        "fx": -247,
+        "fy": -151,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 997,
+        "y": 124,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/j",
+        "w": 868,
+        "h": 1201,
+        "x": 1,
+        "y": 1,
+        "fx": -301,
+        "fy": -496,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1074,
+        "y": 148,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 997,
+        "y": 112,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1086,
+        "y": 178
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_40/stylish_witch/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1074,
+        "y": 190
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1677,
+        "y": 1701
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/c",
+        "w": 273,
+        "h": 1015,
+        "x": 1,
+        "y": 618,
+        "r": true,
+        "fx": -1,
+        "fy": -87,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/d",
+        "w": 273,
+        "h": 1015,
+        "x": 276,
+        "y": 618,
+        "r": true,
+        "fx": -1,
+        "fy": -87,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 551,
+        "y": 1586,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 1,
+        "y": 1701
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/g",
+        "w": 952,
+        "h": 270,
+        "x": 723,
+        "y": 1701,
+        "fx": -40,
+        "fy": -90,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1677,
+        "y": 1723
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1143,
+        "y": 1470,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1273,
+        "y": 1470,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1143,
+        "y": 1235
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/l",
+        "w": 590,
+        "h": 349,
+        "x": 551,
+        "y": 1235,
+        "fx": -17,
+        "fy": -13,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/m",
+        "w": 267,
+        "h": 54,
+        "x": 1,
+        "y": 1635,
+        "fx": -117,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/n",
+        "w": 81,
+        "h": 298,
+        "x": 1360,
+        "y": 618,
+        "r": true,
+        "fx": -212,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/o",
+        "w": 242,
+        "h": 47,
+        "x": 1443,
+        "y": 210,
+        "fx": -57,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/p",
+        "w": 234,
+        "h": 1440,
+        "x": 1443,
+        "y": 259,
+        "r": true,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/q",
+        "w": 807,
+        "h": 615,
+        "x": 551,
+        "y": 618,
+        "fx": -107,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_14/sanctuary_guard/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1677,
+        "y": 1745
+    }
+]

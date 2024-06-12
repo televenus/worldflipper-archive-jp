@@ -1,0 +1,205 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1,
+        "y": 1772
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1492,
+        "y": 1515,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/c",
+        "w": 907,
+        "h": 299,
+        "x": 1,
+        "y": 1471,
+        "fx": -59,
+        "fy": -56,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/d",
+        "w": 299,
+        "h": 907,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -59,
+        "fy": -56,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1706,
+        "y": 1724,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1210,
+        "y": 910,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/g",
+        "w": 281,
+        "h": 838,
+        "x": 927,
+        "y": 854,
+        "r": true,
+        "fx": -93,
+        "fy": -63,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1120,
+        "y": 1694
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1445,
+        "y": 1724,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1575,
+        "y": 1724,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1210,
+        "y": 1632
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/l",
+        "w": 290,
+        "h": 603,
+        "x": 1492,
+        "y": 910,
+        "r": true,
+        "fx": 0,
+        "fy": -12,
+        "fw": 685,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/m",
+        "w": 201,
+        "h": 53,
+        "x": 1210,
+        "y": 854,
+        "fx": -152,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/n",
+        "w": 87,
+        "h": 298,
+        "x": 1744,
+        "y": 1,
+        "r": true,
+        "fx": -205,
+        "fy": -9,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/o",
+        "w": 47,
+        "h": 182,
+        "x": 1744,
+        "y": 301,
+        "r": true,
+        "fx": -87,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/q",
+        "w": 924,
+        "h": 615,
+        "x": 1,
+        "y": 854,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/s",
+        "w": 208,
+        "h": 94,
+        "x": 910,
+        "y": 1694,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_zcollabo_1/minamoto_sakura/.gen/feature/t",
+        "w": 20,
+        "h": 20,
+        "x": 1413,
+        "y": 854
+    }
+]

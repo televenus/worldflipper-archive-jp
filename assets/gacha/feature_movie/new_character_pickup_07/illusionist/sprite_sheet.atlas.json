@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1499,
+        "y": 291
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/b",
+        "w": 248,
+        "h": 207,
+        "x": 1588,
+        "y": 723,
+        "r": true,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/c",
+        "w": 968,
+        "h": 306,
+        "x": 618,
+        "y": 350,
+        "fx": -12,
+        "fy": -25,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/d",
+        "w": 968,
+        "h": 306,
+        "x": 618,
+        "y": 658,
+        "fx": -12,
+        "fy": -25,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1734,
+        "y": 1203,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/f",
+        "w": 280,
+        "h": 720,
+        "x": 1588,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/g",
+        "w": 289,
+        "h": 895,
+        "x": 1443,
+        "y": 966,
+        "r": true,
+        "fx": -50,
+        "fy": -33,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1517,
+        "y": 222
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1734,
+        "y": 932,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1734,
+        "y": 1072,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1248,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/l",
+        "w": 628,
+        "h": 347,
+        "x": 618,
+        "y": 1,
+        "fx": -48,
+        "fy": -7,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/m",
+        "w": 267,
+        "h": 53,
+        "x": 1248,
+        "y": 236,
+        "fx": -117,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/n",
+        "w": 86,
+        "h": 219,
+        "x": 1483,
+        "y": 1,
+        "r": true,
+        "fx": -245,
+        "fy": -9,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/o",
+        "w": 249,
+        "h": 48,
+        "x": 1248,
+        "y": 291,
+        "fx": -54,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/p",
+        "w": 1440,
+        "h": 286,
+        "x": 1,
+        "y": 1555,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/q",
+        "w": 615,
+        "h": 990,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 993
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_07/illusionist/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1517,
+        "y": 244
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1027,
+        "y": 333
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 812,
+        "y": 1048
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 812,
+        "y": 1333,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/d",
+        "w": 219,
+        "h": 48,
+        "x": 812,
+        "y": 1283,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/e",
+        "w": 74,
+        "h": 243,
+        "x": 938,
+        "y": 1333,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 245,
+        "fh": 75
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/f",
+        "w": 53,
+        "h": 283,
+        "x": 812,
+        "y": 1459,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 285,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1027,
+        "y": 133,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/h",
+        "w": 809,
+        "h": 889,
+        "x": 1,
+        "y": 1048,
+        "fx": -117,
+        "fy": -220,
+        "fw": 1038,
+        "fh": 1120
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1027,
+        "y": 233,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/j",
+        "w": 1024,
+        "h": 1045,
+        "x": 1,
+        "y": 1,
+        "fx": -195,
+        "fy": -485,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1027,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1027,
+        "y": 31
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1027,
+        "y": 345
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_91/summoner_little_smr23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1027,
+        "y": 357
+    }
+]

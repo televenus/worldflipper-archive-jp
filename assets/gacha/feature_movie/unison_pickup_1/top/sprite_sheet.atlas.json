@@ -1,0 +1,175 @@
+[
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1417,
+        "y": 627
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/b",
+        "w": 10,
+        "h": 10,
+        "x": 1429,
+        "y": 627
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/c",
+        "w": 39,
+        "h": 39,
+        "x": 1502,
+        "y": 1143,
+        "fx": -2,
+        "fy": -2,
+        "fw": 43,
+        "fh": 42
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/d",
+        "w": 50,
+        "h": 49,
+        "x": 1365,
+        "y": 941,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 52,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/e",
+        "w": 32,
+        "h": 32,
+        "x": 1543,
+        "y": 1143,
+        "fx": -1,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/f",
+        "w": 61,
+        "h": 61,
+        "x": 868,
+        "y": 1075,
+        "fx": -2,
+        "fy": -2,
+        "fw": 64,
+        "fh": 65
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/g",
+        "w": 61,
+        "h": 32,
+        "x": 1439,
+        "y": 1143,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/h",
+        "w": 360,
+        "h": 76,
+        "x": 868,
+        "y": 941,
+        "fx": 0,
+        "fy": -9,
+        "fw": 360,
+        "fh": 85
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/i",
+        "w": 201,
+        "h": 216,
+        "x": 1417,
+        "y": 643,
+        "fx": 0,
+        "fy": -15,
+        "fw": 201,
+        "fh": 231
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/j",
+        "w": 360,
+        "h": 312,
+        "x": 720,
+        "y": 627,
+        "fx": 0,
+        "fy": 0,
+        "fw": 371,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/k",
+        "w": 333,
+        "h": 312,
+        "x": 1082,
+        "y": 627
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/l",
+        "w": 717,
+        "h": 312,
+        "x": 1,
+        "y": 627,
+        "fx": 0,
+        "fy": 0,
+        "fw": 720,
+        "fh": 312
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/m",
+        "w": 90,
+        "h": 280,
+        "x": 1417,
+        "y": 861
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/n",
+        "w": 90,
+        "h": 280,
+        "x": 1509,
+        "y": 861
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/o",
+        "w": 1440,
+        "h": 624,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/p",
+        "w": 865,
+        "h": 247,
+        "x": 1,
+        "y": 941,
+        "fx": 0,
+        "fy": -6,
+        "fw": 871,
+        "fh": 253
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/q",
+        "w": 569,
+        "h": 45,
+        "x": 868,
+        "y": 1143
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/r",
+        "w": 175,
+        "h": 640,
+        "x": 1443,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/unison_pickup_1/top/.gen/feature/s",
+        "w": 133,
+        "h": 132,
+        "x": 1230,
+        "y": 941,
+        "r": true
+    }
+]

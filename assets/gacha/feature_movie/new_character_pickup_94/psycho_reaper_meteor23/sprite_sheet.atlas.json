@@ -1,0 +1,161 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1301,
+        "y": 1261
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1283,
+        "y": 899
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1175,
+        "y": 1163,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/d",
+        "w": 221,
+        "h": 52,
+        "x": 1313,
+        "y": 1162,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/e",
+        "w": 81,
+        "h": 257,
+        "x": 1200,
+        "y": 899,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 259,
+        "fh": 84
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/f",
+        "w": 55,
+        "h": 262,
+        "x": 1143,
+        "y": 899,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 265,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1313,
+        "y": 1134,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/h",
+        "w": 861,
+        "h": 896,
+        "x": 1035,
+        "y": 1,
+        "fx": -100,
+        "fy": -120,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/i",
+        "w": 10,
+        "h": 97,
+        "x": 1301,
+        "y": 1162,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/j",
+        "w": 1032,
+        "h": 1296,
+        "x": 1,
+        "y": 1,
+        "fx": -187,
+        "fy": -372,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1283,
+        "y": 1134
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1283,
+        "y": 1150,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1301,
+        "y": 1273
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1301,
+        "y": 1285
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/o",
+        "w": 106,
+        "h": 267,
+        "x": 1035,
+        "y": 899,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 273,
+        "fh": 112
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/.gen/feature/p",
+        "w": 138,
+        "h": 128,
+        "x": 1035,
+        "y": 1168,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

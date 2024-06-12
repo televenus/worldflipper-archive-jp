@@ -1,0 +1,190 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 807,
+        "y": 1683
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1443,
+        "y": 1108,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/c",
+        "w": 210,
+        "h": 870,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": -81,
+        "fy": -95,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/d",
+        "w": 871,
+        "h": 210,
+        "x": 1,
+        "y": 1471,
+        "fx": -80,
+        "fy": -95,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1443,
+        "y": 1358,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/f",
+        "w": 720,
+        "h": 280,
+        "x": 874,
+        "y": 1471
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/g",
+        "w": 804,
+        "h": 199,
+        "x": 1,
+        "y": 1683,
+        "fx": -113,
+        "fy": -99,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1184,
+        "y": 1148
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/i",
+        "w": 138,
+        "h": 128,
+        "x": 1480,
+        "y": 1753,
+        "r": true,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 807,
+        "y": 1753,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 1424,
+        "y": 873
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/l",
+        "w": 238,
+        "h": 473,
+        "x": 1184,
+        "y": 618,
+        "r": true,
+        "fx": -50,
+        "fy": -62,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/m",
+        "w": 223,
+        "h": 53,
+        "x": 1184,
+        "y": 1093,
+        "fx": -139,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/n",
+        "w": 291,
+        "h": 83,
+        "x": 938,
+        "y": 1753,
+        "fx": -221,
+        "fy": -11,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/o",
+        "w": 247,
+        "h": 48,
+        "x": 1231,
+        "y": 1753,
+        "fx": -54,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/p",
+        "w": 1440,
+        "h": 234,
+        "x": 1,
+        "y": 1235,
+        "fx": 0,
+        "fy": -7,
+        "fw": 1440,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/q",
+        "w": 1181,
+        "h": 615,
+        "x": 1,
+        "y": 618,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/r",
+        "w": 1440,
+        "h": 615,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_29/halberd_princess/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1549,
+        "y": 1358
+    }
+]

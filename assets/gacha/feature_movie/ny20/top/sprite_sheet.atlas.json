@@ -1,0 +1,218 @@
+[
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1356,
+        "y": 936
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/aa",
+        "w": 569,
+        "h": 45,
+        "x": 1,
+        "y": 1471
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/b",
+        "w": 61,
+        "h": 1440,
+        "x": 1368,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 624
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/c",
+        "w": 82,
+        "h": 82,
+        "x": 1068,
+        "y": 1414
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/d",
+        "w": 10,
+        "h": 10,
+        "x": 1356,
+        "y": 948
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/e",
+        "w": 496,
+        "h": 156,
+        "x": 723,
+        "y": 788
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/f",
+        "w": 720,
+        "h": 312,
+        "x": 1,
+        "y": 788
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/g",
+        "w": 68,
+        "h": 131,
+        "x": 1238,
+        "y": 936,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/h",
+        "w": 140,
+        "h": 146,
+        "x": 1221,
+        "y": 788
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/i",
+        "w": 449,
+        "h": 184,
+        "x": 723,
+        "y": 946,
+        "fx": -14,
+        "fy": -6,
+        "fw": 477,
+        "fh": 190
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/j",
+        "w": 85,
+        "h": 360,
+        "x": 593,
+        "y": 1102,
+        "r": true,
+        "fx": 0,
+        "fy": -10,
+        "fw": 360,
+        "fh": 95
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/k",
+        "w": 97,
+        "h": 95,
+        "x": 1238,
+        "y": 1176
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/l",
+        "w": 85,
+        "h": 105,
+        "x": 1238,
+        "y": 1069
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/m",
+        "w": 103,
+        "h": 98,
+        "x": 1024,
+        "y": 1132
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/n",
+        "w": 84,
+        "h": 98,
+        "x": 1152,
+        "y": 1218
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/o",
+        "w": 85,
+        "h": 13,
+        "x": 593,
+        "y": 1464,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/p",
+        "w": 590,
+        "h": 367,
+        "x": 1,
+        "y": 1102
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/q",
+        "w": 32,
+        "h": 77,
+        "x": 1129,
+        "y": 1132,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/r",
+        "w": 46,
+        "h": 116,
+        "x": 1308,
+        "y": 936,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/s",
+        "w": 24,
+        "h": 68,
+        "x": 1126,
+        "y": 1232
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/t",
+        "w": 62,
+        "h": 270,
+        "x": 1174,
+        "y": 946
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/u",
+        "w": 386,
+        "h": 67,
+        "x": 680,
+        "y": 1414
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/v",
+        "w": 342,
+        "h": 196,
+        "x": 680,
+        "y": 1132,
+        "fx": -4,
+        "fy": -3,
+        "fw": 346,
+        "fh": 199
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/w",
+        "w": 100,
+        "h": 96,
+        "x": 1024,
+        "y": 1232,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/x",
+        "w": 1365,
+        "h": 785,
+        "x": 1,
+        "y": 1,
+        "fx": -19,
+        "fy": -11,
+        "fw": 1384,
+        "fh": 796
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/y",
+        "w": 10,
+        "h": 10,
+        "x": 1356,
+        "y": 960
+    },
+    {
+        "n": "gacha/feature_movie/ny20/top/.gen/feature/z",
+        "w": 430,
+        "h": 82,
+        "x": 680,
+        "y": 1330
+    }
+]

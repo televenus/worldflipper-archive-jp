@@ -1,0 +1,137 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1141,
+        "y": 1659
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 924,
+        "y": 1092
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 924,
+        "y": 1432,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/d",
+        "w": 219,
+        "h": 48,
+        "x": 924,
+        "y": 1327,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 50
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/e",
+        "w": 78,
+        "h": 392,
+        "x": 1061,
+        "y": 1377,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 393,
+        "fh": 79
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/f",
+        "w": 135,
+        "h": 53,
+        "x": 924,
+        "y": 1377,
+        "fx": -1,
+        "fy": -1,
+        "fw": 137,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1141,
+        "y": 1459,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/h",
+        "w": 921,
+        "h": 836,
+        "x": 1,
+        "y": 1092,
+        "r": true,
+        "fx": -136,
+        "fy": -81,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1141,
+        "y": 1559,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/j",
+        "w": 1145,
+        "h": 1089,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -130,
+        "fy": -229,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1141,
+        "y": 1429,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1145,
+        "y": 1327
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1141,
+        "y": 1671
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1141,
+        "y": 1683
+    }
+]

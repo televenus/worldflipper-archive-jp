@@ -1,0 +1,135 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1146,
+        "y": 1178
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1016,
+        "y": 943
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1251,
+        "y": 943,
+        "fx": -1,
+        "fy": 0,
+        "fw": 125,
+        "fh": 125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/d",
+        "w": 50,
+        "h": 255,
+        "x": 964,
+        "y": 943,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 257,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/e",
+        "w": 398,
+        "h": 81,
+        "x": 1251,
+        "y": 1069,
+        "fx": -1,
+        "fy": -1,
+        "fw": 400,
+        "fh": 83
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/f",
+        "w": 318,
+        "h": 55,
+        "x": 1377,
+        "y": 943,
+        "fx": -2,
+        "fy": -1,
+        "fw": 321,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 1046,
+        "y": 1178,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/h",
+        "w": 878,
+        "h": 940,
+        "x": 964,
+        "y": 1,
+        "fx": -76,
+        "fy": -71,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 1118,
+        "y": 1190,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/j",
+        "w": 961,
+        "h": 1204,
+        "x": 1,
+        "y": 1,
+        "fx": -258,
+        "fy": -456,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1016,
+        "y": 1178
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 1016,
+        "y": 1194,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1158,
+        "y": 1178
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1170,
+        "y": 1178
+    }
+]

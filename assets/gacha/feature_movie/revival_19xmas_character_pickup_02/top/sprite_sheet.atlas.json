@@ -1,0 +1,268 @@
+[
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1024,
+        "y": 1856
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/aa",
+        "w": 60,
+        "h": 250,
+        "x": 1326,
+        "y": 1563,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/ab",
+        "w": 226,
+        "h": 60,
+        "x": 1024,
+        "y": 1794
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/b",
+        "w": 98,
+        "h": 10,
+        "x": 183,
+        "y": 1882,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 99
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/c",
+        "w": 360,
+        "h": 147,
+        "x": 834,
+        "y": 1563,
+        "fx": 0,
+        "fy": -37,
+        "fw": 360,
+        "fh": 184
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/d",
+        "w": 14,
+        "h": 28,
+        "x": 1219,
+        "y": 1764,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/e",
+        "w": 180,
+        "h": 10,
+        "x": 1,
+        "y": 1882,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/f",
+        "w": 10,
+        "h": 10,
+        "x": 283,
+        "y": 1882
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/g",
+        "w": 40,
+        "h": 39,
+        "x": 774,
+        "y": 1735,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/h",
+        "w": 128,
+        "h": 138,
+        "x": 1196,
+        "y": 1563,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/i",
+        "w": 40,
+        "h": 40,
+        "x": 1386,
+        "y": 1477
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/j",
+        "w": 1440,
+        "h": 1474,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -11,
+        "fw": 1440,
+        "fh": 1485
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/k",
+        "w": 248,
+        "h": 80,
+        "x": 774,
+        "y": 1794,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/l",
+        "w": 322,
+        "h": 80,
+        "x": 826,
+        "y": 1712,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/m",
+        "w": 831,
+        "h": 218,
+        "x": 1,
+        "y": 1477,
+        "fx": -1,
+        "fy": -1,
+        "fw": 833,
+        "fh": 220
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/n",
+        "w": 98,
+        "h": 98,
+        "x": 674,
+        "y": 1735,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/o",
+        "w": 35,
+        "h": 40,
+        "x": 1386,
+        "y": 1519
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/p",
+        "w": 67,
+        "h": 70,
+        "x": 1150,
+        "y": 1712,
+        "fx": -2,
+        "fy": -3,
+        "fw": 71,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/q",
+        "w": 57,
+        "h": 59,
+        "x": 1219,
+        "y": 1703,
+        "fx": -3,
+        "fy": -3,
+        "fw": 61,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/r",
+        "w": 38,
+        "h": 40,
+        "x": 1278,
+        "y": 1703,
+        "fx": -3,
+        "fy": -2,
+        "fw": 42,
+        "fh": 44
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/s",
+        "w": 35,
+        "h": 40,
+        "x": 1388,
+        "y": 1561
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/t",
+        "w": 35,
+        "h": 40,
+        "x": 1388,
+        "y": 1603
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/u",
+        "w": 550,
+        "h": 84,
+        "x": 834,
+        "y": 1477,
+        "fx": -4,
+        "fy": -4,
+        "fw": 559,
+        "fh": 92
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/v",
+        "w": 671,
+        "h": 91,
+        "x": 1,
+        "y": 1735,
+        "fx": -5,
+        "fy": -4,
+        "fw": 679,
+        "fh": 98
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/w",
+        "w": 306,
+        "h": 52,
+        "x": 1,
+        "y": 1828,
+        "fx": 0,
+        "fy": 0,
+        "fw": 307,
+        "fh": 52
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/x",
+        "w": 823,
+        "h": 36,
+        "x": 1,
+        "y": 1697,
+        "fx": -3,
+        "fy": -1,
+        "fw": 829,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/y",
+        "w": 199,
+        "h": 60,
+        "x": 564,
+        "y": 1835
+    },
+    {
+        "n": "gacha/feature_movie/revival_19xmas_character_pickup_02/top/.gen/feature/z",
+        "w": 253,
+        "h": 60,
+        "x": 309,
+        "y": 1828
+    }
+]

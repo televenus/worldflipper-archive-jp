@@ -1,0 +1,317 @@
+[
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1616,
+        "y": 1159
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/aa",
+        "w": 182,
+        "h": 54,
+        "x": 1637,
+        "y": 1101,
+        "fx": 0,
+        "fy": 0,
+        "fw": 182,
+        "fh": 56
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/ab",
+        "w": 56,
+        "h": 230,
+        "x": 1778,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 230,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/ac",
+        "w": 54,
+        "h": 201,
+        "x": 1696,
+        "y": 575,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 201,
+        "fh": 56
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/ad",
+        "w": 201,
+        "h": 56,
+        "x": 1434,
+        "y": 1101,
+        "fx": 0,
+        "fy": 0,
+        "fw": 201,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/ae",
+        "w": 56,
+        "h": 228,
+        "x": 1778,
+        "y": 233,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 228,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/b",
+        "w": 99,
+        "h": 10,
+        "x": 1434,
+        "y": 1171,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/c",
+        "w": 360,
+        "h": 210,
+        "x": 1304,
+        "y": 834,
+        "fx": 0,
+        "fy": -37,
+        "fw": 360,
+        "fh": 247
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/d",
+        "w": 14,
+        "h": 28,
+        "x": 1666,
+        "y": 1016,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/e",
+        "w": 180,
+        "h": 10,
+        "x": 1434,
+        "y": 1159,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/f",
+        "w": 10,
+        "h": 10,
+        "x": 1664,
+        "y": 674
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/g",
+        "w": 40,
+        "h": 39,
+        "x": 1722,
+        "y": 980,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/h",
+        "w": 128,
+        "h": 138,
+        "x": 1304,
+        "y": 1046,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/i",
+        "w": 40,
+        "h": 40,
+        "x": 1722,
+        "y": 895
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/j",
+        "w": 1301,
+        "h": 1183,
+        "x": 1,
+        "y": 1,
+        "fx": -139,
+        "fy": -174,
+        "fw": 1440,
+        "fh": 1510
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/k",
+        "w": 80,
+        "h": 248,
+        "x": 1696,
+        "y": 325,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/l",
+        "w": 80,
+        "h": 322,
+        "x": 1696,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 400
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/m",
+        "w": 218,
+        "h": 831,
+        "x": 1304,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 833,
+        "fh": 220
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/n",
+        "w": 100,
+        "h": 100,
+        "x": 1562,
+        "y": 674
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/o",
+        "w": 40,
+        "h": 35,
+        "x": 1752,
+        "y": 759,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/p",
+        "w": 67,
+        "h": 70,
+        "x": 1752,
+        "y": 687,
+        "fx": -2,
+        "fy": -3,
+        "fw": 71,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/q",
+        "w": 57,
+        "h": 59,
+        "x": 1722,
+        "y": 834,
+        "fx": -3,
+        "fy": -3,
+        "fw": 61,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/r",
+        "w": 39,
+        "h": 41,
+        "x": 1722,
+        "y": 937,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 44
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/s",
+        "w": 40,
+        "h": 35,
+        "x": 1794,
+        "y": 759,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/t",
+        "w": 40,
+        "h": 35,
+        "x": 1745,
+        "y": 796,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/u",
+        "w": 132,
+        "h": 671,
+        "x": 1562,
+        "y": 1,
+        "r": true,
+        "fx": -5,
+        "fy": -4,
+        "fw": 679,
+        "fh": 140
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/v",
+        "w": 309,
+        "h": 53,
+        "x": 1434,
+        "y": 1046
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/w",
+        "w": 36,
+        "h": 823,
+        "x": 1524,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": -1,
+        "fw": 829,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/x",
+        "w": 56,
+        "h": 222,
+        "x": 1778,
+        "y": 463,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 222,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/y",
+        "w": 54,
+        "h": 180,
+        "x": 1666,
+        "y": 834,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 180,
+        "fh": 56
+    },
+    {
+        "n": "gacha/feature_movie/revival_ny20ny21_character_pickup_01/top/.gen/feature/z",
+        "w": 181,
+        "h": 54,
+        "x": 1562,
+        "y": 778,
+        "fx": 0,
+        "fy": 0,
+        "fw": 181,
+        "fh": 56
+    }
+]

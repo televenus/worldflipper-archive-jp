@@ -1,0 +1,359 @@
+[
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/a",
+        "w": 61,
+        "h": 73,
+        "x": 1429,
+        "y": 930,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/aa",
+        "w": 158,
+        "h": 614,
+        "x": 1269,
+        "y": 860,
+        "r": true,
+        "fx": -12,
+        "fy": -17,
+        "fw": 655,
+        "fh": 180
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ab",
+        "w": 78,
+        "h": 81,
+        "x": 651,
+        "y": 743,
+        "fx": -1,
+        "fy": -1,
+        "fw": 80,
+        "fh": 83
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ac",
+        "w": 51,
+        "h": 50,
+        "x": 1,
+        "y": 1732,
+        "fx": -1,
+        "fy": 0,
+        "fw": 53,
+        "fh": 51
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ad",
+        "w": 55,
+        "h": 54,
+        "x": 651,
+        "y": 1344,
+        "fx": -1,
+        "fy": -1,
+        "fw": 57,
+        "fh": 55
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ae",
+        "w": 27,
+        "h": 26,
+        "x": 1489,
+        "y": 1005,
+        "fx": -1,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/af",
+        "w": 53,
+        "h": 53,
+        "x": 708,
+        "y": 1344,
+        "fx": -1,
+        "fy": 0,
+        "fw": 55,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ag",
+        "w": 38,
+        "h": 38,
+        "x": 1944,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ah",
+        "w": 69,
+        "h": 68,
+        "x": 1429,
+        "y": 860,
+        "fx": 0,
+        "fy": -1,
+        "fw": 70,
+        "fh": 70
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/ai",
+        "w": 36,
+        "h": 37,
+        "x": 731,
+        "y": 743,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 38,
+        "fh": 38
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/aj",
+        "w": 58,
+        "h": 57,
+        "x": 1429,
+        "y": 1005,
+        "fx": -1,
+        "fy": -1,
+        "fw": 59,
+        "fh": 59
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/b",
+        "w": 1,
+        "h": 1,
+        "x": 1252,
+        "y": 1344
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/c",
+        "w": 821,
+        "h": 26,
+        "x": 1,
+        "y": 1704
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/d",
+        "w": 760,
+        "h": 53,
+        "x": 1,
+        "y": 1649
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/e",
+        "w": 62,
+        "h": 270,
+        "x": 1925,
+        "y": 1468
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/f",
+        "w": 363,
+        "h": 280,
+        "x": 783,
+        "y": 1344
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/g",
+        "w": 360,
+        "h": 143,
+        "x": 1563,
+        "y": 1468,
+        "fx": 0,
+        "fy": -13,
+        "fw": 360,
+        "fh": 156
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/h",
+        "w": 309,
+        "h": 241,
+        "x": 1252,
+        "y": 1476,
+        "fx": -40,
+        "fy": 0,
+        "fw": 349,
+        "fh": 241
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/i",
+        "w": 212,
+        "h": 364,
+        "x": 1755,
+        "y": 1102,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 367,
+        "fh": 212
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/j",
+        "w": 324,
+        "h": 329,
+        "x": 1429,
+        "y": 1102,
+        "fx": -2,
+        "fy": -1,
+        "fw": 328,
+        "fh": 330
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/k",
+        "w": 747,
+        "h": 428,
+        "x": 769,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 750,
+        "fh": 429
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/l",
+        "w": 383,
+        "h": 370,
+        "x": 1518,
+        "y": 730
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/m",
+        "w": 84,
+        "h": 360,
+        "x": 1903,
+        "y": 730,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 360,
+        "fh": 86
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/n",
+        "w": 102,
+        "h": 360,
+        "x": 1148,
+        "y": 1344,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/o",
+        "w": 360,
+        "h": 102,
+        "x": 1563,
+        "y": 1613
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/p",
+        "w": 12,
+        "h": 1,
+        "x": 1903,
+        "y": 1092,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/q",
+        "w": 321,
+        "h": 156,
+        "x": 824,
+        "y": 1626,
+        "fx": 0,
+        "fy": 0,
+        "fw": 322,
+        "fh": 156
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/r",
+        "w": 616,
+        "h": 482,
+        "x": 651,
+        "y": 860,
+        "fx": -81,
+        "fy": 0,
+        "fw": 697,
+        "fh": 482
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/s",
+        "w": 424,
+        "h": 727,
+        "x": 1518,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 734,
+        "fh": 424
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/t",
+        "w": 648,
+        "h": 655,
+        "x": 1,
+        "y": 743,
+        "fx": -4,
+        "fy": -4,
+        "fw": 656,
+        "fh": 659
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/u",
+        "w": 747,
+        "h": 427,
+        "x": 769,
+        "y": 431,
+        "fx": -1,
+        "fy": -2,
+        "fw": 750,
+        "fh": 429
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/v",
+        "w": 38,
+        "h": 37,
+        "x": 1429,
+        "y": 1433,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 39
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/w",
+        "w": 766,
+        "h": 740,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/x",
+        "w": 56,
+        "h": 53,
+        "x": 763,
+        "y": 1649,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 55,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/y",
+        "w": 53,
+        "h": 52,
+        "x": 1147,
+        "y": 1706,
+        "fx": -1,
+        "fy": -1,
+        "fw": 55,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/release_gacha/top/.gen/feature/z",
+        "w": 780,
+        "h": 247,
+        "x": 1,
+        "y": 1400
+    }
+]

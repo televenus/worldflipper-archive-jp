@@ -1,0 +1,137 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1049,
+        "y": 1471
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 841,
+        "y": 1206
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 841,
+        "y": 1519,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/d",
+        "w": 52,
+        "h": 420,
+        "x": 966,
+        "y": 331,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 422,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/e",
+        "w": 206,
+        "h": 76,
+        "x": 841,
+        "y": 1441,
+        "fx": -1,
+        "fy": -1,
+        "fw": 208,
+        "fh": 78
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/f",
+        "w": 55,
+        "h": 292,
+        "x": 966,
+        "y": 37,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 294,
+        "fh": 57
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 966,
+        "y": 25,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/h",
+        "w": 838,
+        "h": 840,
+        "x": 1,
+        "y": 1206,
+        "fx": -158,
+        "fy": -231,
+        "fw": 1038,
+        "fh": 1082
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/i",
+        "w": 98,
+        "h": 10,
+        "x": 966,
+        "y": 13,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/j",
+        "w": 963,
+        "h": 1203,
+        "x": 1,
+        "y": 1,
+        "fx": -256,
+        "fy": -105,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/k",
+        "w": 14,
+        "h": 28,
+        "x": 1049,
+        "y": 1441,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 966,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1061,
+        "y": 1471
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_09/cursed_girl/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1049,
+        "y": 1483
+    }
+]

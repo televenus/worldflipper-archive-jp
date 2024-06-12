@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 933,
+        "y": 1503
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 725,
+        "y": 1168
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 807,
+        "y": 1403,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/d",
+        "w": 51,
+        "h": 221,
+        "x": 880,
+        "y": 1529,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 223,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/e",
+        "w": 80,
+        "h": 262,
+        "x": 725,
+        "y": 1403,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 265,
+        "fh": 83
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/f",
+        "w": 57,
+        "h": 362,
+        "x": 725,
+        "y": 1667,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 364,
+        "fh": 59
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 933,
+        "y": 1403,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/h",
+        "w": 722,
+        "h": 867,
+        "x": 1,
+        "y": 1168,
+        "fx": -150,
+        "fy": -164,
+        "fw": 1038,
+        "fh": 1040
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 945,
+        "y": 1403,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/j",
+        "w": 947,
+        "h": 1165,
+        "x": 1,
+        "y": 1,
+        "fx": -272,
+        "fy": -517,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 886,
+        "y": 2017
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 784,
+        "y": 2017,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 945,
+        "y": 1503
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 933,
+        "y": 1515
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 784,
+        "y": 1667,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_66/darkness/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 784,
+        "y": 1877,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

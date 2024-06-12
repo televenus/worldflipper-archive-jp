@@ -1,0 +1,160 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1006,
+        "y": 1682
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 866,
+        "y": 1199
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 962,
+        "y": 1835,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/d",
+        "w": 52,
+        "h": 246,
+        "x": 1006,
+        "y": 1434,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 248,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/e",
+        "w": 80,
+        "h": 259,
+        "x": 924,
+        "y": 1434,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 262,
+        "fh": 82
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/f",
+        "w": 56,
+        "h": 318,
+        "x": 866,
+        "y": 1434,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 320,
+        "fh": 58
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1060,
+        "y": 1434,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/h",
+        "w": 863,
+        "h": 759,
+        "x": 1,
+        "y": 1199,
+        "r": true,
+        "fx": -134,
+        "fy": -211,
+        "fw": 1038,
+        "fh": 1085
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1048,
+        "y": 103,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/j",
+        "w": 1045,
+        "h": 1196,
+        "x": 1,
+        "y": 1,
+        "fx": -174,
+        "fy": -400,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 924,
+        "y": 1695
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1048,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1060,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1060,
+        "y": 1534
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/o",
+        "w": 94,
+        "h": 208,
+        "x": 866,
+        "y": 1754,
+        "r": true,
+        "fx": -2,
+        "fy": -3,
+        "fw": 212,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 962,
+        "y": 1695,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 1155,
+        "y": 1331
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 826,
+        "y": 1454
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 826,
+        "y": 1829,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/d",
+        "w": 48,
+        "h": 219,
+        "x": 1095,
+        "y": 1346,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 220,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/e",
+        "w": 314,
+        "h": 75,
+        "x": 826,
+        "y": 1269,
+        "fx": -1,
+        "fy": -1,
+        "fw": 316,
+        "fh": 76
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/f",
+        "w": 315,
+        "h": 52,
+        "x": 826,
+        "y": 1215,
+        "fx": 0,
+        "fy": -1,
+        "fw": 315,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/g",
+        "w": 10,
+        "h": 98,
+        "x": 1155,
+        "y": 1231,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/h",
+        "w": 823,
+        "h": 787,
+        "x": 1,
+        "y": 1215,
+        "r": true,
+        "fx": -208,
+        "fy": -304,
+        "fw": 1038,
+        "fh": 1143
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/i",
+        "w": 10,
+        "h": 98,
+        "x": 1167,
+        "y": 1231,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/j",
+        "w": 1176,
+        "h": 1212,
+        "x": 1,
+        "y": 1,
+        "fx": -43,
+        "fy": -374,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 1143,
+        "y": 1215
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/l",
+        "w": 10,
+        "h": 100,
+        "x": 1143,
+        "y": 1231
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1167,
+        "y": 1331
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1142,
+        "y": 1333
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/o",
+        "w": 267,
+        "h": 106,
+        "x": 826,
+        "y": 1346,
+        "fx": -3,
+        "fy": -3,
+        "fw": 273,
+        "fh": 112
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/.gen/feature/p",
+        "w": 128,
+        "h": 138,
+        "x": 826,
+        "y": 1689,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/a",
+        "w": 10,
+        "h": 10,
+        "x": 998,
+        "y": 879
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/b",
+        "w": 233,
+        "h": 233,
+        "x": 1796,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/c",
+        "w": 124,
+        "h": 124,
+        "x": 1796,
+        "y": 236,
+        "fx": -1,
+        "fy": -1,
+        "fw": 126,
+        "fh": 126
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/d",
+        "w": 250,
+        "h": 48,
+        "x": 926,
+        "y": 829,
+        "fx": 0,
+        "fy": -1,
+        "fw": 251,
+        "fh": 49
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/e",
+        "w": 73,
+        "h": 321,
+        "x": 1922,
+        "y": 236,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 322,
+        "fh": 74
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/f",
+        "w": 257,
+        "h": 52,
+        "x": 667,
+        "y": 829,
+        "fx": -1,
+        "fy": -1,
+        "fw": 259,
+        "fh": 53
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/g",
+        "w": 98,
+        "h": 10,
+        "x": 799,
+        "y": 883,
+        "r": true,
+        "fx": 0,
+        "fy": -2,
+        "fw": 10,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/h",
+        "w": 664,
+        "h": 897,
+        "x": 1,
+        "y": 1,
+        "fx": -175,
+        "fy": -191,
+        "fw": 1038,
+        "fh": 1099
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/i",
+        "w": 97,
+        "h": 10,
+        "x": 899,
+        "y": 883,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 10
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/j",
+        "w": 1127,
+        "h": 826,
+        "x": 667,
+        "y": 1,
+        "r": true,
+        "fx": -393,
+        "fy": -142,
+        "fw": 1219,
+        "fh": 1940
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/k",
+        "w": 28,
+        "h": 14,
+        "x": 667,
+        "y": 883
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/l",
+        "w": 100,
+        "h": 10,
+        "x": 697,
+        "y": 883,
+        "r": true
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/m",
+        "w": 10,
+        "h": 10,
+        "x": 1010,
+        "y": 879
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_71/little_vampire/.gen/feature/n",
+        "w": 10,
+        "h": 10,
+        "x": 1022,
+        "y": 879
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/a",
+        "w": 20,
+        "h": 20,
+        "x": 1403,
+        "y": 1125
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/b",
+        "w": 207,
+        "h": 248,
+        "x": 1403,
+        "y": 1443,
+        "fx": -35,
+        "fy": -14,
+        "fw": 276,
+        "fh": 276
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/c",
+        "w": 252,
+        "h": 935,
+        "x": 1731,
+        "y": 1,
+        "r": true,
+        "fx": -68,
+        "fy": -81,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/d",
+        "w": 252,
+        "h": 933,
+        "x": 1731,
+        "y": 938,
+        "r": true,
+        "fx": -69,
+        "fy": -81,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/e",
+        "w": 104,
+        "h": 104,
+        "x": 1601,
+        "y": 1693,
+        "fx": -3,
+        "fy": -3,
+        "fw": 110,
+        "fh": 110
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/f",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/g",
+        "w": 865,
+        "h": 238,
+        "x": 1,
+        "y": 1742,
+        "fx": -101,
+        "fy": -85,
+        "fw": 1016,
+        "fh": 360
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/h",
+        "w": 20,
+        "h": 20,
+        "x": 1103,
+        "y": 1742
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/i",
+        "w": 128,
+        "h": 138,
+        "x": 1471,
+        "y": 1693,
+        "fx": -5,
+        "fy": 0,
+        "fw": 138,
+        "fh": 138
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/j",
+        "w": 129,
+        "h": 129,
+        "x": 1471,
+        "y": 1833,
+        "fx": -1,
+        "fy": -1,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/k",
+        "w": 233,
+        "h": 233,
+        "x": 868,
+        "y": 1742
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/l",
+        "w": 265,
+        "h": 659,
+        "x": 1136,
+        "y": 1125,
+        "r": true,
+        "fx": -20,
+        "fy": -39,
+        "fw": 680,
+        "fh": 380
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/m",
+        "w": 303,
+        "h": 54,
+        "x": 1103,
+        "y": 1875,
+        "fx": -99,
+        "fy": -5,
+        "fw": 500,
+        "fh": 64
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/n",
+        "w": 366,
+        "h": 87,
+        "x": 1103,
+        "y": 1786,
+        "fx": -178,
+        "fy": -7,
+        "fw": 720,
+        "fh": 100
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/o",
+        "w": 47,
+        "h": 213,
+        "x": 1612,
+        "y": 1443,
+        "r": true,
+        "fx": -72,
+        "fy": -3,
+        "fw": 360,
+        "fh": 54
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/p",
+        "w": 286,
+        "h": 1440,
+        "x": 1443,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": -6,
+        "fw": 1440,
+        "fh": 292
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/q",
+        "w": 1133,
+        "h": 615,
+        "x": 1,
+        "y": 1125,
+        "fx": 0,
+        "fy": 0,
+        "fw": 1440,
+        "fh": 615
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/r",
+        "w": 1440,
+        "h": 560,
+        "x": 1,
+        "y": 563
+    },
+    {
+        "n": "gacha/feature_movie/new_character_pickup_11/blade_dancer/.gen/feature/s",
+        "w": 20,
+        "h": 20,
+        "x": 1103,
+        "y": 1764
+    }
+]
