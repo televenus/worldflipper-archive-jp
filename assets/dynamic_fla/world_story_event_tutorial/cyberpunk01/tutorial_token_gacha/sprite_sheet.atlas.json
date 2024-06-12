@@ -1,0 +1,264 @@
+[
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/a",
+        "w": 10,
+        "h": 10,
+        "x": 698,
+        "y": 1529
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/aa",
+        "w": 952,
+        "h": 380,
+        "x": 1,
+        "y": 463,
+        "fx": 0,
+        "fy": -3,
+        "fw": 952,
+        "fh": 386
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/ab",
+        "w": 169,
+        "h": 95,
+        "x": 1192,
+        "y": 1327,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/ac",
+        "w": 365,
+        "h": 216,
+        "x": 1,
+        "y": 1323,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/ad",
+        "w": 328,
+        "h": 216,
+        "x": 368,
+        "y": 1323,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/b",
+        "w": 42,
+        "h": 43,
+        "x": 849,
+        "y": 1158
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/c",
+        "w": 39,
+        "h": 36,
+        "x": 1237,
+        "y": 1424
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/d",
+        "w": 43,
+        "h": 41,
+        "x": 1192,
+        "y": 1424
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/e",
+        "w": 43,
+        "h": 41,
+        "x": 1363,
+        "y": 1327
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/f",
+        "w": 39,
+        "h": 43,
+        "x": 849,
+        "y": 1203
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/g",
+        "w": 119,
+        "h": 221,
+        "x": 1433,
+        "y": 1034,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/h",
+        "w": 952,
+        "h": 460,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -3,
+        "fw": 952,
+        "fh": 466
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/i",
+        "w": 40,
+        "h": 40,
+        "x": 893,
+        "y": 1158
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/j",
+        "w": 846,
+        "h": 476,
+        "x": 1,
+        "y": 845,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/k",
+        "w": 10,
+        "h": 10,
+        "x": 1066,
+        "y": 1478
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/l",
+        "w": 160,
+        "h": 163,
+        "x": 904,
+        "y": 1327,
+        "fx": -14,
+        "fy": -14,
+        "fw": 188,
+        "fh": 190
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/m",
+        "w": 124,
+        "h": 149,
+        "x": 1066,
+        "y": 1327
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/n",
+        "w": 18,
+        "h": 19,
+        "x": 935,
+        "y": 1158,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/o",
+        "w": 17,
+        "h": 15,
+        "x": 1363,
+        "y": 1370,
+        "fx": -1,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/p",
+        "w": 14,
+        "h": 16,
+        "x": 1408,
+        "y": 1327,
+        "fx": -3,
+        "fy": -2,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/q",
+        "w": 19,
+        "h": 15,
+        "x": 904,
+        "y": 1492,
+        "fx": 0,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/r",
+        "w": 13,
+        "h": 13,
+        "x": 849,
+        "y": 1248,
+        "fx": -3,
+        "fy": -3,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/s",
+        "w": 20,
+        "h": 20,
+        "x": 1521,
+        "y": 479
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/t",
+        "w": 101,
+        "h": 311,
+        "x": 849,
+        "y": 845,
+        "fx": -1,
+        "fy": -5,
+        "fw": 104,
+        "fh": 316
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/u",
+        "w": 121,
+        "h": 127,
+        "x": 1433,
+        "y": 1257,
+        "fx": -2,
+        "fy": -1,
+        "fw": 124,
+        "fh": 130
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/v",
+        "w": 600,
+        "h": 476,
+        "x": 955,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/w",
+        "w": 122,
+        "h": 127,
+        "x": 1433,
+        "y": 905,
+        "fx": -1,
+        "fy": -1,
+        "fw": 124,
+        "fh": 130
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/x",
+        "w": 86,
+        "h": 424,
+        "x": 1433,
+        "y": 479,
+        "r": true
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/y",
+        "w": 476,
+        "h": 846,
+        "x": 955,
+        "y": 479
+    },
+    {
+        "n": "dynamic_fla/world_story_event_tutorial/cyberpunk01/tutorial_token_gacha/.gen/tutorial_token_gacha/z",
+        "w": 204,
+        "h": 204,
+        "x": 698,
+        "y": 1323
+    }
+]
