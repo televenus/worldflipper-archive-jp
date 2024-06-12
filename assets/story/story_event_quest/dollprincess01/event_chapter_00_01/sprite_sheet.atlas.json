@@ -1,0 +1,2563 @@
+[
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/a",
+        "w": 4,
+        "h": 4,
+        "x": 1362,
+        "y": 975
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/aa",
+        "w": 4,
+        "h": 8,
+        "x": 370,
+        "y": 841
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ab",
+        "w": 4,
+        "h": 9,
+        "x": 1513,
+        "y": 647
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ac",
+        "w": 4,
+        "h": 8,
+        "x": 370,
+        "y": 841
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ad",
+        "w": 4,
+        "h": 9,
+        "x": 1513,
+        "y": 647
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ae",
+        "w": 3,
+        "h": 8,
+        "x": 1447,
+        "y": 658
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/af",
+        "w": 3,
+        "h": 7,
+        "x": 1528,
+        "y": 514
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ag",
+        "w": 4,
+        "h": 9,
+        "x": 370,
+        "y": 830
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ah",
+        "w": 4,
+        "h": 8,
+        "x": 1368,
+        "y": 997
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ai",
+        "w": 4,
+        "h": 9,
+        "x": 370,
+        "y": 830
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/aj",
+        "w": 4,
+        "h": 8,
+        "x": 1368,
+        "y": 997
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ak",
+        "w": 9,
+        "h": 12,
+        "x": 1279,
+        "y": 911,
+        "fx": -8,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/al",
+        "w": 9,
+        "h": 12,
+        "x": 924,
+        "y": 1010,
+        "fx": -8,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/am",
+        "w": 13,
+        "h": 16,
+        "x": 1391,
+        "y": 958,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/an",
+        "w": 13,
+        "h": 16,
+        "x": 1391,
+        "y": 976,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ao",
+        "w": 13,
+        "h": 16,
+        "x": 1368,
+        "y": 1007,
+        "fx": -9,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ap",
+        "w": 256,
+        "h": 163,
+        "x": 592,
+        "y": 502
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/aq",
+        "w": 256,
+        "h": 163,
+        "x": 850,
+        "y": 461
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ar",
+        "w": 85,
+        "h": 115,
+        "x": 1006,
+        "y": 804,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/as",
+        "w": 264,
+        "h": 157,
+        "x": 1,
+        "y": 852,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/at",
+        "w": 264,
+        "h": 157,
+        "x": 1108,
+        "y": 518,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/au",
+        "w": 92,
+        "h": 110,
+        "x": 1439,
+        "y": 249,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/av",
+        "w": 316,
+        "h": 188,
+        "x": 1121,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/aw",
+        "w": 316,
+        "h": 188,
+        "x": 1121,
+        "y": 191,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ax",
+        "w": 272,
+        "h": 200,
+        "x": 301,
+        "y": 303
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ay",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 60
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/az",
+        "w": 14,
+        "h": 12,
+        "x": 227,
+        "y": 1011,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/b",
+        "w": 11,
+        "h": 16,
+        "x": 1520,
+        "y": 42,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ba",
+        "w": 10,
+        "h": 16,
+        "x": 1109,
+        "y": 254
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bb",
+        "w": 8,
+        "h": 3,
+        "x": 1091,
+        "y": 970
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bc",
+        "w": 16,
+        "h": 12,
+        "x": 122,
+        "y": 1011,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bd",
+        "w": 272,
+        "h": 200,
+        "x": 575,
+        "y": 300
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/be",
+        "w": 272,
+        "h": 297,
+        "x": 575,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bf",
+        "w": 203,
+        "h": 247,
+        "x": 387,
+        "y": 505,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bg",
+        "w": 224,
+        "h": 73,
+        "x": 811,
+        "y": 729
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bh",
+        "w": 256,
+        "h": 101,
+        "x": 850,
+        "y": 626
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bi",
+        "w": 272,
+        "h": 135,
+        "x": 1109,
+        "y": 381
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bj",
+        "w": 272,
+        "h": 300,
+        "x": 301,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bk",
+        "w": 11,
+        "h": 14,
+        "x": 1520,
+        "y": 162
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bl",
+        "w": 8,
+        "h": 16,
+        "x": 1109,
+        "y": 325
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bm",
+        "w": 122,
+        "h": 122,
+        "x": 792,
+        "y": 804,
+        "fx": -3,
+        "fy": -3,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bn",
+        "w": 15,
+        "h": 15,
+        "x": 370,
+        "y": 782,
+        "fx": -1,
+        "fy": -1,
+        "fw": 16,
+        "fh": 16
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bo",
+        "w": 32,
+        "h": 32,
+        "x": 1204,
+        "y": 969
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bp",
+        "w": 32,
+        "h": 32,
+        "x": 1238,
+        "y": 969
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bq",
+        "w": 16,
+        "h": 16,
+        "x": 1425,
+        "y": 958
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/br",
+        "w": 63,
+        "h": 64,
+        "x": 737,
+        "y": 944,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 64,
+        "fh": 64
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bs",
+        "w": 38,
+        "h": 38,
+        "x": 1419,
+        "y": 895,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bt",
+        "w": 4,
+        "h": 4,
+        "x": 1368,
+        "y": 973
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bu",
+        "w": 28,
+        "h": 18,
+        "x": 525,
+        "y": 1005,
+        "r": true,
+        "fx": -5,
+        "fy": -9,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bv",
+        "w": 33,
+        "h": 27,
+        "x": 811,
+        "y": 699,
+        "fx": -7,
+        "fy": -9,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bw",
+        "w": 30,
+        "h": 20,
+        "x": 1164,
+        "y": 1003,
+        "r": true,
+        "fx": -3,
+        "fy": -14,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bx",
+        "w": 32,
+        "h": 21,
+        "x": 1057,
+        "y": 952,
+        "fx": -7,
+        "fy": -13,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/by",
+        "w": 17,
+        "h": 29,
+        "x": 1266,
+        "y": 937,
+        "fx": -5,
+        "fy": -18,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/bz",
+        "w": 20,
+        "h": 24,
+        "x": 1257,
+        "y": 911,
+        "fx": -15,
+        "fy": -13,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/c",
+        "w": 4,
+        "h": 29,
+        "x": 370,
+        "y": 799,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 4
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ca",
+        "w": 33,
+        "h": 13,
+        "x": 866,
+        "y": 1010,
+        "r": true,
+        "fx": -7,
+        "fy": -17,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cb",
+        "w": 21,
+        "h": 26,
+        "x": 1290,
+        "y": 902,
+        "r": true,
+        "fx": -11,
+        "fy": -12,
+        "fw": 45,
+        "fh": 45
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cc",
+        "w": 16,
+        "h": 34,
+        "x": 1272,
+        "y": 968,
+        "fx": -4,
+        "fy": -20,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cd",
+        "w": 33,
+        "h": 12,
+        "x": 1,
+        "y": 1011,
+        "r": true,
+        "fx": -8,
+        "fy": -25,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ce",
+        "w": 5,
+        "h": 29,
+        "x": 1374,
+        "y": 518,
+        "fx": -12,
+        "fy": -29,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cf",
+        "w": 3,
+        "h": 19,
+        "x": 1528,
+        "y": 483,
+        "fx": -12,
+        "fy": -32,
+        "fw": 26,
+        "fh": 58
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cg",
+        "w": 4,
+        "h": 7,
+        "x": 1362,
+        "y": 966,
+        "r": true,
+        "fx": -4,
+        "fy": -6,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ch",
+        "w": 3,
+        "h": 7,
+        "x": 1528,
+        "y": 532,
+        "r": true,
+        "fx": -4,
+        "fy": -8,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ci",
+        "w": 6,
+        "h": 7,
+        "x": 1525,
+        "y": 846,
+        "r": true,
+        "fx": -4,
+        "fy": -8,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cj",
+        "w": 5,
+        "h": 7,
+        "x": 543,
+        "y": 790,
+        "r": true,
+        "fx": -4,
+        "fy": -7,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ck",
+        "w": 7,
+        "h": 6,
+        "x": 1313,
+        "y": 838,
+        "fx": -4,
+        "fy": -4,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cl",
+        "w": 10,
+        "h": 10,
+        "x": 1109,
+        "y": 289
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cm",
+        "w": 20,
+        "h": 20,
+        "x": 1196,
+        "y": 1003
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cn",
+        "w": 4,
+        "h": 10,
+        "x": 1279,
+        "y": 925
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/co",
+        "w": 16,
+        "h": 16,
+        "x": 1406,
+        "y": 977
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cp",
+        "w": 10,
+        "h": 16,
+        "x": 1313,
+        "y": 820
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cq",
+        "w": 16,
+        "h": 12,
+        "x": 140,
+        "y": 1011,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cr",
+        "w": 14,
+        "h": 12,
+        "x": 243,
+        "y": 1011,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cs",
+        "w": 21,
+        "h": 12,
+        "x": 36,
+        "y": 1011,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ct",
+        "w": 21,
+        "h": 13,
+        "x": 901,
+        "y": 1010,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cu",
+        "w": 10,
+        "h": 15,
+        "x": 1109,
+        "y": 272
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cv",
+        "w": 21,
+        "h": 12,
+        "x": 36,
+        "y": 1011,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cw",
+        "w": 21,
+        "h": 13,
+        "x": 1101,
+        "y": 1010,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cx",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 77
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cy",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 94
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/cz",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 111
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/d",
+        "w": 12,
+        "h": 9,
+        "x": 935,
+        "y": 1014,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/da",
+        "w": 298,
+        "h": 505,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/db",
+        "w": 15,
+        "h": 15,
+        "x": 600,
+        "y": 1008,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dc",
+        "w": 15,
+        "h": 15,
+        "x": 617,
+        "y": 1008,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dd",
+        "w": 12,
+        "h": 11,
+        "x": 1519,
+        "y": 707,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/de",
+        "w": 15,
+        "h": 15,
+        "x": 600,
+        "y": 1008,
+        "fx": -8,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/df",
+        "w": 12,
+        "h": 11,
+        "x": 1424,
+        "y": 991,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dg",
+        "w": 15,
+        "h": 15,
+        "x": 634,
+        "y": 1008,
+        "fx": -8,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dh",
+        "w": 12,
+        "h": 11,
+        "x": 1519,
+        "y": 707,
+        "r": true,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/di",
+        "w": 12,
+        "h": 11,
+        "x": 1438,
+        "y": 991,
+        "r": true,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dj",
+        "w": 11,
+        "h": 12,
+        "x": 1452,
+        "y": 991,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dk",
+        "w": 15,
+        "h": 15,
+        "x": 1374,
+        "y": 973,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dl",
+        "w": 6,
+        "h": 5,
+        "x": 1439,
+        "y": 371,
+        "fx": -5,
+        "fy": -12,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dm",
+        "w": 6,
+        "h": 6,
+        "x": 259,
+        "y": 1011,
+        "fx": -5,
+        "fy": -7,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dn",
+        "w": 16,
+        "h": 12,
+        "x": 158,
+        "y": 1011,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/do",
+        "w": 14,
+        "h": 14,
+        "x": 1358,
+        "y": 981,
+        "fx": -1,
+        "fy": -3,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dp",
+        "w": 15,
+        "h": 14,
+        "x": 1341,
+        "y": 981,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 16,
+        "fh": 18
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dq",
+        "w": 15,
+        "h": 15,
+        "x": 1374,
+        "y": 990,
+        "fx": -6,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dr",
+        "w": 15,
+        "h": 15,
+        "x": 1374,
+        "y": 973,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ds",
+        "w": 11,
+        "h": 12,
+        "x": 1465,
+        "y": 988,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dt",
+        "w": 11,
+        "h": 12,
+        "x": 1452,
+        "y": 991,
+        "fx": -7,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/du",
+        "w": 15,
+        "h": 15,
+        "x": 1443,
+        "y": 958,
+        "fx": -6,
+        "fy": -1,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dv",
+        "w": 11,
+        "h": 12,
+        "x": 1478,
+        "y": 988,
+        "fx": -7,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dw",
+        "w": 13,
+        "h": 13,
+        "x": 1460,
+        "y": 973,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dx",
+        "w": 11,
+        "h": 13,
+        "x": 1520,
+        "y": 210,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dy",
+        "w": 13,
+        "h": 13,
+        "x": 1475,
+        "y": 973,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/dz",
+        "w": 11,
+        "h": 13,
+        "x": 1520,
+        "y": 225,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/e",
+        "w": 9,
+        "h": 3,
+        "x": 981,
+        "y": 946
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ea",
+        "w": 13,
+        "h": 13,
+        "x": 1460,
+        "y": 973,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eb",
+        "w": 11,
+        "h": 13,
+        "x": 1520,
+        "y": 210,
+        "fx": -8,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ec",
+        "w": 13,
+        "h": 11,
+        "x": 1391,
+        "y": 994,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ed",
+        "w": 13,
+        "h": 13,
+        "x": 1490,
+        "y": 973,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ee",
+        "w": 11,
+        "h": 13,
+        "x": 1520,
+        "y": 971,
+        "fx": -12,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ef",
+        "w": 13,
+        "h": 13,
+        "x": 1505,
+        "y": 971,
+        "fx": -16,
+        "fy": -9,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eg",
+        "w": 13,
+        "h": 11,
+        "x": 1505,
+        "y": 986,
+        "r": true,
+        "fx": -12,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eh",
+        "w": 13,
+        "h": 13,
+        "x": 1425,
+        "y": 976,
+        "fx": -16,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ei",
+        "w": 12,
+        "h": 13,
+        "x": 1519,
+        "y": 663,
+        "fx": -12,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ej",
+        "w": 15,
+        "h": 12,
+        "x": 176,
+        "y": 1011,
+        "r": true,
+        "fx": -16,
+        "fy": -9,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ek",
+        "w": 12,
+        "h": 13,
+        "x": 1519,
+        "y": 678,
+        "fx": -11,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/el",
+        "w": 15,
+        "h": 12,
+        "x": 193,
+        "y": 1011,
+        "r": true,
+        "fx": -16,
+        "fy": -9,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/em",
+        "w": 17,
+        "h": 13,
+        "x": 1343,
+        "y": 966,
+        "fx": -5,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/en",
+        "w": 18,
+        "h": 12,
+        "x": 102,
+        "y": 1011,
+        "r": true,
+        "fx": -16,
+        "fy": -6,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eo",
+        "w": 20,
+        "h": 18,
+        "x": 555,
+        "y": 1005,
+        "fx": -6,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ep",
+        "w": 21,
+        "h": 15,
+        "x": 577,
+        "y": 1008,
+        "r": true,
+        "fx": -14,
+        "fy": -3,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eq",
+        "w": 21,
+        "h": 17,
+        "x": 1345,
+        "y": 947,
+        "fx": -12,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/er",
+        "w": 16,
+        "h": 17,
+        "x": 1335,
+        "y": 997,
+        "r": true,
+        "fx": -13,
+        "fy": -8,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/es",
+        "w": 18,
+        "h": 12,
+        "x": 82,
+        "y": 1011,
+        "fx": -10,
+        "fy": -1,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/et",
+        "w": 13,
+        "h": 16,
+        "x": 1383,
+        "y": 1007,
+        "fx": -16,
+        "fy": -10,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/eu",
+        "w": 13,
+        "h": 16,
+        "x": 1398,
+        "y": 1007,
+        "r": true,
+        "fx": -8,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ev",
+        "w": 12,
+        "h": 12,
+        "x": 1519,
+        "y": 693,
+        "fx": -11,
+        "fy": -6,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ew",
+        "w": 11,
+        "h": 13,
+        "x": 1520,
+        "y": 986,
+        "fx": -12,
+        "fy": -5,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ex",
+        "w": 12,
+        "h": 14,
+        "x": 1519,
+        "y": 647,
+        "fx": -30,
+        "fy": -22,
+        "fw": 72,
+        "fh": 72
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ey",
+        "w": 11,
+        "h": 14,
+        "x": 1520,
+        "y": 178,
+        "fx": -11,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ez",
+        "w": 15,
+        "h": 15,
+        "x": 1460,
+        "y": 956,
+        "fx": -62,
+        "fy": -54,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/f",
+        "w": 13,
+        "h": 17,
+        "x": 1093,
+        "y": 800,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fa",
+        "w": 15,
+        "h": 15,
+        "x": 1477,
+        "y": 956,
+        "fx": -62,
+        "fy": -54,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fb",
+        "w": 58,
+        "h": 28,
+        "x": 1156,
+        "y": 937,
+        "fx": -38,
+        "fy": -43,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fc",
+        "w": 66,
+        "h": 32,
+        "x": 913,
+        "y": 946,
+        "fx": -35,
+        "fy": -41,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fd",
+        "w": 61,
+        "h": 31,
+        "x": 1093,
+        "y": 937,
+        "fx": -37,
+        "fy": -42,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fe",
+        "w": 62,
+        "h": 33,
+        "x": 802,
+        "y": 986,
+        "fx": -38,
+        "fy": -40,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ff",
+        "w": 65,
+        "h": 64,
+        "x": 1452,
+        "y": 658,
+        "fx": -36,
+        "fy": -5,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fg",
+        "w": 64,
+        "h": 66,
+        "x": 1447,
+        "y": 590,
+        "r": true,
+        "fx": -36,
+        "fy": -3,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fh",
+        "w": 69,
+        "h": 44,
+        "x": 1454,
+        "y": 846,
+        "r": true,
+        "fx": -47,
+        "fy": -8,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fi",
+        "w": 70,
+        "h": 47,
+        "x": 1313,
+        "y": 846,
+        "r": true,
+        "fx": -44,
+        "fy": -6,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fj",
+        "w": 69,
+        "h": 63,
+        "x": 582,
+        "y": 943,
+        "r": true,
+        "fx": -44,
+        "fy": -6,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fk",
+        "w": 70,
+        "h": 64,
+        "x": 275,
+        "y": 782,
+        "r": true,
+        "fx": -44,
+        "fy": -5,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fl",
+        "w": 69,
+        "h": 69,
+        "x": 1037,
+        "y": 729,
+        "fx": -39,
+        "fy": -6,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fm",
+        "w": 71,
+        "h": 77,
+        "x": 1374,
+        "y": 589,
+        "r": true,
+        "fx": -32,
+        "fy": -4,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fn",
+        "w": 62,
+        "h": 56,
+        "x": 802,
+        "y": 928,
+        "fx": -34,
+        "fy": -17,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fo",
+        "w": 54,
+        "h": 34,
+        "x": 534,
+        "y": 754,
+        "fx": -40,
+        "fy": -38,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fp",
+        "w": 17,
+        "h": 27,
+        "x": 1399,
+        "y": 927,
+        "r": true,
+        "fx": -47,
+        "fy": -39,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fq",
+        "w": 37,
+        "h": 30,
+        "x": 811,
+        "y": 667,
+        "fx": -63,
+        "fy": -31,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fr",
+        "w": 76,
+        "h": 54,
+        "x": 1374,
+        "y": 668,
+        "fx": -25,
+        "fy": -22,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fs",
+        "w": 45,
+        "h": 79,
+        "x": 653,
+        "y": 944,
+        "r": true,
+        "fx": -23,
+        "fy": -32,
+        "fw": 136,
+        "fh": 136
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ft",
+        "w": 47,
+        "h": 32,
+        "x": 935,
+        "y": 980,
+        "fx": -41,
+        "fy": 0,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fu",
+        "w": 25,
+        "h": 22,
+        "x": 1030,
+        "y": 951,
+        "fx": -53,
+        "fy": -4,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fv",
+        "w": 26,
+        "h": 38,
+        "x": 1505,
+        "y": 361,
+        "r": true,
+        "fx": -48,
+        "fy": -4,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fw",
+        "w": 26,
+        "h": 23,
+        "x": 1313,
+        "y": 972,
+        "fx": -54,
+        "fy": -5,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fx",
+        "w": 27,
+        "h": 32,
+        "x": 1285,
+        "y": 930,
+        "fx": -53,
+        "fy": 0,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fy",
+        "w": 45,
+        "h": 50,
+        "x": 866,
+        "y": 928,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/fz",
+        "w": 8,
+        "h": 33,
+        "x": 1363,
+        "y": 677,
+        "r": true,
+        "fx": -3,
+        "fy": -6,
+        "fw": 38,
+        "fh": 19
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/g",
+        "w": 110,
+        "h": 272,
+        "x": 275,
+        "y": 508,
+        "r": true,
+        "fx": 0,
+        "fy": -232,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ga",
+        "w": 217,
+        "h": 132,
+        "x": 592,
+        "y": 667,
+        "fx": -16,
+        "fy": -5,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gb",
+        "w": 85,
+        "h": 89,
+        "x": 1200,
+        "y": 820
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gc",
+        "w": 4,
+        "h": 4,
+        "x": 1368,
+        "y": 973
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gd",
+        "w": 29,
+        "h": 29,
+        "x": 1062,
+        "y": 921,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ge",
+        "w": 4,
+        "h": 4,
+        "x": 1363,
+        "y": 712
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gf",
+        "w": 48,
+        "h": 30,
+        "x": 1216,
+        "y": 937,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gg",
+        "w": 48,
+        "h": 30,
+        "x": 1369,
+        "y": 895,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gh",
+        "w": 10,
+        "h": 10,
+        "x": 1447,
+        "y": 935
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gi",
+        "w": 39,
+        "h": 39,
+        "x": 1459,
+        "y": 892,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gj",
+        "w": 6,
+        "h": 8,
+        "x": 1439,
+        "y": 361,
+        "fx": -1,
+        "fy": 0,
+        "fw": 7,
+        "fh": 8
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gk",
+        "w": 11,
+        "h": 14,
+        "x": 1520,
+        "y": 194
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gl",
+        "w": 67,
+        "h": 28,
+        "x": 866,
+        "y": 980,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gm",
+        "w": 10,
+        "h": 10,
+        "x": 1109,
+        "y": 301
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gn",
+        "w": 4,
+        "h": 4,
+        "x": 1363,
+        "y": 718
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/go",
+        "w": 24,
+        "h": 80,
+        "x": 1287,
+        "y": 820
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gp",
+        "w": 24,
+        "h": 80,
+        "x": 1505,
+        "y": 401
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gq",
+        "w": 15,
+        "h": 12,
+        "x": 210,
+        "y": 1011,
+        "r": true,
+        "fx": -25,
+        "fy": -2,
+        "fw": 62,
+        "fh": 62
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gr",
+        "w": 30,
+        "h": 48,
+        "x": 1500,
+        "y": 892
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gs",
+        "w": 30,
+        "h": 48,
+        "x": 984,
+        "y": 975
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gt",
+        "w": 29,
+        "h": 29,
+        "x": 1314,
+        "y": 918,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gu",
+        "w": 67,
+        "h": 47,
+        "x": 1385,
+        "y": 846,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gv",
+        "w": 29,
+        "h": 29,
+        "x": 1368,
+        "y": 927,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gw",
+        "w": 24,
+        "h": 80,
+        "x": 1502,
+        "y": 483
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gx",
+        "w": 80,
+        "h": 24,
+        "x": 1093,
+        "y": 911,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gy",
+        "w": 66,
+        "h": 18,
+        "x": 376,
+        "y": 1005,
+        "r": true,
+        "fx": -6,
+        "fy": -4,
+        "fw": 24,
+        "fh": 74
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/gz",
+        "w": 4,
+        "h": 4,
+        "x": 1374,
+        "y": 549
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/h",
+        "w": 2,
+        "h": 2,
+        "x": 275,
+        "y": 848
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ha",
+        "w": 30,
+        "h": 48,
+        "x": 1016,
+        "y": 975
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hb",
+        "w": 30,
+        "h": 48,
+        "x": 1048,
+        "y": 975
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hc",
+        "w": 80,
+        "h": 24,
+        "x": 1175,
+        "y": 911,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hd",
+        "w": 80,
+        "h": 24,
+        "x": 916,
+        "y": 920,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/he",
+        "w": 10,
+        "h": 10,
+        "x": 1109,
+        "y": 313
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hf",
+        "w": 38,
+        "h": 38,
+        "x": 1101,
+        "y": 970,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hg",
+        "w": 13,
+        "h": 13,
+        "x": 1440,
+        "y": 976,
+        "fx": -1,
+        "fy": -1,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hh",
+        "w": 20,
+        "h": 20,
+        "x": 1218,
+        "y": 1003
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hi",
+        "w": 20,
+        "h": 20,
+        "x": 1240,
+        "y": 1003
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hj",
+        "w": 15,
+        "h": 13,
+        "x": 1147,
+        "y": 1010,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hk",
+        "w": 145,
+        "h": 43,
+        "x": 387,
+        "y": 754,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 45,
+        "fh": 147
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hl",
+        "w": 253,
+        "h": 45,
+        "x": 1108,
+        "y": 677,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 47,
+        "fh": 255
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hm",
+        "w": 62,
+        "h": 206,
+        "x": 1383,
+        "y": 381,
+        "fx": -1,
+        "fy": -1,
+        "fw": 64,
+        "fh": 208
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hn",
+        "w": 53,
+        "h": 111,
+        "x": 1447,
+        "y": 477,
+        "fx": -2,
+        "fy": 0,
+        "fw": 57,
+        "fh": 115
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ho",
+        "w": 21,
+        "h": 12,
+        "x": 59,
+        "y": 1011,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hp",
+        "w": 21,
+        "h": 13,
+        "x": 1124,
+        "y": 1010,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hq",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 128
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hr",
+        "w": 21,
+        "h": 12,
+        "x": 59,
+        "y": 1011,
+        "r": true,
+        "fx": -15,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hs",
+        "w": 21,
+        "h": 13,
+        "x": 1368,
+        "y": 958,
+        "r": true,
+        "fx": -15,
+        "fy": -1,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/ht",
+        "w": 11,
+        "h": 15,
+        "x": 1520,
+        "y": 145
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hu",
+        "w": 5,
+        "h": 4,
+        "x": 259,
+        "y": 1019,
+        "fx": -7,
+        "fy": -15,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hv",
+        "w": 7,
+        "h": 7,
+        "x": 534,
+        "y": 790,
+        "fx": -6,
+        "fy": -10,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hw",
+        "w": 5,
+        "h": 7,
+        "x": 977,
+        "y": 1014,
+        "fx": -7,
+        "fy": -7,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hx",
+        "w": 17,
+        "h": 17,
+        "x": 1406,
+        "y": 958,
+        "fx": -1,
+        "fy": -1,
+        "fw": 19,
+        "fh": 20
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/hy",
+        "w": 22,
+        "h": 13,
+        "x": 778,
+        "y": 1010,
+        "r": true,
+        "fx": -16,
+        "fy": 0,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/i",
+        "w": 101,
+        "h": 141,
+        "x": 689,
+        "y": 801,
+        "r": true,
+        "fx": -65,
+        "fy": -194,
+        "fw": 272,
+        "fh": 342
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/j",
+        "w": 272,
+        "h": 342,
+        "x": 1,
+        "y": 508
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/k",
+        "w": 4,
+        "h": 4,
+        "x": 1109,
+        "y": 343
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/l",
+        "w": 13,
+        "h": 17,
+        "x": 1353,
+        "y": 997,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/m",
+        "w": 13,
+        "h": 17,
+        "x": 1093,
+        "y": 800,
+        "fx": -10,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/n",
+        "w": 13,
+        "h": 17,
+        "x": 1353,
+        "y": 997,
+        "fx": -10,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/o",
+        "w": 12,
+        "h": 9,
+        "x": 949,
+        "y": 1014,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/p",
+        "w": 12,
+        "h": 9,
+        "x": 935,
+        "y": 1014,
+        "r": true,
+        "fx": -8,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/q",
+        "w": 12,
+        "h": 9,
+        "x": 963,
+        "y": 1014,
+        "r": true,
+        "fx": -8,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/r",
+        "w": 5,
+        "h": 5,
+        "x": 792,
+        "y": 928,
+        "fx": -9,
+        "fy": -22,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/s",
+        "w": 7,
+        "h": 7,
+        "x": 1520,
+        "y": 240,
+        "fx": -8,
+        "fy": -12,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/t",
+        "w": 3,
+        "h": 3,
+        "x": 1285,
+        "y": 925,
+        "fx": -5,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/u",
+        "w": 21,
+        "h": 23,
+        "x": 1291,
+        "y": 998,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/v",
+        "w": 3,
+        "h": 3,
+        "x": 1285,
+        "y": 925,
+        "fx": -10,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/w",
+        "w": 3,
+        "h": 3,
+        "x": 1285,
+        "y": 925,
+        "fx": -15,
+        "fy": -10,
+        "fw": 23,
+        "fh": 28
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/x",
+        "w": 13,
+        "h": 16,
+        "x": 1391,
+        "y": 976,
+        "fx": -9,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/y",
+        "w": 3,
+        "h": 7,
+        "x": 1528,
+        "y": 523
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie/z",
+        "w": 3,
+        "h": 8,
+        "x": 1528,
+        "y": 504
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/a",
+        "w": 79,
+        "h": 246,
+        "x": 1439,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/aa",
+        "w": 21,
+        "h": 38,
+        "x": 1141,
+        "y": 970
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ab",
+        "w": 11,
+        "h": 39,
+        "x": 1520,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ac",
+        "w": 39,
+        "h": 18,
+        "x": 444,
+        "y": 1005,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ad",
+        "w": 21,
+        "h": 27,
+        "x": 1345,
+        "y": 918
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ae",
+        "w": 27,
+        "h": 21,
+        "x": 1418,
+        "y": 935,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/af",
+        "w": 18,
+        "h": 27,
+        "x": 1513,
+        "y": 589
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ag",
+        "w": 27,
+        "h": 19,
+        "x": 1262,
+        "y": 1004,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ah",
+        "w": 38,
+        "h": 21,
+        "x": 1459,
+        "y": 933,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/ai",
+        "w": 18,
+        "h": 27,
+        "x": 1513,
+        "y": 618
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/aj",
+        "w": 47,
+        "h": 22,
+        "x": 981,
+        "y": 951,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/b",
+        "w": 62,
+        "h": 28,
+        "x": 998,
+        "y": 921
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/c",
+        "w": 38,
+        "h": 34,
+        "x": 1164,
+        "y": 967
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/d",
+        "w": 215,
+        "h": 94,
+        "x": 1108,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/e",
+        "w": 206,
+        "h": 120,
+        "x": 1325,
+        "y": 724,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/f",
+        "w": 107,
+        "h": 171,
+        "x": 267,
+        "y": 852
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/g",
+        "w": 56,
+        "h": 114,
+        "x": 1447,
+        "y": 361
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/h",
+        "w": 105,
+        "h": 89,
+        "x": 1093,
+        "y": 820
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/i",
+        "w": 35,
+        "h": 79,
+        "x": 700,
+        "y": 944
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/j",
+        "w": 54,
+        "h": 21,
+        "x": 1313,
+        "y": 895,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/k",
+        "w": 19,
+        "h": 44,
+        "x": 1080,
+        "y": 975
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/l",
+        "w": 21,
+        "h": 32,
+        "x": 1290,
+        "y": 964
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/m",
+        "w": 270,
+        "h": 251,
+        "x": 849,
+        "y": 1
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/n",
+        "w": 204,
+        "h": 204,
+        "x": 376,
+        "y": 799
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/o",
+        "w": 88,
+        "h": 114,
+        "x": 916,
+        "y": 804
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/p",
+        "w": 105,
+        "h": 140,
+        "x": 582,
+        "y": 801
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/q",
+        "w": 258,
+        "h": 205,
+        "x": 849,
+        "y": 254
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/r",
+        "w": 19,
+        "h": 23,
+        "x": 1314,
+        "y": 997
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/s",
+        "w": 29,
+        "h": 22,
+        "x": 1502,
+        "y": 565
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/t",
+        "w": 38,
+        "h": 18,
+        "x": 485,
+        "y": 1005
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/u",
+        "w": 21,
+        "h": 65,
+        "x": 347,
+        "y": 782,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/v",
+        "w": 11,
+        "h": 11,
+        "x": 1491,
+        "y": 988
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/w",
+        "w": 39,
+        "h": 13,
+        "x": 737,
+        "y": 1010,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/x",
+        "w": 27,
+        "h": 21,
+        "x": 1314,
+        "y": 949,
+        "r": true
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/y",
+        "w": 18,
+        "h": 27,
+        "x": 1513,
+        "y": 618
+    },
+    {
+        "n": "story/story_event_quest/dollprincess01/event_chapter_00_01/.gen/movie_ui_scale/z",
+        "w": 32,
+        "h": 27,
+        "x": 1499,
+        "y": 942
+    }
+]
