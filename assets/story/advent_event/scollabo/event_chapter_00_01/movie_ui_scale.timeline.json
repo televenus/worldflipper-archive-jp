@@ -1,0 +1,27 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 3207,
+            "name": "--",
+            "kind": "pass"
+        },
+        {
+            "begin": 3208,
+            "end": 3660,
+            "name": "logo",
+            "kind": "pass"
+        },
+        {
+            "begin": 3661,
+            "end": 8467,
+            "name": "end_logo",
+            "kind": "pass"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}
