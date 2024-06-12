@@ -1,0 +1,317 @@
+[
+    "ActionDsl",
+    1,
+    [
+        "None"
+    ],
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    0,
+    [
+        "Block",
+        [
+            [
+                "Command",
+                [
+                    "ShowEffect",
+                    "全体演出",
+                    [
+                        "SpecifyEffectDirectly",
+                        "battle/effect/skill_unique/asahina_mikuru/asahina_mikuru_all"
+                    ],
+                    -1,
+                    [
+                        "ForesideOfCharacter"
+                    ],
+                    [
+                        "PlayOnlyFirstSequence"
+                    ],
+                    [
+                        "AB"
+                    ],
+                    0,
+                    0,
+                    0,
+                    false,
+                    false,
+                    [
+                        "None"
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    0,
+                    33,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "ShowEffect",
+                                    "すべての味方キャラ",
+                                    [
+                                        "SpecifyEffectDirectly",
+                                        "battle/effect/skill_unique/asahina_mikuru/asahina_mikuru_hit"
+                                    ],
+                                    0,
+                                    [
+                                        "ForesideOfCharacter"
+                                    ],
+                                    [
+                                        "PlayOnlyFirstSequence"
+                                    ],
+                                    [
+                                        "AB"
+                                    ],
+                                    0,
+                                    0,
+                                    0,
+                                    true,
+                                    false,
+                                    [
+                                        "None"
+                                    ]
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACRegeneration",
+                                            [
+                                                {
+                                                    "min": 480,
+                                                    "max": 480
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "min": 75,
+                                                    "max": 100
+                                                }
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        {
+                                            "min": 1,
+                                            "max": 1
+                                        }
+                                    ],
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false,
+                                    "",
+                                    null,
+                                    false,
+                                    3,
+                                    [
+                                        {
+                                            "min": 1,
+                                            "max": 1
+                                        }
+                                    ],
+                                    false
+                                ]
+                            ],
+                            [
+                                "Command",
+                                [
+                                    "CreateCondition",
+                                    0,
+                                    [
+                                        [
+                                            "ACAttackPoint",
+                                            [
+                                                {
+                                                    "min": 900,
+                                                    "max": 900
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "min": 0.4,
+                                                    "max": 0.5
+                                                }
+                                            ],
+                                            [
+                                                {
+                                                    "min": 1,
+                                                    "max": 1
+                                                }
+                                            ]
+                                        ]
+                                    ],
+                                    [
+                                        {
+                                            "min": 1,
+                                            "max": 1
+                                        }
+                                    ],
+                                    [
+                                        "GenericConditionHitEffect"
+                                    ],
+                                    true,
+                                    false,
+                                    "",
+                                    null,
+                                    false,
+                                    3,
+                                    [
+                                        {
+                                            "min": 1,
+                                            "max": 1
+                                        }
+                                    ],
+                                    false
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    1,
+                    113,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateRatioHeal",
+                                    1,
+                                    2,
+                                    [
+                                        {
+                                            "min": 0.064,
+                                            "max": 0.08
+                                        }
+                                    ],
+                                    [
+                                        5
+                                    ],
+                                    [
+                                        {
+                                            "min": 0.5,
+                                            "max": 0.5
+                                        }
+                                    ],
+                                    [
+                                        "None"
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "FindAllSubjects",
+                    2,
+                    145,
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "DoNothing"
+                    ],
+                    [
+                        "Block",
+                        [
+                            [
+                                "Command",
+                                [
+                                    "CreateRatioHeal",
+                                    2,
+                                    2,
+                                    [
+                                        {
+                                            "min": 0.064,
+                                            "max": 0.08
+                                        }
+                                    ],
+                                    [
+                                        5
+                                    ],
+                                    [
+                                        {
+                                            "min": 0.5,
+                                            "max": 0.5
+                                        }
+                                    ],
+                                    [
+                                        "None"
+                                    ]
+                                ]
+                            ]
+                        ]
+                    ]
+                ]
+            ],
+            [
+                "Command",
+                [
+                    "CreateRatioHeal",
+                    -33,
+                    2,
+                    [
+                        {
+                            "min": 0.064,
+                            "max": 0.08
+                        }
+                    ],
+                    [
+                        5
+                    ],
+                    [
+                        {
+                            "min": 0.5,
+                            "max": 0.5
+                        }
+                    ],
+                    [
+                        "GenericHealHitEffect"
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

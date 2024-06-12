@@ -1,0 +1,23 @@
+[
+    {
+        "n": "battle/effect/skill_unique/darkness_high_definition/.gen/darkness_hit1/a",
+        "w": 86,
+        "h": 44,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness_high_definition/.gen/darkness_hit2/a",
+        "w": 86,
+        "h": 44,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness_high_definition/.gen/darkness_hit3/a",
+        "w": 86,
+        "h": 44,
+        "x": 1,
+        "y": 1
+    }
+]

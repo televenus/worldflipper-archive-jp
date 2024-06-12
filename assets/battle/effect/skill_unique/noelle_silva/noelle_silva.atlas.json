@@ -1,0 +1,293 @@
+[
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_backdot/a",
+        "w": 3,
+        "h": 9,
+        "x": 189,
+        "y": 60,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_backdot/b",
+        "w": 15,
+        "h": 12,
+        "x": 210,
+        "y": 187,
+        "fx": -5,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_backdot_shadow/a",
+        "w": 3,
+        "h": 9,
+        "x": 189,
+        "y": 60,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/a",
+        "w": 18,
+        "h": 61,
+        "x": 208,
+        "y": 220,
+        "fx": 0,
+        "fy": -1,
+        "fw": 19,
+        "fh": 63
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/b",
+        "w": 65,
+        "h": 35,
+        "x": 90,
+        "y": 189,
+        "fx": 0,
+        "fy": 0,
+        "fw": 70,
+        "fh": 35
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/c",
+        "w": 27,
+        "h": 82,
+        "x": 160,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/d",
+        "w": 40,
+        "h": 40,
+        "x": 150,
+        "y": 145
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/e",
+        "w": 50,
+        "h": 50,
+        "x": 114,
+        "y": 253
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/f",
+        "w": 5,
+        "h": 6,
+        "x": 150,
+        "y": 226,
+        "fx": 0,
+        "fy": 0,
+        "fw": 5,
+        "fh": 7
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/g",
+        "w": 40,
+        "h": 40,
+        "x": 192,
+        "y": 145
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/h",
+        "w": 40,
+        "h": 40,
+        "x": 166,
+        "y": 253
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/i",
+        "w": 82,
+        "h": 27,
+        "x": 1,
+        "y": 225
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/j",
+        "w": 5,
+        "h": 6,
+        "x": 227,
+        "y": 187,
+        "fx": 0,
+        "fy": 0,
+        "fw": 5,
+        "fh": 7
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/k",
+        "w": 7,
+        "h": 7,
+        "x": 208,
+        "y": 283
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/l",
+        "w": 7,
+        "h": 7,
+        "x": 194,
+        "y": 89
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/m",
+        "w": 157,
+        "h": 137,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/n",
+        "w": 87,
+        "h": 83,
+        "x": 1,
+        "y": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/o",
+        "w": 32,
+        "h": 58,
+        "x": 160,
+        "y": 85,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/p",
+        "w": 43,
+        "h": 57,
+        "x": 189,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/q",
+        "w": 59,
+        "h": 13,
+        "x": 111,
+        "y": 305
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_charge/r",
+        "w": 60,
+        "h": 19,
+        "x": 1,
+        "y": 303,
+        "fx": -1,
+        "fy": 0,
+        "fw": 62,
+        "fh": 19
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/a",
+        "w": 157,
+        "h": 137,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/b",
+        "w": 87,
+        "h": 83,
+        "x": 1,
+        "y": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/c",
+        "w": 37,
+        "h": 27,
+        "x": 194,
+        "y": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/d",
+        "w": 51,
+        "h": 47,
+        "x": 61,
+        "y": 254,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/e",
+        "w": 58,
+        "h": 47,
+        "x": 90,
+        "y": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/f",
+        "w": 58,
+        "h": 47,
+        "x": 1,
+        "y": 254
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/g",
+        "w": 63,
+        "h": 25,
+        "x": 85,
+        "y": 226
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/h",
+        "w": 32,
+        "h": 58,
+        "x": 160,
+        "y": 85,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/i",
+        "w": 43,
+        "h": 57,
+        "x": 189,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/j",
+        "w": 51,
+        "h": 31,
+        "x": 157,
+        "y": 187,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/k",
+        "w": 55,
+        "h": 27,
+        "x": 172,
+        "y": 295
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/l",
+        "w": 59,
+        "h": 13,
+        "x": 111,
+        "y": 305
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/m",
+        "w": 60,
+        "h": 19,
+        "x": 1,
+        "y": 303,
+        "fx": -1,
+        "fy": 0,
+        "fw": 62,
+        "fh": 19
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/n",
+        "w": 49,
+        "h": 31,
+        "x": 157,
+        "y": 220,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/noelle_silva/.gen/noelle_silva_dragon/o",
+        "w": 46,
+        "h": 17,
+        "x": 63,
+        "y": 305,
+        "r": true
+    }
+]

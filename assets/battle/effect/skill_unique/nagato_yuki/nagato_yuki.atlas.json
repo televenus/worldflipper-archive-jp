@@ -1,0 +1,221 @@
+[
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/a",
+        "w": 4,
+        "h": 4,
+        "x": 234,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/b",
+        "w": 30,
+        "h": 30,
+        "x": 220,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/c",
+        "w": 4,
+        "h": 4,
+        "x": 240,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/d",
+        "w": 21,
+        "h": 21,
+        "x": 234,
+        "y": 1,
+        "fx": -10,
+        "fy": -10,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/e",
+        "w": 40,
+        "h": 40,
+        "x": 215,
+        "y": 311
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/f",
+        "w": 39,
+        "h": 39,
+        "x": 208,
+        "y": 395,
+        "fx": -1,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/g",
+        "w": 149,
+        "h": 147,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/h",
+        "w": 4,
+        "h": 4,
+        "x": 234,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/i",
+        "w": 40,
+        "h": 40,
+        "x": 215,
+        "y": 353
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/j",
+        "w": 4,
+        "h": 4,
+        "x": 246,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/k",
+        "w": 80,
+        "h": 80,
+        "x": 152,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_convergence/l",
+        "w": 77,
+        "h": 74,
+        "x": 150,
+        "y": 160,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/a",
+        "w": 4,
+        "h": 4,
+        "x": 234,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/b",
+        "w": 30,
+        "h": 30,
+        "x": 220,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/c",
+        "w": 4,
+        "h": 4,
+        "x": 240,
+        "y": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/d",
+        "w": 73,
+        "h": 73,
+        "x": 145,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/e",
+        "w": 73,
+        "h": 73,
+        "x": 1,
+        "y": 281
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/f",
+        "w": 147,
+        "h": 54,
+        "x": 1,
+        "y": 150,
+        "fx": -2,
+        "fy": -6,
+        "fw": 150,
+        "fh": 66
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/g",
+        "w": 80,
+        "h": 75,
+        "x": 152,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/h",
+        "w": 50,
+        "h": 50,
+        "x": 76,
+        "y": 390
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/i",
+        "w": 73,
+        "h": 72,
+        "x": 1,
+        "y": 356,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 73,
+        "fh": 73
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/j",
+        "w": 71,
+        "h": 53,
+        "x": 135,
+        "y": 386,
+        "fx": 0,
+        "fy": 0,
+        "fw": 73,
+        "fh": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/k",
+        "w": 77,
+        "h": 73,
+        "x": 1,
+        "y": 206
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/l",
+        "w": 73,
+        "h": 73,
+        "x": 140,
+        "y": 311
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/m",
+        "w": 58,
+        "h": 58,
+        "x": 80,
+        "y": 280
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/n",
+        "w": 57,
+        "h": 48,
+        "x": 76,
+        "y": 340
+    },
+    {
+        "n": "battle/effect/skill_unique/nagato_yuki/.gen/nagato_yuki_ice/o",
+        "w": 63,
+        "h": 72,
+        "x": 80,
+        "y": 206
+    }
+]

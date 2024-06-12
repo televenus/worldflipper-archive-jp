@@ -1,0 +1,555 @@
+[
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/a",
+        "w": 40,
+        "h": 40,
+        "x": 204,
+        "y": 174
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/b",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/c",
+        "w": 40,
+        "h": 40,
+        "x": 43,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/d",
+        "w": 40,
+        "h": 40,
+        "x": 85,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/e",
+        "w": 96,
+        "h": 74,
+        "x": 1,
+        "y": 336,
+        "fx": -18,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/f",
+        "w": 100,
+        "h": 43,
+        "x": 1,
+        "y": 134,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/g",
+        "w": 4,
+        "h": 40,
+        "x": 234,
+        "y": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/h",
+        "w": 4,
+        "h": 40,
+        "x": 240,
+        "y": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/i",
+        "w": 15,
+        "h": 13,
+        "x": 234,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 13,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/j",
+        "w": 84,
+        "h": 83,
+        "x": 99,
+        "y": 407,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 86,
+        "fh": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/k",
+        "w": 98,
+        "h": 79,
+        "x": 1,
+        "y": 255,
+        "fx": -18,
+        "fy": -2,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/l",
+        "w": 111,
+        "h": 64,
+        "x": 1,
+        "y": 68,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/m",
+        "w": 99,
+        "h": 74,
+        "x": 103,
+        "y": 134,
+        "fx": -17,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/n",
+        "w": 115,
+        "h": 65,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/o",
+        "w": 99,
+        "h": 74,
+        "x": 1,
+        "y": 179,
+        "fx": -17,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/p",
+        "w": 111,
+        "h": 64,
+        "x": 114,
+        "y": 68,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/q",
+        "w": 98,
+        "h": 71,
+        "x": 101,
+        "y": 278,
+        "fx": -18,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/r",
+        "w": 114,
+        "h": 65,
+        "x": 118,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/s",
+        "w": 90,
+        "h": 54,
+        "x": 99,
+        "y": 351,
+        "fx": -20,
+        "fy": -22,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_all/t",
+        "w": 49,
+        "h": 90,
+        "x": 203,
+        "y": 216,
+        "r": true,
+        "fx": -20,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/a",
+        "w": 99,
+        "h": 66,
+        "x": 102,
+        "y": 210
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/b",
+        "w": 15,
+        "h": 13,
+        "x": 234,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 13,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/c",
+        "w": 40,
+        "h": 40,
+        "x": 204,
+        "y": 174
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/d",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/e",
+        "w": 40,
+        "h": 40,
+        "x": 43,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/f",
+        "w": 40,
+        "h": 40,
+        "x": 85,
+        "y": 704
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/g",
+        "w": 25,
+        "h": 29,
+        "x": 227,
+        "y": 68
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/h",
+        "w": 49,
+        "h": 90,
+        "x": 203,
+        "y": 216,
+        "r": true,
+        "fx": -20,
+        "fy": -25,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/i",
+        "w": 49,
+        "h": 39,
+        "x": 127,
+        "y": 704,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/j",
+        "w": 90,
+        "h": 54,
+        "x": 99,
+        "y": 351,
+        "fx": -20,
+        "fy": -22,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/k",
+        "w": 50,
+        "h": 63,
+        "x": 201,
+        "y": 308
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/l",
+        "w": 59,
+        "h": 52,
+        "x": 191,
+        "y": 373,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/m",
+        "w": 98,
+        "h": 71,
+        "x": 101,
+        "y": 278,
+        "fx": -18,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/n",
+        "w": 45,
+        "h": 38,
+        "x": 204,
+        "y": 134
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/o",
+        "w": 99,
+        "h": 74,
+        "x": 1,
+        "y": 179,
+        "fx": -17,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/p",
+        "w": 99,
+        "h": 74,
+        "x": 103,
+        "y": 134,
+        "fx": -17,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/q",
+        "w": 98,
+        "h": 79,
+        "x": 1,
+        "y": 255,
+        "fx": -18,
+        "fy": -2,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/r",
+        "w": 96,
+        "h": 74,
+        "x": 1,
+        "y": 336,
+        "fx": -18,
+        "fy": -7,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_disappear/s",
+        "w": 30,
+        "h": 63,
+        "x": 1,
+        "y": 635,
+        "r": true,
+        "fx": -32,
+        "fy": -46,
+        "fw": 128,
+        "fh": 128
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/a",
+        "w": 4,
+        "h": 4,
+        "x": 246,
+        "y": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/b",
+        "w": 4,
+        "h": 4,
+        "x": 246,
+        "y": 22
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/c",
+        "w": 2,
+        "h": 29,
+        "x": 246,
+        "y": 28,
+        "fx": 0,
+        "fy": -1,
+        "fw": 2,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/d",
+        "w": 84,
+        "h": 83,
+        "x": 99,
+        "y": 407,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 86,
+        "fh": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/e",
+        "w": 15,
+        "h": 13,
+        "x": 234,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 13,
+        "fh": 16
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/f",
+        "w": 114,
+        "h": 65,
+        "x": 118,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/g",
+        "w": 111,
+        "h": 64,
+        "x": 1,
+        "y": 68,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/h",
+        "w": 115,
+        "h": 65,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/i",
+        "w": 111,
+        "h": 64,
+        "x": 114,
+        "y": 68,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/j",
+        "w": 79,
+        "h": 79,
+        "x": 165,
+        "y": 510,
+        "fx": -11,
+        "fy": -15,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/k",
+        "w": 79,
+        "h": 79,
+        "x": 83,
+        "y": 549,
+        "fx": -11,
+        "fy": -15,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/l",
+        "w": 80,
+        "h": 79,
+        "x": 1,
+        "y": 476,
+        "r": true,
+        "fx": -11,
+        "fy": -14,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/m",
+        "w": 77,
+        "h": 76,
+        "x": 1,
+        "y": 557,
+        "fx": -12,
+        "fy": -17,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/n",
+        "w": 75,
+        "h": 72,
+        "x": 80,
+        "y": 630,
+        "fx": -13,
+        "fy": -21,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/o",
+        "w": 72,
+        "h": 72,
+        "x": 178,
+        "y": 663,
+        "fx": -15,
+        "fy": -22,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/p",
+        "w": 76,
+        "h": 70,
+        "x": 164,
+        "y": 591,
+        "r": true,
+        "fx": -16,
+        "fy": -18,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/q",
+        "w": 66,
+        "h": 81,
+        "x": 185,
+        "y": 427,
+        "fx": -18,
+        "fy": -13,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/r",
+        "w": 81,
+        "h": 62,
+        "x": 1,
+        "y": 412,
+        "r": true,
+        "fx": -19,
+        "fy": -13,
+        "fw": 100,
+        "fh": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/summoner_little_smr23/.gen/summoner_little_smr23_multiball_ready/s",
+        "w": 80,
+        "h": 55,
+        "x": 83,
+        "y": 492,
+        "r": true,
+        "fx": -21,
+        "fy": -14,
+        "fw": 100,
+        "fh": 180
+    }
+]

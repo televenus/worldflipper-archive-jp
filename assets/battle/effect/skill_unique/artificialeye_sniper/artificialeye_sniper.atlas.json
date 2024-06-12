@@ -1,0 +1,267 @@
+[
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_bullet/a",
+        "w": 12,
+        "h": 50,
+        "x": 111,
+        "y": 188
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_bullet/b",
+        "w": 60,
+        "h": 59,
+        "x": 61,
+        "y": 379,
+        "fx": 0,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/a",
+        "w": 30,
+        "h": 40,
+        "x": 70,
+        "y": 240,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/b",
+        "w": 47,
+        "h": 36,
+        "x": 79,
+        "y": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/c",
+        "w": 46,
+        "h": 50,
+        "x": 79,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/d",
+        "w": 35,
+        "h": 50,
+        "x": 74,
+        "y": 188,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/e",
+        "w": 23,
+        "h": 23,
+        "x": 88,
+        "y": 502
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/f",
+        "w": 20,
+        "h": 25,
+        "x": 66,
+        "y": 502,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/g",
+        "w": 11,
+        "h": 17,
+        "x": 113,
+        "y": 502,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_charge/h",
+        "w": 17,
+        "h": 19,
+        "x": 101,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/a",
+        "w": 50,
+        "h": 50,
+        "x": 72,
+        "y": 91
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/b",
+        "w": 23,
+        "h": 23,
+        "x": 102,
+        "y": 240,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/c",
+        "w": 23,
+        "h": 23,
+        "x": 102,
+        "y": 265,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/d",
+        "w": 71,
+        "h": 74,
+        "x": 1,
+        "y": 162,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/e",
+        "w": 47,
+        "h": 36,
+        "x": 79,
+        "y": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/f",
+        "w": 61,
+        "h": 61,
+        "x": 61,
+        "y": 316
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/g",
+        "w": 46,
+        "h": 50,
+        "x": 79,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/h",
+        "w": 35,
+        "h": 50,
+        "x": 74,
+        "y": 188,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/i",
+        "w": 23,
+        "h": 23,
+        "x": 88,
+        "y": 502
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/j",
+        "w": 20,
+        "h": 25,
+        "x": 66,
+        "y": 502,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/k",
+        "w": 11,
+        "h": 17,
+        "x": 113,
+        "y": 502,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_hiteffect/l",
+        "w": 17,
+        "h": 19,
+        "x": 101,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/a",
+        "w": 60,
+        "h": 59,
+        "x": 61,
+        "y": 379,
+        "fx": 0,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/b",
+        "w": 29,
+        "h": 29,
+        "x": 70,
+        "y": 282,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/c",
+        "w": 54,
+        "h": 67,
+        "x": 1,
+        "y": 393
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/d",
+        "w": 58,
+        "h": 60,
+        "x": 66,
+        "y": 440,
+        "fx": -2,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/e",
+        "w": 67,
+        "h": 76,
+        "x": 1,
+        "y": 238,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/f",
+        "w": 69,
+        "h": 81,
+        "x": 1,
+        "y": 79,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_shoot/g",
+        "w": 58,
+        "h": 75,
+        "x": 1,
+        "y": 316,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_target/a",
+        "w": 76,
+        "h": 76,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_target/b",
+        "w": 63,
+        "h": 63,
+        "x": 1,
+        "y": 462
+    },
+    {
+        "n": "battle/effect/skill_unique/artificialeye_sniper/.gen/artificialeye_sniper_target/c",
+        "w": 43,
+        "h": 43,
+        "x": 74,
+        "y": 143
+    }
+]

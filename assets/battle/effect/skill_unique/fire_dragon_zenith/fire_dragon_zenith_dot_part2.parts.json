@@ -1,0 +1,227 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/c"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/d"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/e"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/f"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/g"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/fire_dragon_zenith/.gen/fire_dragon_zenith_dot_part2/h"
+        }
+    ],
+    "g": [
+        {
+            "t": 43,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 41,
+                            "r": 1073741884
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 123,
+            "s": [
+                {
+                    "s": -2147483588,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 41,
+                            "r": 1073741864
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483596,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 16646182,
+                            "r": 1073741876
+                        },
+                        {
+                            "m": 8447,
+                            "t": 16646154,
+                            "r": 1073741914
+                        },
+                        {
+                            "m": 8192,
+                            "r": 1073741924
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 107,
+            "s": [
+                {
+                    "s": 60,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 66,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 6
+                        }
+                    ]
+                },
+                {
+                    "s": 72,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 77,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 5
+                        }
+                    ]
+                },
+                {
+                    "s": 82,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 86,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 90,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 94,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 13
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 41,
+            "s": []
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 24576,
+            "b": 0,
+            "c": 0,
+            "d": 24576,
+            "x": 0,
+            "y": 122880
+        },
+        {
+            "a": 24576,
+            "b": 0,
+            "c": 0,
+            "d": 24576,
+            "x": 0,
+            "y": -368640
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -368640,
+            "y": -368640
+        }
+    ],
+    "c": [],
+    "s": 1
+}

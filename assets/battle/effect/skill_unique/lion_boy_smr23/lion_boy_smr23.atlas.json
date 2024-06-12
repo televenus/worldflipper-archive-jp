@@ -1,0 +1,343 @@
+[
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/a",
+        "w": 200,
+        "h": 152,
+        "x": 324,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/aa",
+        "w": 46,
+        "h": 80,
+        "x": 600,
+        "y": 132,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ab",
+        "w": 80,
+        "h": 59,
+        "x": 723,
+        "y": 71
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ac",
+        "w": 12,
+        "h": 13,
+        "x": 285,
+        "y": 242,
+        "fx": -62,
+        "fy": -42,
+        "fw": 134,
+        "fh": 134
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ad",
+        "w": 78,
+        "h": 72,
+        "x": 887,
+        "y": 76,
+        "r": true,
+        "fx": -372,
+        "fy": -252,
+        "fw": 804,
+        "fh": 804
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ae",
+        "w": 30,
+        "h": 30,
+        "x": 609,
+        "y": 214
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/af",
+        "w": 30,
+        "h": 30,
+        "x": 966,
+        "y": 152
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ag",
+        "w": 19,
+        "h": 20,
+        "x": 875,
+        "y": 231,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ah",
+        "w": 20,
+        "h": 20,
+        "x": 853,
+        "y": 231
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ai",
+        "w": 10,
+        "h": 10,
+        "x": 697,
+        "y": 189
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/aj",
+        "w": 23,
+        "h": 23,
+        "x": 998,
+        "y": 152
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ak",
+        "w": 54,
+        "h": 67,
+        "x": 967,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/al",
+        "w": 60,
+        "h": 44,
+        "x": 648,
+        "y": 211,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 45,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/am",
+        "w": 69,
+        "h": 60,
+        "x": 710,
+        "y": 189
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/an",
+        "w": 81,
+        "h": 68,
+        "x": 728,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/ao",
+        "w": 59,
+        "h": 47,
+        "x": 843,
+        "y": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/b",
+        "w": 200,
+        "h": 49,
+        "x": 526,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/c",
+        "w": 80,
+        "h": 68,
+        "x": 811,
+        "y": 1,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/d",
+        "w": 20,
+        "h": 20,
+        "x": 966,
+        "y": 184
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/e",
+        "w": 46,
+        "h": 80,
+        "x": 975,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/f",
+        "w": 80,
+        "h": 73,
+        "x": 893,
+        "y": 1,
+        "r": true,
+        "fx": -3,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/g",
+        "w": 80,
+        "h": 75,
+        "x": 608,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/h",
+        "w": 80,
+        "h": 78,
+        "x": 526,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/i",
+        "w": 30,
+        "h": 30,
+        "x": 853,
+        "y": 199
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/j",
+        "w": 32,
+        "h": 70,
+        "x": 285,
+        "y": 170,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/k",
+        "w": 31,
+        "h": 70,
+        "x": 690,
+        "y": 52,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/l",
+        "w": 70,
+        "h": 48,
+        "x": 781,
+        "y": 203
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/m",
+        "w": 80,
+        "h": 80,
+        "x": 203,
+        "y": 170
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/n",
+        "w": 60,
+        "h": 60,
+        "x": 781,
+        "y": 141
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/o",
+        "w": 23,
+        "h": 23,
+        "x": 998,
+        "y": 177,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/p",
+        "w": 20,
+        "h": 20,
+        "x": 966,
+        "y": 206
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/q",
+        "w": 60,
+        "h": 60,
+        "x": 904,
+        "y": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/r",
+        "w": 68,
+        "h": 100,
+        "x": 411,
+        "y": 155
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/s",
+        "w": 200,
+        "h": 83,
+        "x": 1,
+        "y": 170
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/t",
+        "w": 86,
+        "h": 100,
+        "x": 323,
+        "y": 155,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/u",
+        "w": 44,
+        "h": 100,
+        "x": 481,
+        "y": 155
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/v",
+        "w": 80,
+        "h": 68,
+        "x": 805,
+        "y": 71
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/w",
+        "w": 71,
+        "h": 80,
+        "x": 527,
+        "y": 132,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/x",
+        "w": 47,
+        "h": 80,
+        "x": 648,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/y",
+        "w": 80,
+        "h": 55,
+        "x": 697,
+        "y": 132
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_all/z",
+        "w": 80,
+        "h": 38,
+        "x": 527,
+        "y": 214
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_bg/a",
+        "w": 320,
+        "h": 81,
+        "x": 1,
+        "y": 87,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/lion_boy_smr23/.gen/lion_boy_smr23_bg/b",
+        "w": 321,
+        "h": 84,
+        "x": 1,
+        "y": 1,
+        "r": true
+    }
+]

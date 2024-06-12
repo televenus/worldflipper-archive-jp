@@ -1,0 +1,245 @@
+[
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_black/a",
+        "w": 50,
+        "h": 50,
+        "x": 74,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_black/b",
+        "w": 80,
+        "h": 80,
+        "x": 1,
+        "y": 97
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/a",
+        "w": 16,
+        "h": 41,
+        "x": 107,
+        "y": 1,
+        "fx": -33,
+        "fy": -5,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/b",
+        "w": 16,
+        "h": 41,
+        "x": 107,
+        "y": 44,
+        "fx": -33,
+        "fy": -5,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/c",
+        "w": 15,
+        "h": 41,
+        "x": 107,
+        "y": 87,
+        "fx": -34,
+        "fy": -4,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/d",
+        "w": 12,
+        "h": 41,
+        "x": 97,
+        "y": 167,
+        "fx": -37,
+        "fy": -3,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/e",
+        "w": 12,
+        "h": 41,
+        "x": 111,
+        "y": 167,
+        "fx": -37,
+        "fy": -2,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/f",
+        "w": 12,
+        "h": 42,
+        "x": 83,
+        "y": 142,
+        "fx": -37,
+        "fy": -1,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_dot/g",
+        "w": 12,
+        "h": 43,
+        "x": 83,
+        "y": 97,
+        "fx": -37,
+        "fy": 0,
+        "fw": 84,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_kirakira/a",
+        "w": 71,
+        "h": 71,
+        "x": 1,
+        "y": 252
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_rainbowfire/a",
+        "w": 49,
+        "h": 49,
+        "x": 69,
+        "y": 498,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_rainbowfire/b",
+        "w": 38,
+        "h": 67,
+        "x": 77,
+        "y": 221,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_rainbowfire/c",
+        "w": 66,
+        "h": 37,
+        "x": 1,
+        "y": 468,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_rainbowfire/d",
+        "w": 23,
+        "h": 35,
+        "x": 97,
+        "y": 130,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/a",
+        "w": 50,
+        "h": 50,
+        "x": 69,
+        "y": 342
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/b",
+        "w": 50,
+        "h": 50,
+        "x": 69,
+        "y": 394
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/c",
+        "w": 104,
+        "h": 94,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -2,
+        "fw": 96,
+        "fh": 106
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/d",
+        "w": 50,
+        "h": 50,
+        "x": 69,
+        "y": 446,
+        "fx": -1,
+        "fy": -1,
+        "fw": 56,
+        "fh": 56
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/e",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 507
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_spear/f",
+        "w": 74,
+        "h": 71,
+        "x": 1,
+        "y": 179,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_uptail/a",
+        "w": 66,
+        "h": 64,
+        "x": 1,
+        "y": 402,
+        "fx": -6,
+        "fy": -6,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_uptail/b",
+        "w": 66,
+        "h": 75,
+        "x": 1,
+        "y": 325,
+        "r": true,
+        "fx": -2,
+        "fy": -5,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_uptail/c",
+        "w": 16,
+        "h": 16,
+        "x": 77,
+        "y": 186,
+        "fx": -9,
+        "fy": -9,
+        "fw": 25,
+        "fh": 25
+    },
+    {
+        "n": "battle/effect/skill_unique/nova_4anv/.gen/nova_4anv_uptail/d",
+        "w": 15,
+        "h": 15,
+        "x": 77,
+        "y": 204,
+        "fx": 0,
+        "fy": 0,
+        "fw": 16,
+        "fh": 16
+    }
+]

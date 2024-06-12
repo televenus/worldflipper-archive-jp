@@ -1,0 +1,171 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 48,
+            "name": "side_start",
+            "kind": "once"
+        },
+        {
+            "begin": 49,
+            "end": 96,
+            "name": "front_start",
+            "kind": "once"
+        },
+        {
+            "begin": 97,
+            "end": 144,
+            "name": "side_neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 145,
+            "end": 192,
+            "name": "front_neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 193,
+            "end": 240,
+            "name": "side_start_p3",
+            "kind": "once"
+        },
+        {
+            "begin": 241,
+            "end": 288,
+            "name": "front_start_p3",
+            "kind": "once"
+        },
+        {
+            "begin": 289,
+            "end": 336,
+            "name": "side_neutral_p3",
+            "kind": "loop"
+        },
+        {
+            "begin": 337,
+            "end": 384,
+            "name": "front_neutral_p3",
+            "kind": "loop"
+        },
+        {
+            "begin": 385,
+            "end": 438,
+            "name": "side_destruction",
+            "kind": "once"
+        },
+        {
+            "begin": 439,
+            "end": 492,
+            "name": "front_destruction",
+            "kind": "once"
+        },
+        {
+            "begin": 493,
+            "end": 532,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 533,
+            "end": 556,
+            "name": "side_attack_punch_start",
+            "kind": "once"
+        },
+        {
+            "begin": 557,
+            "end": 572,
+            "name": "side_attack_punch_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 573,
+            "end": 596,
+            "name": "side_attack_punch_start_p3",
+            "kind": "once"
+        },
+        {
+            "begin": 597,
+            "end": 612,
+            "name": "side_attack_punch_charge_p3",
+            "kind": "loop"
+        },
+        {
+            "begin": 613,
+            "end": 642,
+            "name": "side_attack_punch_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 643,
+            "end": 666,
+            "name": "front_attack_start",
+            "kind": "once"
+        },
+        {
+            "begin": 667,
+            "end": 682,
+            "name": "front_attack_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 683,
+            "end": 721,
+            "name": "front_attack_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 722,
+            "end": 745,
+            "name": "front_attack_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 746,
+            "end": 755,
+            "name": "front_attack_end",
+            "kind": "once"
+        },
+        {
+            "begin": 756,
+            "end": 779,
+            "name": "front_attack_punch_start",
+            "kind": "once"
+        },
+        {
+            "begin": 780,
+            "end": 795,
+            "name": "front_attack_punch_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 796,
+            "end": 819,
+            "name": "front_attack_punch_start_p3",
+            "kind": "once"
+        },
+        {
+            "begin": 820,
+            "end": 835,
+            "name": "front_attack_punch_charge_p3",
+            "kind": "loop"
+        },
+        {
+            "begin": 836,
+            "end": 865,
+            "name": "front_attack_punch_fire",
+            "kind": "once"
+        },
+        {
+            "begin": 866,
+            "end": 876,
+            "name": "warp",
+            "kind": "once"
+        }
+    ],
+    "sounds": [],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

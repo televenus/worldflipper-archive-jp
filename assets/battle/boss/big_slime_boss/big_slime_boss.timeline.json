@@ -1,0 +1,733 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 87,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 88,
+            "end": 106,
+            "name": "wince_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 107,
+            "end": 216,
+            "name": "wince",
+            "kind": "loop"
+        },
+        {
+            "begin": 217,
+            "end": 235,
+            "name": "stun_ready",
+            "kind": "pass"
+        },
+        {
+            "begin": 236,
+            "end": 345,
+            "name": "stun",
+            "kind": "loop"
+        },
+        {
+            "begin": 346,
+            "end": 477,
+            "name": "dead",
+            "kind": "once"
+        },
+        {
+            "begin": 478,
+            "end": 492,
+            "name": "shot1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 493,
+            "end": 516,
+            "name": "shot1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 517,
+            "end": 526,
+            "name": "shot1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 527,
+            "end": 538,
+            "name": "shot1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 539,
+            "end": 562,
+            "name": "shot1_end",
+            "kind": "once"
+        },
+        {
+            "begin": 563,
+            "end": 577,
+            "name": "shot2_start",
+            "kind": "once"
+        },
+        {
+            "begin": 578,
+            "end": 601,
+            "name": "shot2_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 602,
+            "end": 623,
+            "name": "shot2_jump_out",
+            "kind": "once"
+        },
+        {
+            "begin": 624,
+            "end": 643,
+            "name": "shot2_jump_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 644,
+            "end": 656,
+            "name": "shot2_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 657,
+            "end": 672,
+            "name": "shot2_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 673,
+            "end": 713,
+            "name": "shot2_end",
+            "kind": "once"
+        },
+        {
+            "begin": 714,
+            "end": 764,
+            "name": "shot2_jump_in",
+            "kind": "once"
+        },
+        {
+            "begin": 765,
+            "end": 779,
+            "name": "shot3_start",
+            "kind": "once"
+        },
+        {
+            "begin": 780,
+            "end": 803,
+            "name": "shot3_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 804,
+            "end": 823,
+            "name": "shot3_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 824,
+            "end": 850,
+            "name": "shot3_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 851,
+            "end": 874,
+            "name": "shot3_end",
+            "kind": "once"
+        },
+        {
+            "begin": 875,
+            "end": 907,
+            "name": "skill1_start",
+            "kind": "once"
+        },
+        {
+            "begin": 908,
+            "end": 931,
+            "name": "skill1_charge",
+            "kind": "loop"
+        },
+        {
+            "begin": 932,
+            "end": 952,
+            "name": "skill1_jump_out",
+            "kind": "once"
+        },
+        {
+            "begin": 953,
+            "end": 963,
+            "name": "skill1_jump_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 964,
+            "end": 975,
+            "name": "skill1_fire_start",
+            "kind": "once"
+        },
+        {
+            "begin": 976,
+            "end": 991,
+            "name": "skill1_fire_loop",
+            "kind": "loop"
+        },
+        {
+            "begin": 992,
+            "end": 1032,
+            "name": "skill1_end",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/element/se_energy_inhalation",
+            "begin": 517,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 578,
+            "loop": -1,
+            "end": 602,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/water/se_violent_swirling_water",
+            "begin": 652,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 780,
+            "loop": -1,
+            "end": 804,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/water/se_splash_launch",
+            "begin": 821,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_physics_charge",
+            "begin": 908,
+            "loop": -1,
+            "end": 932,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/water/se_water_strike",
+            "begin": 964,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [
+        {
+            "path": "hit_count_check",
+            "frames": [
+                {
+                    "begin": 88,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -192.9
+                        }
+                    ]
+                },
+                {
+                    "begin": 346,
+                    "data": []
+                },
+                {
+                    "begin": 578,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -192.9
+                        }
+                    ]
+                },
+                {
+                    "begin": 602,
+                    "data": []
+                },
+                {
+                    "begin": 908,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -192.9
+                        }
+                    ]
+                },
+                {
+                    "begin": 932,
+                    "data": []
+                }
+            ]
+        },
+        {
+            "path": "countdown",
+            "frames": [
+                {
+                    "begin": 88,
+                    "data": [
+                        {
+                            "x": 180,
+                            "y": -168
+                        }
+                    ]
+                },
+                {
+                    "begin": 346,
+                    "data": []
+                },
+                {
+                    "begin": 578,
+                    "data": [
+                        {
+                            "x": 180,
+                            "y": -168
+                        }
+                    ]
+                },
+                {
+                    "begin": 602,
+                    "data": []
+                },
+                {
+                    "begin": 908,
+                    "data": [
+                        {
+                            "x": 180,
+                            "y": -168
+                        }
+                    ]
+                },
+                {
+                    "begin": 932,
+                    "data": []
+                }
+            ]
+        },
+        {
+            "path": "hp_gauge",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -266.70000000000005
+                        }
+                    ]
+                },
+                {
+                    "begin": 346,
+                    "data": []
+                },
+                {
+                    "begin": 478,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -266.70000000000005
+                        }
+                    ]
+                },
+                {
+                    "begin": 618,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -432
+                        }
+                    ]
+                },
+                {
+                    "begin": 651,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -266.70000000000005
+                        }
+                    ]
+                },
+                {
+                    "begin": 714,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -432
+                        }
+                    ]
+                },
+                {
+                    "begin": 729,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -266.70000000000005
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "center",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36
+                        }
+                    ]
+                },
+                {
+                    "begin": 346,
+                    "data": []
+                },
+                {
+                    "begin": 478,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -36
+                        }
+                    ]
+                },
+                {
+                    "begin": 612,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -126
+                        }
+                    ]
+                },
+                {
+                    "begin": 618,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -258
+                        }
+                    ]
+                },
+                {
+                    "begin": 651,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -138
+                        }
+                    ]
+                },
+                {
+                    "begin": 657,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -36
+                        }
+                    ]
+                },
+                {
+                    "begin": 714,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -231.3
+                        }
+                    ]
+                },
+                {
+                    "begin": 729,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -111.6
+                        }
+                    ]
+                },
+                {
+                    "begin": 733,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -30
+                        }
+                    ]
+                },
+                {
+                    "begin": 944,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -248.1
+                        }
+                    ]
+                },
+                {
+                    "begin": 947,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -447.6
+                        }
+                    ]
+                },
+                {
+                    "begin": 950,
+                    "data": []
+                },
+                {
+                    "begin": 967,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -283.79999999999995
+                        }
+                    ]
+                },
+                {
+                    "begin": 970,
+                    "data": [
+                        {
+                            "x": 4.199999999999999,
+                            "y": -36
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "circles": [
+        {
+            "path": "enemy_body1",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 346,
+                    "data": []
+                },
+                {
+                    "begin": 478,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 612,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -126,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 618,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -258,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 651,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -138,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 657,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 714,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -231.3,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 729,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -111.6,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 733,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 908,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -30,
+                            "r": 134.96475219726562
+                        }
+                    ]
+                },
+                {
+                    "begin": 932,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 944,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -248.1,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 947,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -447.6,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 950,
+                    "data": []
+                },
+                {
+                    "begin": 967,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -283.79999999999995,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                },
+                {
+                    "begin": 970,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -36,
+                            "r": 128.97491455078125
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "path": "enemy_body2",
+            "frames": [
+                {
+                    "begin": 1,
+                    "data": []
+                },
+                {
+                    "begin": 908,
+                    "data": [
+                        {
+                            "x": -60,
+                            "y": -30,
+                            "r": 113.96484375
+                        }
+                    ]
+                },
+                {
+                    "begin": 932,
+                    "data": []
+                }
+            ]
+        },
+        {
+            "path": "enemy_body3",
+            "frames": [
+                {
+                    "begin": 908,
+                    "data": [
+                        {
+                            "x": 60,
+                            "y": -30,
+                            "r": 113.96484375
+                        }
+                    ]
+                },
+                {
+                    "begin": 932,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "rectangles": [],
+    "matrices": []
+}

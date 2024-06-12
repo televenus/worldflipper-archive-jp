@@ -1,0 +1,926 @@
+[
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/a",
+        "w": 100,
+        "h": 85,
+        "x": 151,
+        "y": 384
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/b",
+        "w": 35,
+        "h": 35,
+        "x": 220,
+        "y": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/c",
+        "w": 36,
+        "h": 47,
+        "x": 113,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/d",
+        "w": 50,
+        "h": 46,
+        "x": 83,
+        "y": 857
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/e",
+        "w": 35,
+        "h": 50,
+        "x": 220,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/f",
+        "w": 23,
+        "h": 23,
+        "x": 231,
+        "y": 626
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/g",
+        "w": 25,
+        "h": 20,
+        "x": 229,
+        "y": 651
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/h",
+        "w": 11,
+        "h": 17,
+        "x": 89,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge/i",
+        "w": 17,
+        "h": 19,
+        "x": 238,
+        "y": 471
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/a",
+        "w": 66,
+        "h": 66,
+        "x": 130,
+        "y": 988
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/b",
+        "w": 110,
+        "h": 107,
+        "x": 1,
+        "y": 369,
+        "fx": -5,
+        "fy": -9,
+        "fw": 120,
+        "fh": 120
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/c",
+        "w": 30,
+        "h": 30,
+        "x": 220,
+        "y": 212
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/d",
+        "w": 30,
+        "h": 30,
+        "x": 220,
+        "y": 244
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/e",
+        "w": 40,
+        "h": 40,
+        "x": 198,
+        "y": 1055
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/f",
+        "w": 30,
+        "h": 30,
+        "x": 113,
+        "y": 418
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/g",
+        "w": 30,
+        "h": 30,
+        "x": 113,
+        "y": 450
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/h",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1055
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/i",
+        "w": 40,
+        "h": 40,
+        "x": 1,
+        "y": 1013
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/j",
+        "w": 40,
+        "h": 40,
+        "x": 43,
+        "y": 1055
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/k",
+        "w": 40,
+        "h": 40,
+        "x": 85,
+        "y": 1055
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/l",
+        "w": 4,
+        "h": 4,
+        "x": 220,
+        "y": 276
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/m",
+        "w": 60,
+        "h": 60,
+        "x": 1,
+        "y": 1097
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/n",
+        "w": 60,
+        "h": 60,
+        "x": 127,
+        "y": 1056
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_charge_back/o",
+        "w": 4,
+        "h": 4,
+        "x": 226,
+        "y": 276
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/a",
+        "w": 13,
+        "h": 13,
+        "x": 240,
+        "y": 1070,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/b",
+        "w": 15,
+        "h": 13,
+        "x": 240,
+        "y": 1055,
+        "fx": -6,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/c",
+        "w": 17,
+        "h": 13,
+        "x": 238,
+        "y": 556,
+        "fx": -5,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/d",
+        "w": 17,
+        "h": 14,
+        "x": 238,
+        "y": 492,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/e",
+        "w": 17,
+        "h": 14,
+        "x": 238,
+        "y": 508,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/f",
+        "w": 17,
+        "h": 14,
+        "x": 238,
+        "y": 524,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_dot/g",
+        "w": 17,
+        "h": 14,
+        "x": 238,
+        "y": 540,
+        "fx": -6,
+        "fy": 0,
+        "fw": 28,
+        "fh": 28
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/a",
+        "w": 11,
+        "h": 11,
+        "x": 89,
+        "y": 519,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/aa",
+        "w": 91,
+        "h": 90,
+        "x": 145,
+        "y": 471,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 96,
+        "fh": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/ab",
+        "w": 48,
+        "h": 48,
+        "x": 80,
+        "y": 955,
+        "fx": -2,
+        "fy": -2,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/ac",
+        "w": 64,
+        "h": 63,
+        "x": 154,
+        "y": 217,
+        "r": true,
+        "fx": -2,
+        "fy": -1,
+        "fw": 69,
+        "fh": 70
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/b",
+        "w": 34,
+        "h": 24,
+        "x": 220,
+        "y": 136,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 34,
+        "fh": 44
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/c",
+        "w": 24,
+        "h": 53,
+        "x": 231,
+        "y": 571,
+        "fx": -3,
+        "fy": -3,
+        "fw": 33,
+        "fh": 62
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/d",
+        "w": 34,
+        "h": 34,
+        "x": 220,
+        "y": 100,
+        "fx": -3,
+        "fy": -3,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/e",
+        "w": 54,
+        "h": 28,
+        "x": 89,
+        "y": 551,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 38,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/f",
+        "w": 23,
+        "h": 23,
+        "x": 229,
+        "y": 673,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/g",
+        "w": 23,
+        "h": 23,
+        "x": 229,
+        "y": 698,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/h",
+        "w": 23,
+        "h": 23,
+        "x": 43,
+        "y": 1013,
+        "fx": 0,
+        "fy": -1,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/i",
+        "w": 100,
+        "h": 100,
+        "x": 154,
+        "y": 282
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/j",
+        "w": 99,
+        "h": 20,
+        "x": 1,
+        "y": 478,
+        "fx": 0,
+        "fy": 0,
+        "fw": 100,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/k",
+        "w": 49,
+        "h": 48,
+        "x": 83,
+        "y": 905
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/l",
+        "w": 60,
+        "h": 60,
+        "x": 63,
+        "y": 1097
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/m",
+        "w": 52,
+        "h": 52,
+        "x": 89,
+        "y": 581
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/n",
+        "w": 86,
+        "h": 86,
+        "x": 1,
+        "y": 500
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/o",
+        "w": 4,
+        "h": 4,
+        "x": 220,
+        "y": 276
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/p",
+        "w": 48,
+        "h": 48,
+        "x": 80,
+        "y": 1005,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/q",
+        "w": 57,
+        "h": 57,
+        "x": 85,
+        "y": 700,
+        "fx": -2,
+        "fy": -2,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/r",
+        "w": 80,
+        "h": 80,
+        "x": 144,
+        "y": 703
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/s",
+        "w": 77,
+        "h": 74,
+        "x": 1,
+        "y": 937,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/t",
+        "w": 28,
+        "h": 66,
+        "x": 218,
+        "y": 862
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/u",
+        "w": 40,
+        "h": 40,
+        "x": 125,
+        "y": 1119
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/v",
+        "w": 80,
+        "h": 80,
+        "x": 1,
+        "y": 775
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/w",
+        "w": 40,
+        "h": 67,
+        "x": 102,
+        "y": 482
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/x",
+        "w": 60,
+        "h": 20,
+        "x": 189,
+        "y": 1097,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 61
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/y",
+        "w": 30,
+        "h": 48,
+        "x": 220,
+        "y": 162
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_explosion/z",
+        "w": 83,
+        "h": 83,
+        "x": 1,
+        "y": 588
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/a",
+        "w": 82,
+        "h": 80,
+        "x": 1,
+        "y": 673,
+        "r": true,
+        "fx": -10,
+        "fy": 0,
+        "fw": 90,
+        "fh": 90
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/b",
+        "w": 80,
+        "h": 78,
+        "x": 136,
+        "y": 785,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 90,
+        "fh": 90
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/c",
+        "w": 80,
+        "h": 78,
+        "x": 1,
+        "y": 857,
+        "r": true,
+        "fx": -12,
+        "fy": 0,
+        "fw": 90,
+        "fh": 90
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/d",
+        "w": 84,
+        "h": 84,
+        "x": 145,
+        "y": 563,
+        "fx": 0,
+        "fy": 0,
+        "fw": 87,
+        "fh": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/e",
+        "w": 151,
+        "h": 150,
+        "x": 1,
+        "y": 217,
+        "fx": 0,
+        "fy": 0,
+        "fw": 154,
+        "fh": 153
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_ground/f",
+        "w": 217,
+        "h": 214,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 223,
+        "fh": 225
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_shadow/a",
+        "w": 3,
+        "h": 9,
+        "x": 252,
+        "y": 162,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/a",
+        "w": 28,
+        "h": 73,
+        "x": 226,
+        "y": 723,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/b",
+        "w": 82,
+        "h": 16,
+        "x": 145,
+        "y": 649
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/c",
+        "w": 20,
+        "h": 20,
+        "x": 167,
+        "y": 1118
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/d",
+        "w": 30,
+        "h": 30,
+        "x": 218,
+        "y": 798
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/e",
+        "w": 40,
+        "h": 40,
+        "x": 189,
+        "y": 1119
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/f",
+        "w": 30,
+        "h": 30,
+        "x": 218,
+        "y": 830
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/g",
+        "w": 82,
+        "h": 16,
+        "x": 145,
+        "y": 667
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/h",
+        "w": 47,
+        "h": 40,
+        "x": 198,
+        "y": 1013,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/i",
+        "w": 57,
+        "h": 63,
+        "x": 86,
+        "y": 635,
+        "fx": -1,
+        "fy": -2,
+        "fw": 64,
+        "fh": 70
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/j",
+        "w": 36,
+        "h": 47,
+        "x": 113,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/k",
+        "w": 50,
+        "h": 46,
+        "x": 83,
+        "y": 857
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/l",
+        "w": 11,
+        "h": 11,
+        "x": 89,
+        "y": 519,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/m",
+        "w": 34,
+        "h": 24,
+        "x": 220,
+        "y": 136,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 34,
+        "fh": 44
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/n",
+        "w": 34,
+        "h": 34,
+        "x": 220,
+        "y": 100,
+        "fx": -3,
+        "fy": -3,
+        "fw": 44,
+        "fh": 44
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/o",
+        "w": 24,
+        "h": 53,
+        "x": 231,
+        "y": 571,
+        "fx": -3,
+        "fy": -3,
+        "fw": 33,
+        "fh": 62
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/p",
+        "w": 54,
+        "h": 28,
+        "x": 89,
+        "y": 551,
+        "r": true,
+        "fx": -3,
+        "fy": -3,
+        "fw": 38,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/q",
+        "w": 35,
+        "h": 50,
+        "x": 220,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/r",
+        "w": 23,
+        "h": 23,
+        "x": 231,
+        "y": 626
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/s",
+        "w": 25,
+        "h": 20,
+        "x": 229,
+        "y": 651
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/t",
+        "w": 11,
+        "h": 17,
+        "x": 89,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_sword/u",
+        "w": 17,
+        "h": 19,
+        "x": 238,
+        "y": 471
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/a",
+        "w": 36,
+        "h": 47,
+        "x": 113,
+        "y": 369,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/b",
+        "w": 51,
+        "h": 80,
+        "x": 83,
+        "y": 775
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/c",
+        "w": 80,
+        "h": 71,
+        "x": 135,
+        "y": 865,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/d",
+        "w": 10,
+        "h": 10,
+        "x": 89,
+        "y": 532
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/e",
+        "w": 55,
+        "h": 14,
+        "x": 84,
+        "y": 759,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/f",
+        "w": 28,
+        "h": 10,
+        "x": 217,
+        "y": 930,
+        "fx": 0,
+        "fy": 0,
+        "fw": 29,
+        "fh": 10
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/g",
+        "w": 82,
+        "h": 16,
+        "x": 145,
+        "y": 685,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/h",
+        "w": 81,
+        "h": 18,
+        "x": 1,
+        "y": 755,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 18,
+        "fh": 82
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/i",
+        "w": 35,
+        "h": 8,
+        "x": 220,
+        "y": 90,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/j",
+        "w": 50,
+        "h": 46,
+        "x": 83,
+        "y": 857
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/k",
+        "w": 35,
+        "h": 50,
+        "x": 220,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/l",
+        "w": 23,
+        "h": 23,
+        "x": 231,
+        "y": 626
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/m",
+        "w": 25,
+        "h": 20,
+        "x": 229,
+        "y": 651
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/n",
+        "w": 11,
+        "h": 17,
+        "x": 89,
+        "y": 500,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/o",
+        "w": 17,
+        "h": 19,
+        "x": 238,
+        "y": 471
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/p",
+        "w": 48,
+        "h": 69,
+        "x": 207,
+        "y": 942,
+        "fx": -2,
+        "fy": -2,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/starbreak_hunter_meteor23/.gen/starbreak_hunter_meteor23_wing/q",
+        "w": 71,
+        "h": 48,
+        "x": 134,
+        "y": 938,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 100,
+        "fh": 100
+    }
+]

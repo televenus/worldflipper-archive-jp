@@ -1,0 +1,442 @@
+{
+    "aa": [
+        "Machine"
+    ],
+    "ab": 6,
+    "ac": "Unknown",
+    "ae": [
+        "T1",
+        "*spawn-point*"
+    ],
+    "ah": 1,
+    "ar": "battle/boss/steampunk_another/funnel/steampunk_another_thunder_core_funnel",
+    "as": "battle/boss/steampunk_another/funnel/steampunk_another_thunder_core_funnel",
+    "at": "battle/boss/steampunk_another/funnel/steampunk_another_thunder_core_funnel_shadow",
+    "au": [
+        {
+            "a": 0,
+            "b": 0,
+            "c": [
+                "T1",
+                "*spawn-point*"
+            ],
+            "d": [
+                "T1",
+                40000000
+            ],
+            "g": [
+                {
+                    "a": 0,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    1
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    1
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T2",
+                            1
+                        ]
+                    ],
+                    "e": 0,
+                    "f": [],
+                    "g": [],
+                    "h": [],
+                    "i": [],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": false,
+                    "bO": 1,
+                    "bf": false,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                },
+                {
+                    "a": 1,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    2
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    2
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T1",
+                            90
+                        ]
+                    ],
+                    "e": 1,
+                    "f": [],
+                    "g": [],
+                    "h": [
+                        {
+                            "a": [
+                                "T1"
+                            ],
+                            "b": "蒸気供給開始",
+                            "c": 0,
+                            "d": 90
+                        }
+                    ],
+                    "i": [
+                        {
+                            "a": [
+                                "T1"
+                            ],
+                            "b": "final3",
+                            "c": 0,
+                            "d": 0
+                        }
+                    ],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": false,
+                    "bO": 1,
+                    "bf": false,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                },
+                {
+                    "a": 2,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    2
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    2
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T1",
+                            90
+                        ]
+                    ],
+                    "e": 1,
+                    "f": [],
+                    "g": [],
+                    "h": [],
+                    "i": [],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": false,
+                    "bO": 1,
+                    "bf": false,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                },
+                {
+                    "a": 3,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    4
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    4
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T1",
+                            150
+                        ]
+                    ],
+                    "e": 1,
+                    "f": [],
+                    "g": [],
+                    "h": [],
+                    "i": [],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": false,
+                    "bO": 1,
+                    "bf": false,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                },
+                {
+                    "a": 4,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    5
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    5
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T2",
+                            1
+                        ]
+                    ],
+                    "e": 2,
+                    "f": [],
+                    "g": [],
+                    "h": [],
+                    "i": [],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": true,
+                    "bO": 1,
+                    "bf": false,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                },
+                {
+                    "a": 5,
+                    "b": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    3
+                                ]
+                            ]
+                        ]
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "T1",
+                            [
+                                "T1",
+                                [
+                                    3
+                                ]
+                            ]
+                        ]
+                    ],
+                    "d": [
+                        "T1",
+                        [
+                            "T1",
+                            100
+                        ]
+                    ],
+                    "f": [],
+                    "g": [],
+                    "h": [],
+                    "i": [],
+                    "k": [],
+                    "bM": false,
+                    "bL": false,
+                    "bB": true,
+                    "bO": 1,
+                    "bf": true,
+                    "bA": 1,
+                    "bJ": false,
+                    "bK": false
+                }
+            ],
+            "h": [
+                {
+                    "a": [
+                        "T1",
+                        4,
+                        "steampunk_another_multi"
+                    ],
+                    "b": [
+                        "T1"
+                    ],
+                    "c": [
+                        "T2",
+                        [
+                            "蒸気核_自壊"
+                        ]
+                    ],
+                    "d": [
+                        "T1"
+                    ],
+                    "e": 10,
+                    "f": [
+                        "T3"
+                    ],
+                    "g": true,
+                    "h": true,
+                    "i": [
+                        "T1",
+                        [
+                            3
+                        ],
+                        true
+                    ],
+                    "j": true
+                }
+            ],
+            "bq": [
+                "T1"
+            ],
+            "i": [],
+            "j": [],
+            "k": [],
+            "l": [],
+            "m": [
+                {
+                    "a": [
+                        "T1"
+                    ],
+                    "b": "core_off",
+                    "c": 0,
+                    "d": 0
+                }
+            ],
+            "n": [
+                {
+                    "a": [
+                        "T1"
+                    ],
+                    "b": "供給停止",
+                    "c": 0,
+                    "d": 90
+                }
+            ]
+        }
+    ],
+    "av": [],
+    "aw": [
+        "popup",
+        "shot1_fire_loop",
+        "dead"
+    ],
+    "bx": [
+        "T2",
+        {
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": false,
+            "e": true,
+            "f": true,
+            "g": 2,
+            "h": [
+                "T1"
+            ],
+            "k": true
+        }
+    ],
+    "ba": 100,
+    "bg": true,
+    "bh": false,
+    "bi": false,
+    "bj": false,
+    "bC": false,
+    "bD": false,
+    "bE": false,
+    "cA": false,
+    "cB": false,
+    "cC": false,
+    "cD": false,
+    "cE": false,
+    "cF": false,
+    "bJ": false,
+    "bF": [
+        "T1"
+    ],
+    "bH": "battle/action/enemy/action/boss_steampunk_another/funnel_steampunk_another$",
+    "bI": [
+        "T1"
+    ]
+}

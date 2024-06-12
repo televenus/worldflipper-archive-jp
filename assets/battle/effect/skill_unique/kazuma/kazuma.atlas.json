@@ -1,0 +1,125 @@
+[
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_dashsmoke/a",
+        "w": 67,
+        "h": 54,
+        "x": 65,
+        "y": 184,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_dashsmoke/b",
+        "w": 87,
+        "h": 76,
+        "x": 122,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_dashsmoke/c",
+        "w": 101,
+        "h": 86,
+        "x": 1,
+        "y": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_dashsmoke/d",
+        "w": 119,
+        "h": 93,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_ball/a",
+        "w": 40,
+        "h": 40,
+        "x": 179,
+        "y": 79
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_enemy/a",
+        "w": 40,
+        "h": 40,
+        "x": 179,
+        "y": 79
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_kirakira/a",
+        "w": 4,
+        "h": 4,
+        "x": 65,
+        "y": 240
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_kirakira/b",
+        "w": 30,
+        "h": 60,
+        "x": 1,
+        "y": 184,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_kirakira/c",
+        "w": 30,
+        "h": 60,
+        "x": 33,
+        "y": 184,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_kirakira/d",
+        "w": 4,
+        "h": 4,
+        "x": 71,
+        "y": 240
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_drain_kirakira/e",
+        "w": 40,
+        "h": 40,
+        "x": 179,
+        "y": 121
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_footsmoke/a",
+        "w": 30,
+        "h": 30,
+        "x": 211,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_footsmoke/b",
+        "w": 30,
+        "h": 30,
+        "x": 211,
+        "y": 33
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_touchaura/a",
+        "w": 40,
+        "h": 40,
+        "x": 209,
+        "y": 163
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_touchaura/b",
+        "w": 73,
+        "h": 73,
+        "x": 104,
+        "y": 96,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/kazuma/.gen/kazuma_touchaura/c",
+        "w": 73,
+        "h": 73,
+        "x": 134,
+        "y": 171,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    }
+]

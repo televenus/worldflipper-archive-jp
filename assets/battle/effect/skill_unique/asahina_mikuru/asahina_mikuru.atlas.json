@@ -1,0 +1,143 @@
+[
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/a",
+        "w": 52,
+        "h": 52,
+        "x": 301,
+        "y": 185,
+        "fx": -7,
+        "fy": -7,
+        "fw": 66,
+        "fh": 66
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/b",
+        "w": 54,
+        "h": 46,
+        "x": 203,
+        "y": 201,
+        "fx": -3,
+        "fy": -4,
+        "fw": 65,
+        "fh": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/c",
+        "w": 50,
+        "h": 93,
+        "x": 406,
+        "y": 1,
+        "r": true,
+        "fx": -2,
+        "fy": -2,
+        "fw": 103,
+        "fh": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/d",
+        "w": 165,
+        "h": 43,
+        "x": 1,
+        "y": 203,
+        "fx": 0,
+        "fy": -1,
+        "fw": 184,
+        "fh": 44
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/e",
+        "w": 100,
+        "h": 100,
+        "x": 203,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/f",
+        "w": 99,
+        "h": 99,
+        "x": 305,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/g",
+        "w": 96,
+        "h": 96,
+        "x": 203,
+        "y": 103,
+        "fx": -2,
+        "fy": -2,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/h",
+        "w": 50,
+        "h": 50,
+        "x": 355,
+        "y": 185
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_all/i",
+        "w": 200,
+        "h": 200,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/a",
+        "w": 50,
+        "h": 50,
+        "x": 355,
+        "y": 185
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/b",
+        "w": 80,
+        "h": 80,
+        "x": 301,
+        "y": 103
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/c",
+        "w": 50,
+        "h": 50,
+        "x": 407,
+        "y": 184
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/d",
+        "w": 79,
+        "h": 80,
+        "x": 383,
+        "y": 102,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/e",
+        "w": 4,
+        "h": 4,
+        "x": 406,
+        "y": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/f",
+        "w": 40,
+        "h": 40,
+        "x": 259,
+        "y": 201
+    },
+    {
+        "n": "battle/effect/skill_unique/asahina_mikuru/.gen/asahina_mikuru_hit/g",
+        "w": 4,
+        "h": 4,
+        "x": 458,
+        "y": 1
+    }
+]

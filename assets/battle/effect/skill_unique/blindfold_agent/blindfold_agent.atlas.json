@@ -1,0 +1,293 @@
+[
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/a",
+        "w": 82,
+        "h": 82,
+        "x": 126,
+        "y": 143
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/b",
+        "w": 123,
+        "h": 241,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 124,
+        "fh": 244
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/c",
+        "w": 80,
+        "h": 80,
+        "x": 210,
+        "y": 143
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/d",
+        "w": 80,
+        "h": 80,
+        "x": 388,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/e",
+        "w": 140,
+        "h": 140,
+        "x": 126,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/f",
+        "w": 80,
+        "h": 80,
+        "x": 388,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/g",
+        "w": 39,
+        "h": 39,
+        "x": 454,
+        "y": 165,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/h",
+        "w": 7,
+        "h": 7,
+        "x": 184,
+        "y": 227,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/i",
+        "w": 39,
+        "h": 39,
+        "x": 454,
+        "y": 206,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/j",
+        "w": 118,
+        "h": 118,
+        "x": 268,
+        "y": 1,
+        "fx": -11,
+        "fy": -11,
+        "fw": 140,
+        "fh": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/k",
+        "w": 39,
+        "h": 39,
+        "x": 292,
+        "y": 121,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/l",
+        "w": 39,
+        "h": 39,
+        "x": 333,
+        "y": 121,
+        "fx": -2,
+        "fy": -2,
+        "fw": 42,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/m",
+        "w": 11,
+        "h": 11,
+        "x": 145,
+        "y": 227,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/n",
+        "w": 11,
+        "h": 11,
+        "x": 158,
+        "y": 227,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/o",
+        "w": 11,
+        "h": 11,
+        "x": 171,
+        "y": 227,
+        "fx": 0,
+        "fy": -1,
+        "fw": 12,
+        "fh": 12
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/p",
+        "w": 7,
+        "h": 7,
+        "x": 184,
+        "y": 236,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_all/q",
+        "w": 7,
+        "h": 7,
+        "x": 193,
+        "y": 227,
+        "fx": 0,
+        "fy": -1,
+        "fw": 8,
+        "fh": 8
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/a",
+        "w": 80,
+        "h": 80,
+        "x": 292,
+        "y": 165
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/b",
+        "w": 19,
+        "h": 19,
+        "x": 210,
+        "y": 225,
+        "fx": -119,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/c",
+        "w": 78,
+        "h": 78,
+        "x": 374,
+        "y": 165,
+        "fx": -1,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/d",
+        "w": 21,
+        "h": 21,
+        "x": 470,
+        "y": 1,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/e",
+        "w": 21,
+        "h": 21,
+        "x": 470,
+        "y": 24,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_disappear/f",
+        "w": 17,
+        "h": 17,
+        "x": 126,
+        "y": 227,
+        "fx": -120,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/a",
+        "w": 80,
+        "h": 80,
+        "x": 292,
+        "y": 165
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/b",
+        "w": 78,
+        "h": 78,
+        "x": 374,
+        "y": 165,
+        "fx": -1,
+        "fy": -1,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/c",
+        "w": 19,
+        "h": 19,
+        "x": 210,
+        "y": 225,
+        "fx": -119,
+        "fy": -112,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/d",
+        "w": 21,
+        "h": 21,
+        "x": 470,
+        "y": 1,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/e",
+        "w": 21,
+        "h": 21,
+        "x": 470,
+        "y": 24,
+        "fx": -118,
+        "fy": -111,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/blindfold_agent/.gen/blindfold_agent_skill_multiball_ready/f",
+        "w": 17,
+        "h": 17,
+        "x": 126,
+        "y": 227,
+        "fx": -120,
+        "fy": -113,
+        "fw": 256,
+        "fh": 256
+    }
+]

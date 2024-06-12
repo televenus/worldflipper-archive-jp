@@ -1,0 +1,811 @@
+[
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/a",
+        "w": 40,
+        "h": 40,
+        "x": 141,
+        "y": 204
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/aa",
+        "w": 62,
+        "h": 59,
+        "x": 184,
+        "y": 573
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ab",
+        "w": 62,
+        "h": 66,
+        "x": 184,
+        "y": 505,
+        "fx": 0,
+        "fy": 0,
+        "fw": 62,
+        "fh": 67
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ac",
+        "w": 76,
+        "h": 60,
+        "x": 123,
+        "y": 443
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ad",
+        "w": 78,
+        "h": 71,
+        "x": 83,
+        "y": 781,
+        "fx": -2,
+        "fy": -2,
+        "fw": 86,
+        "fh": 78
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ae",
+        "w": 40,
+        "h": 40,
+        "x": 203,
+        "y": 386
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/af",
+        "w": 40,
+        "h": 40,
+        "x": 141,
+        "y": 246
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ag",
+        "w": 80,
+        "h": 80,
+        "x": 1,
+        "y": 699
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ah",
+        "w": 40,
+        "h": 40,
+        "x": 203,
+        "y": 428
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/ai",
+        "w": 149,
+        "h": 139,
+        "x": 1,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 151,
+        "fh": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/b",
+        "w": 40,
+        "h": 40,
+        "x": 166,
+        "y": 639
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/c",
+        "w": 60,
+        "h": 60,
+        "x": 112,
+        "y": 577
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/d",
+        "w": 40,
+        "h": 40,
+        "x": 166,
+        "y": 681
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/e",
+        "w": 40,
+        "h": 40,
+        "x": 163,
+        "y": 723
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/f",
+        "w": 31,
+        "h": 54,
+        "x": 133,
+        "y": 639,
+        "fx": 0,
+        "fy": -1,
+        "fw": 36,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/g",
+        "w": 40,
+        "h": 40,
+        "x": 163,
+        "y": 765
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/h",
+        "w": 32,
+        "h": 55,
+        "x": 99,
+        "y": 639,
+        "fx": -1,
+        "fy": -2,
+        "fw": 38,
+        "fh": 62
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/i",
+        "w": 4,
+        "h": 4,
+        "x": 201,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/j",
+        "w": 4,
+        "h": 4,
+        "x": 207,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/k",
+        "w": 4,
+        "h": 4,
+        "x": 213,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/l",
+        "w": 40,
+        "h": 40,
+        "x": 163,
+        "y": 807
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/m",
+        "w": 40,
+        "h": 40,
+        "x": 205,
+        "y": 723
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/n",
+        "w": 4,
+        "h": 4,
+        "x": 219,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/o",
+        "w": 4,
+        "h": 4,
+        "x": 225,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/p",
+        "w": 78,
+        "h": 80,
+        "x": 83,
+        "y": 699,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/q",
+        "w": 78,
+        "h": 80,
+        "x": 123,
+        "y": 361,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/r",
+        "w": 74,
+        "h": 118,
+        "x": 1,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 118
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/s",
+        "w": 12,
+        "h": 68,
+        "x": 230,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 12,
+        "fh": 69
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/t",
+        "w": 74,
+        "h": 118,
+        "x": 1,
+        "y": 481,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 118
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/u",
+        "w": 60,
+        "h": 60,
+        "x": 141,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/v",
+        "w": 76,
+        "h": 138,
+        "x": 152,
+        "y": 1,
+        "r": true,
+        "fx": -6,
+        "fy": -11,
+        "fw": 150,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/w",
+        "w": 133,
+        "h": 77,
+        "x": 1,
+        "y": 282,
+        "fx": -9,
+        "fy": -11,
+        "fw": 150,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/x",
+        "w": 96,
+        "h": 96,
+        "x": 1,
+        "y": 601
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/y",
+        "w": 70,
+        "h": 70,
+        "x": 112,
+        "y": 505
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion/z",
+        "w": 80,
+        "h": 71,
+        "x": 1,
+        "y": 781
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/a",
+        "w": 12,
+        "h": 68,
+        "x": 230,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 12,
+        "fh": 69
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/b",
+        "w": 74,
+        "h": 118,
+        "x": 1,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 118
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/c",
+        "w": 12,
+        "h": 68,
+        "x": 230,
+        "y": 71,
+        "fx": 0,
+        "fy": 0,
+        "fw": 12,
+        "fh": 69
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/d",
+        "w": 74,
+        "h": 118,
+        "x": 1,
+        "y": 481,
+        "fx": 0,
+        "fy": 0,
+        "fw": 80,
+        "fh": 118
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/e",
+        "w": 40,
+        "h": 40,
+        "x": 163,
+        "y": 765
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/f",
+        "w": 78,
+        "h": 80,
+        "x": 83,
+        "y": 699,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/g",
+        "w": 78,
+        "h": 80,
+        "x": 123,
+        "y": 361,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/h",
+        "w": 33,
+        "h": 112,
+        "x": 77,
+        "y": 487,
+        "fx": -4,
+        "fy": 0,
+        "fw": 37,
+        "fh": 112
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/i",
+        "w": 138,
+        "h": 138,
+        "x": 1,
+        "y": 142,
+        "fx": -6,
+        "fy": -6,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/j",
+        "w": 44,
+        "h": 124,
+        "x": 77,
+        "y": 361,
+        "fx": -8,
+        "fy": -2,
+        "fw": 56,
+        "fh": 131
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/k",
+        "w": 80,
+        "h": 80,
+        "x": 1,
+        "y": 699
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/l",
+        "w": 4,
+        "h": 4,
+        "x": 219,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/m",
+        "w": 40,
+        "h": 40,
+        "x": 205,
+        "y": 765
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/n",
+        "w": 4,
+        "h": 4,
+        "x": 213,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/o",
+        "w": 4,
+        "h": 4,
+        "x": 201,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/p",
+        "w": 4,
+        "h": 4,
+        "x": 207,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/q",
+        "w": 4,
+        "h": 4,
+        "x": 225,
+        "y": 499
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/r",
+        "w": 40,
+        "h": 40,
+        "x": 163,
+        "y": 807
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/s",
+        "w": 40,
+        "h": 40,
+        "x": 205,
+        "y": 723
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/t",
+        "w": 40,
+        "h": 40,
+        "x": 205,
+        "y": 807
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/u",
+        "w": 60,
+        "h": 60,
+        "x": 141,
+        "y": 142
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/v",
+        "w": 31,
+        "h": 54,
+        "x": 133,
+        "y": 639,
+        "fx": 0,
+        "fy": -1,
+        "fw": 36,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_explosion_chant/w",
+        "w": 32,
+        "h": 55,
+        "x": 99,
+        "y": 639,
+        "fx": -1,
+        "fy": -2,
+        "fw": 38,
+        "fh": 62
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/a",
+        "w": 16,
+        "h": 19,
+        "x": 165,
+        "y": 288,
+        "fx": -43,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/b",
+        "w": 17,
+        "h": 19,
+        "x": 229,
+        "y": 657,
+        "fx": -43,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/c",
+        "w": 27,
+        "h": 21,
+        "x": 136,
+        "y": 288,
+        "fx": -37,
+        "fy": -41,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/d",
+        "w": 15,
+        "h": 19,
+        "x": 231,
+        "y": 634,
+        "fx": -43,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/e",
+        "w": 35,
+        "h": 27,
+        "x": 201,
+        "y": 470,
+        "fx": -33,
+        "fy": -38,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/f",
+        "w": 16,
+        "h": 19,
+        "x": 208,
+        "y": 678,
+        "fx": -43,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/g",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 141,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/h",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 176,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/i",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 211,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/j",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 246,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/k",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 281,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/l",
+        "w": 33,
+        "h": 43,
+        "x": 136,
+        "y": 316,
+        "r": true,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/m",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 316,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/n",
+        "w": 43,
+        "h": 33,
+        "x": 203,
+        "y": 351,
+        "fx": -29,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/o",
+        "w": 18,
+        "h": 16,
+        "x": 183,
+        "y": 261,
+        "r": true,
+        "fx": -42,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/p",
+        "w": 18,
+        "h": 17,
+        "x": 183,
+        "y": 204,
+        "r": true,
+        "fx": -42,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/q",
+        "w": 18,
+        "h": 17,
+        "x": 183,
+        "y": 223,
+        "r": true,
+        "fx": -42,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/r",
+        "w": 18,
+        "h": 17,
+        "x": 183,
+        "y": 242,
+        "r": true,
+        "fx": -42,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/s",
+        "w": 7,
+        "h": 3,
+        "x": 163,
+        "y": 849
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/t",
+        "w": 18,
+        "h": 16,
+        "x": 183,
+        "y": 279,
+        "r": true,
+        "fx": -42,
+        "fy": -32,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/u",
+        "w": 15,
+        "h": 15,
+        "x": 171,
+        "y": 311,
+        "fx": -43,
+        "fy": -35,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/v",
+        "w": 17,
+        "h": 12,
+        "x": 183,
+        "y": 297,
+        "fx": -41,
+        "fy": -40,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/w",
+        "w": 15,
+        "h": 19,
+        "x": 208,
+        "y": 699,
+        "r": true,
+        "fx": -39,
+        "fy": -46,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/x",
+        "w": 20,
+        "h": 12,
+        "x": 226,
+        "y": 678,
+        "fx": -38,
+        "fy": -47,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player/y",
+        "w": 21,
+        "h": 13,
+        "x": 225,
+        "y": 699,
+        "fx": -37,
+        "fy": -47,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player_down/a",
+        "w": 21,
+        "h": 13,
+        "x": 225,
+        "y": 699,
+        "fx": -37,
+        "fy": -47,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player_down/b",
+        "w": 8,
+        "h": 7,
+        "x": 174,
+        "y": 577,
+        "fx": -8,
+        "fy": -18,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player_down/c",
+        "w": 21,
+        "h": 21,
+        "x": 208,
+        "y": 634,
+        "fx": -1,
+        "fy": -1,
+        "fw": 23,
+        "fh": 26
+    },
+    {
+        "n": "battle/effect/skill_unique/megumin/.gen/megumin_player_down/d",
+        "w": 19,
+        "h": 19,
+        "x": 208,
+        "y": 657,
+        "fx": -2,
+        "fy": -2,
+        "fw": 23,
+        "fh": 26
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/a",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 18,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/b",
+        "w": 3,
+        "h": 9,
+        "x": 22,
+        "y": 48,
+        "r": true,
+        "fx": -124,
+        "fy": -126,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/c",
+        "w": 4,
+        "h": 9,
+        "x": 16,
+        "y": 48,
+        "fx": -1,
+        "fy": -2,
+        "fw": 6,
+        "fh": 12
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/d",
+        "w": 10,
+        "h": 6,
+        "x": 1,
+        "y": 50,
+        "fx": -1,
+        "fy": -1,
+        "fw": 12,
+        "fh": 8
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/e",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 18,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/f",
+        "w": 2,
+        "h": 5,
+        "x": 27,
+        "y": 48,
+        "fx": 0,
+        "fy": 0,
+        "fw": 2,
+        "fh": 6
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/g",
+        "w": 13,
+        "h": 13,
+        "x": 1,
+        "y": 20,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/h",
+        "w": 13,
+        "h": 13,
+        "x": 18,
+        "y": 18,
+        "fx": -7,
+        "fy": 0,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/i",
+        "w": 13,
+        "h": 13,
+        "x": 1,
+        "y": 35,
+        "fx": -7,
+        "fy": -1,
+        "fw": 26,
+        "fh": 26
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/j",
+        "w": 13,
+        "h": 13,
+        "x": 16,
+        "y": 33,
+        "fx": -11,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/k",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/l",
+        "w": 15,
+        "h": 17,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": 0,
+        "fw": 34,
+        "fh": 34
+    },
+    {
+        "n": "battle/field_object/common/yakumono/skill_invoker/npc/skill_invoker_anv4_light_adventurer/.gen/skill_invoker_light_adventurer_4anv/m",
+        "w": 13,
+        "h": 15,
+        "x": 18,
+        "y": 1,
+        "r": true,
+        "fx": -11,
+        "fy": -4,
+        "fw": 34,
+        "fh": 34
+    }
+]

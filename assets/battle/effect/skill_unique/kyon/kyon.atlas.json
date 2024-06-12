@@ -1,0 +1,35 @@
+[
+    {
+        "n": "battle/effect/skill_unique/kyon/.gen/kyon_sword/a",
+        "w": 56,
+        "h": 93,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -4,
+        "fy": -43,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/kyon/.gen/kyon_sword/b",
+        "w": 52,
+        "h": 96,
+        "x": 1,
+        "y": 251
+    },
+    {
+        "n": "battle/effect/skill_unique/kyon/.gen/kyon_sword/c",
+        "w": 53,
+        "h": 153,
+        "x": 1,
+        "y": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/kyon/.gen/kyon_sword/d",
+        "w": 52,
+        "h": 96,
+        "x": 1,
+        "y": 349
+    }
+]

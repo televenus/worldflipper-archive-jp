@@ -1,0 +1,624 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/c"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/d"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/e"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/f"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/g"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/h"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/i"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/j"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/k"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/l"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/m"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/n"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/o"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/p"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/q"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/r"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/s"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/t"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/u"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/v"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/w"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/x"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/y"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/z"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/aa"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ab"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ac"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ad"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ae"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/af"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ag"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ah"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/ai"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/psycho_reaper_meteor23/.gen/psycho_reaper_meteor23_dot/aj"
+        }
+    ],
+    "g": [
+        {
+            "t": 92,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 92,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 92,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 16646224,
+                            "r": 1073741824
+                        },
+                        {
+                            "m": 4351,
+                            "t": 16646153,
+                            "r": 1073741895
+                        },
+                        {
+                            "m": 4124,
+                            "r": 1073741895
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 72,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 2,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 6,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 10,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 14,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 18,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 22,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 24,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 26,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 28,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 30,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 32,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 34,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 36,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 38,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 40,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 42,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 44,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 46,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 48,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 50,
+                    "i": 25,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 52,
+                    "i": 26,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 54,
+                    "i": 27,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 56,
+                    "i": 28,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 58,
+                    "i": 29,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 60,
+                    "i": 30,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 62,
+                    "i": 31,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 64,
+                    "i": 32,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 66,
+                    "i": 33,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 68,
+                    "i": 34,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                },
+                {
+                    "s": 70,
+                    "i": 35,
+                    "l": [
+                        {
+                            "m": 8447,
+                            "t": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 24576,
+            "b": 0,
+            "c": 0,
+            "d": 24576,
+            "x": 0,
+            "y": 1638400
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -319488,
+            "y": -319488
+        }
+    ],
+    "c": [],
+    "s": 1
+}

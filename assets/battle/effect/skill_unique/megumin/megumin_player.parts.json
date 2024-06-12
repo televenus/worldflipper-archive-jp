@@ -1,0 +1,657 @@
+{
+    "i": [
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/a"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/b"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/c"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/d"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/e"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/f"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/g"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/h"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/i"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/j"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/k"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/l"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/m"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/n"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/o"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/p"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/q"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/r"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/s"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/t"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/u"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/v"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/w"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/x"
+        },
+        {
+            "s": false,
+            "p": "battle/effect/skill_unique/megumin/.gen/megumin_player/y"
+        }
+    ],
+    "g": [
+        {
+            "t": 266,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 255,
+                            "t": 266,
+                            "r": 1073741824
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 266,
+            "s": [
+                {
+                    "s": -2147483643,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 8,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483635,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 117,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483518,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 4351,
+                            "t": 12,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483506,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 8276,
+                            "t": 76,
+                            "r": -2147483648
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483648,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 86,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 16639,
+                            "t": 4,
+                            "r": -2147483642
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483558,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 16639,
+                            "t": 4,
+                            "r": -2147483648
+                        },
+                        {
+                            "m": 12543,
+                            "t": 76,
+                            "r": -2147483644
+                        }
+                    ]
+                },
+                {
+                    "s": -2147483478,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 32,
+                            "r": 0
+                        },
+                        {
+                            "m": 12543,
+                            "t": 46,
+                            "r": 1073741828
+                        },
+                        {
+                            "m": 12543,
+                            "t": 16646159,
+                            "r": 1073741847
+                        },
+                        {
+                            "m": 12298,
+                            "r": 1073741847
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 16,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 0,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 1,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 5,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 44,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 7,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 9,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 24,
+                    "i": 10,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 28,
+                    "i": 11,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 32,
+                    "i": 12,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 36,
+                    "i": 13,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 32,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 3,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "t": 32,
+                            "r": -2147483640
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 16,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 14,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 15,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 16,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 17,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 12,
+            "s": [
+                {
+                    "s": 8,
+                    "i": 2,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 4,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 0,
+                    "i": 6,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": -2147483648,
+                    "i": 8,
+                    "l": [
+                        {
+                            "m": 12543,
+                            "r": -2147483648
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 1,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 18,
+                    "l": [
+                        {
+                            "m": 24831
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "t": 24,
+            "s": [
+                {
+                    "s": 0,
+                    "i": 19,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 4,
+                    "i": 20,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 8,
+                    "i": 21,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 12,
+                    "i": 22,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 16,
+                    "i": 23,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                },
+                {
+                    "s": 20,
+                    "i": 24,
+                    "l": [
+                        {
+                            "m": 20735,
+                            "t": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "m": [],
+    "a": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "o": [],
+    "t": [
+        {
+            "a": 4095,
+            "b": 0,
+            "c": 0,
+            "d": 4095,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": -4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 4096,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": -4096
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": 0,
+            "y": 4096
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -204800,
+            "y": -204800
+        },
+        {
+            "a": 4096,
+            "b": 0,
+            "c": 0,
+            "d": 4096,
+            "x": -12288,
+            "y": -4096
+        }
+    ],
+    "c": [],
+    "s": 6
+}

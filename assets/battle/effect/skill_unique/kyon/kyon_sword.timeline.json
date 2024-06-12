@@ -1,0 +1,43 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 30,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 31,
+            "end": 60,
+            "name": "loop",
+            "kind": "loop"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/weapon/se_throw_slow",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_slow",
+            "begin": 12,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_slow",
+            "begin": 22,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}

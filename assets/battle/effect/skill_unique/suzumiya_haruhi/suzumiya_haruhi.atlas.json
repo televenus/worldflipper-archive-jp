@@ -1,0 +1,238 @@
+[
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/a",
+        "w": 303,
+        "h": 124,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/aa",
+        "w": 39,
+        "h": 39,
+        "x": 480,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/ab",
+        "w": 60,
+        "h": 60,
+        "x": 183,
+        "y": 127
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/ac",
+        "w": 60,
+        "h": 60,
+        "x": 304,
+        "y": 141
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/b",
+        "w": 172,
+        "h": 32,
+        "x": 306,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/c",
+        "w": 179,
+        "h": 37,
+        "x": 1,
+        "y": 127,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/d",
+        "w": 64,
+        "h": 32,
+        "x": 96,
+        "y": 223,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/e",
+        "w": 47,
+        "h": 50,
+        "x": 371,
+        "y": 205,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 48
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/f",
+        "w": 93,
+        "h": 56,
+        "x": 1,
+        "y": 166,
+        "fx": -4,
+        "fy": -43,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/g",
+        "w": 70,
+        "h": 44,
+        "x": 403,
+        "y": 97
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/h",
+        "w": 99,
+        "h": 50,
+        "x": 306,
+        "y": 35,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/i",
+        "w": 71,
+        "h": 60,
+        "x": 407,
+        "y": 35
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/j",
+        "w": 95,
+        "h": 52,
+        "x": 306,
+        "y": 87,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/k",
+        "w": 85,
+        "h": 55,
+        "x": 96,
+        "y": 166,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/l",
+        "w": 41,
+        "h": 18,
+        "x": 1,
+        "y": 224
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/m",
+        "w": 29,
+        "h": 28,
+        "x": 44,
+        "y": 224,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/n",
+        "w": 38,
+        "h": 36,
+        "x": 264,
+        "y": 189
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/o",
+        "w": 35,
+        "h": 28,
+        "x": 264,
+        "y": 227
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/p",
+        "w": 38,
+        "h": 32,
+        "x": 162,
+        "y": 223
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/q",
+        "w": 65,
+        "h": 41,
+        "x": 304,
+        "y": 203,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/r",
+        "w": 41,
+        "h": 50,
+        "x": 420,
+        "y": 205
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/s",
+        "w": 45,
+        "h": 58,
+        "x": 366,
+        "y": 143
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/t",
+        "w": 60,
+        "h": 60,
+        "x": 202,
+        "y": 189
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/u",
+        "w": 40,
+        "h": 40,
+        "x": 463,
+        "y": 205
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/v",
+        "w": 60,
+        "h": 60,
+        "x": 413,
+        "y": 143
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/w",
+        "w": 40,
+        "h": 40,
+        "x": 475,
+        "y": 97
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/x",
+        "w": 57,
+        "h": 60,
+        "x": 245,
+        "y": 127,
+        "fx": -3,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/y",
+        "w": 4,
+        "h": 4,
+        "x": 202,
+        "y": 251
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_burst/z",
+        "w": 40,
+        "h": 40,
+        "x": 475,
+        "y": 139
+    },
+    {
+        "n": "battle/effect/skill_unique/suzumiya_haruhi/.gen/suzumiya_haruhi_light/a",
+        "w": 36,
+        "h": 36,
+        "x": 480,
+        "y": 42
+    }
+]

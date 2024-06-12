@@ -1,0 +1,199 @@
+[
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/a",
+        "w": 151,
+        "h": 263,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/b",
+        "w": 71,
+        "h": 71,
+        "x": 154,
+        "y": 1,
+        "fx": -3,
+        "fy": -3,
+        "fw": 77,
+        "fh": 77
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/c",
+        "w": 57,
+        "h": 57,
+        "x": 154,
+        "y": 198
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/d",
+        "w": 57,
+        "h": 57,
+        "x": 133,
+        "y": 266
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/e",
+        "w": 57,
+        "h": 57,
+        "x": 177,
+        "y": 361
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/f",
+        "w": 45,
+        "h": 45,
+        "x": 97,
+        "y": 371,
+        "fx": -15,
+        "fy": -15,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/g",
+        "w": 130,
+        "h": 103,
+        "x": 1,
+        "y": 266
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/h",
+        "w": 60,
+        "h": 60,
+        "x": 154,
+        "y": 74
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/i",
+        "w": 50,
+        "h": 50,
+        "x": 192,
+        "y": 257
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/j",
+        "w": 20,
+        "h": 20,
+        "x": 155,
+        "y": 325,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/k",
+        "w": 20,
+        "h": 20,
+        "x": 155,
+        "y": 347
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/l",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 74,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/m",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 96,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/n",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 118
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/o",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 140,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/p",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 162,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/q",
+        "w": 20,
+        "h": 20,
+        "x": 216,
+        "y": 184
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_all/r",
+        "w": 20,
+        "h": 20,
+        "x": 213,
+        "y": 206,
+        "fx": 0,
+        "fy": 0,
+        "fw": 24,
+        "fh": 24
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_player/a",
+        "w": 20,
+        "h": 38,
+        "x": 133,
+        "y": 325,
+        "fx": 0,
+        "fy": -1,
+        "fw": 20,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_player/b",
+        "w": 46,
+        "h": 46,
+        "x": 1,
+        "y": 371
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_player/c",
+        "w": 46,
+        "h": 46,
+        "x": 49,
+        "y": 371
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_player/d",
+        "w": 60,
+        "h": 60,
+        "x": 154,
+        "y": 136
+    },
+    {
+        "n": "battle/effect/skill_unique/guild_front_girl_playable/.gen/guild_front_girl_playable_player/e",
+        "w": 50,
+        "h": 50,
+        "x": 192,
+        "y": 309
+    }
+]

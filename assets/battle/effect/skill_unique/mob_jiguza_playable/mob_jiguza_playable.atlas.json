@@ -1,0 +1,221 @@
+[
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/a",
+        "w": 11,
+        "h": 13,
+        "x": 687,
+        "y": 1,
+        "fx": -123,
+        "fy": -116,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/b",
+        "w": 67,
+        "h": 62,
+        "x": 410,
+        "y": 106,
+        "fx": -95,
+        "fy": -69,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/c",
+        "w": 76,
+        "h": 77,
+        "x": 483,
+        "y": 53,
+        "fx": -91,
+        "fy": -57,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/d",
+        "w": 81,
+        "h": 81,
+        "x": 312,
+        "y": 173,
+        "fx": -88,
+        "fy": -55,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/e",
+        "w": 85,
+        "h": 84,
+        "x": 466,
+        "y": 170,
+        "r": true,
+        "fx": -85,
+        "fy": -51,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/f",
+        "w": 85,
+        "h": 85,
+        "x": 553,
+        "y": 138,
+        "fx": -85,
+        "fy": -51,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/g",
+        "w": 87,
+        "h": 85,
+        "x": 561,
+        "y": 51,
+        "fx": -83,
+        "fy": -51,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/h",
+        "w": 83,
+        "h": 85,
+        "x": 640,
+        "y": 140,
+        "r": true,
+        "fx": -86,
+        "fy": -53,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/i",
+        "w": 74,
+        "h": 87,
+        "x": 650,
+        "y": 51,
+        "fx": -85,
+        "fy": -52,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/j",
+        "w": 69,
+        "h": 81,
+        "x": 395,
+        "y": 173,
+        "r": true,
+        "fx": -84,
+        "fy": -71,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/k",
+        "w": 10,
+        "h": 10,
+        "x": 553,
+        "y": 225
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/l",
+        "w": 13,
+        "h": 12,
+        "x": 1,
+        "y": 225,
+        "fx": -123,
+        "fy": -117,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all/m",
+        "w": 14,
+        "h": 11,
+        "x": 309,
+        "y": 93,
+        "r": true,
+        "fx": -124,
+        "fy": -115,
+        "fw": 256,
+        "fh": 256
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/a",
+        "w": 99,
+        "h": 65,
+        "x": 309,
+        "y": 106,
+        "fx": -1,
+        "fy": 0,
+        "fw": 100,
+        "fh": 65
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/b",
+        "w": 192,
+        "h": 50,
+        "x": 339,
+        "y": 1,
+        "fx": 0,
+        "fy": 0,
+        "fw": 202,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/c",
+        "w": 336,
+        "h": 90,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/d",
+        "w": 142,
+        "h": 51,
+        "x": 339,
+        "y": 53,
+        "fx": 0,
+        "fy": -2,
+        "fw": 152,
+        "fh": 53
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/e",
+        "w": 190,
+        "h": 130,
+        "x": 1,
+        "y": 93
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/f",
+        "w": 114,
+        "h": 84,
+        "x": 193,
+        "y": 93,
+        "fx": -2,
+        "fy": 0,
+        "fw": 116,
+        "fh": 84
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/g",
+        "w": 152,
+        "h": 48,
+        "x": 533,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/mob_jiguza_playable/.gen/mob_jiguza_playable_all_back/h",
+        "w": 117,
+        "h": 49,
+        "x": 193,
+        "y": 179,
+        "fx": 0,
+        "fy": 0,
+        "fw": 117,
+        "fh": 50
+    }
+]

@@ -1,0 +1,665 @@
+[
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_all_line_pattern_a/a",
+        "w": 40,
+        "h": 20,
+        "x": 43,
+        "y": 730
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_all_line_pattern_b/a",
+        "w": 40,
+        "h": 20,
+        "x": 43,
+        "y": 730
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/a",
+        "w": 19,
+        "h": 16,
+        "x": 28,
+        "y": 838,
+        "fx": -28,
+        "fy": -6,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/b",
+        "w": 19,
+        "h": 16,
+        "x": 92,
+        "y": 850,
+        "fx": -28,
+        "fy": -6,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/c",
+        "w": 39,
+        "h": 20,
+        "x": 1,
+        "y": 784,
+        "fx": 0,
+        "fy": 0,
+        "fw": 40,
+        "fh": 20
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/d",
+        "w": 22,
+        "h": 16,
+        "x": 104,
+        "y": 626,
+        "fx": -30,
+        "fy": -23,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/e",
+        "w": 22,
+        "h": 16,
+        "x": 103,
+        "y": 644,
+        "fx": -30,
+        "fy": -23,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/f",
+        "w": 16,
+        "h": 25,
+        "x": 85,
+        "y": 688,
+        "r": true,
+        "fx": -28,
+        "fy": -24,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/g",
+        "w": 25,
+        "h": 16,
+        "x": 1,
+        "y": 838,
+        "fx": -28,
+        "fy": -24,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/h",
+        "w": 65,
+        "h": 44,
+        "x": 1,
+        "y": 375
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/i",
+        "w": 66,
+        "h": 38,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_afterimage/j",
+        "w": 48,
+        "h": 69,
+        "x": 79,
+        "y": 63,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_range/a",
+        "w": 49,
+        "h": 49,
+        "x": 53,
+        "y": 586,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_range/b",
+        "w": 49,
+        "h": 49,
+        "x": 1,
+        "y": 597,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_attack_range/c",
+        "w": 49,
+        "h": 49,
+        "x": 52,
+        "y": 637,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_blackout/a",
+        "w": 40,
+        "h": 40,
+        "x": 43,
+        "y": 688
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/a",
+        "w": 21,
+        "h": 18,
+        "x": 49,
+        "y": 835,
+        "fx": -36,
+        "fy": -33,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/b",
+        "w": 23,
+        "h": 18,
+        "x": 104,
+        "y": 586,
+        "fx": -36,
+        "fy": -33,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/c",
+        "w": 23,
+        "h": 18,
+        "x": 104,
+        "y": 606,
+        "fx": -36,
+        "fy": -33,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/d",
+        "w": 17,
+        "h": 19,
+        "x": 73,
+        "y": 856,
+        "r": true,
+        "fx": -38,
+        "fy": -34,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/e",
+        "w": 14,
+        "h": 16,
+        "x": 113,
+        "y": 818,
+        "r": true,
+        "fx": -40,
+        "fy": -37,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/f",
+        "w": 12,
+        "h": 17,
+        "x": 115,
+        "y": 534,
+        "fx": -44,
+        "fy": -36,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/g",
+        "w": 18,
+        "h": 21,
+        "x": 33,
+        "y": 856,
+        "fx": -45,
+        "fy": -23,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/h",
+        "w": 18,
+        "h": 19,
+        "x": 103,
+        "y": 694,
+        "fx": -45,
+        "fy": -18,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/i",
+        "w": 18,
+        "h": 19,
+        "x": 53,
+        "y": 856,
+        "r": true,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/j",
+        "w": 18,
+        "h": 15,
+        "x": 53,
+        "y": 877,
+        "r": true,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/k",
+        "w": 13,
+        "h": 18,
+        "x": 113,
+        "y": 836,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/l",
+        "w": 18,
+        "h": 13,
+        "x": 33,
+        "y": 879,
+        "r": true,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/m",
+        "w": 13,
+        "h": 18,
+        "x": 113,
+        "y": 856,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_dot/n",
+        "w": 18,
+        "h": 13,
+        "x": 92,
+        "y": 868,
+        "r": true,
+        "fx": -45,
+        "fy": -17,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/a",
+        "w": 60,
+        "h": 60,
+        "x": 1,
+        "y": 421
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/b",
+        "w": 68,
+        "h": 68,
+        "x": 1,
+        "y": 105
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/c",
+        "w": 68,
+        "h": 68,
+        "x": 1,
+        "y": 175
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/d",
+        "w": 66,
+        "h": 38,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/e",
+        "w": 48,
+        "h": 69,
+        "x": 79,
+        "y": 63,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/f",
+        "w": 65,
+        "h": 44,
+        "x": 1,
+        "y": 375
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/g",
+        "w": 53,
+        "h": 62,
+        "x": 70,
+        "y": 290,
+        "r": true,
+        "fx": -13,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/h",
+        "w": 76,
+        "h": 55,
+        "x": 1,
+        "y": 48,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/i",
+        "w": 88,
+        "h": 45,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/j",
+        "w": 37,
+        "h": 37,
+        "x": 85,
+        "y": 779,
+        "fx": -3,
+        "fy": -3,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/k",
+        "w": 37,
+        "h": 37,
+        "x": 42,
+        "y": 796,
+        "fx": -3,
+        "fy": -3,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/l",
+        "w": 55,
+        "h": 57,
+        "x": 71,
+        "y": 134
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/m",
+        "w": 4,
+        "h": 4,
+        "x": 123,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/n",
+        "w": 4,
+        "h": 4,
+        "x": 123,
+        "y": 7
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/o",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 806
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/p",
+        "w": 30,
+        "h": 30,
+        "x": 81,
+        "y": 818
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/q",
+        "w": 30,
+        "h": 30,
+        "x": 1,
+        "y": 856
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/r",
+        "w": 55,
+        "h": 48,
+        "x": 71,
+        "y": 193,
+        "fx": 0,
+        "fy": -1,
+        "fw": 55,
+        "fh": 49
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/s",
+        "w": 59,
+        "h": 53,
+        "x": 68,
+        "y": 417,
+        "fx": -16,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/t",
+        "w": 40,
+        "h": 134,
+        "x": 1,
+        "y": 648,
+        "fx": 0,
+        "fy": -1,
+        "fw": 40,
+        "fh": 135
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/u",
+        "w": 55,
+        "h": 45,
+        "x": 71,
+        "y": 243,
+        "fx": 0,
+        "fy": -1,
+        "fw": 55,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_break_range/v",
+        "w": 53,
+        "h": 61,
+        "x": 69,
+        "y": 354,
+        "r": true,
+        "fx": -14,
+        "fy": -22,
+        "fw": 75,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_afterimage/a",
+        "w": 30,
+        "h": 60,
+        "x": 91,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_afterimage/b",
+        "w": 40,
+        "h": 20,
+        "x": 43,
+        "y": 752
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_afterimage/c",
+        "w": 40,
+        "h": 20,
+        "x": 85,
+        "y": 757
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_afterimage/d",
+        "w": 40,
+        "h": 20,
+        "x": 43,
+        "y": 774
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_disappear/a",
+        "w": 22,
+        "h": 14,
+        "x": 103,
+        "y": 662,
+        "fx": -30,
+        "fy": -27,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_disappear/b",
+        "w": 22,
+        "h": 14,
+        "x": 103,
+        "y": 678,
+        "fx": -30,
+        "fy": -27,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_disappear/c",
+        "w": 40,
+        "h": 40,
+        "x": 85,
+        "y": 715
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_disappear/d",
+        "w": 50,
+        "h": 50,
+        "x": 63,
+        "y": 534
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_a/a",
+        "w": 66,
+        "h": 38,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_a/b",
+        "w": 65,
+        "h": 44,
+        "x": 1,
+        "y": 375
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_a/c",
+        "w": 48,
+        "h": 69,
+        "x": 79,
+        "y": 63,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_a/d",
+        "w": 67,
+        "h": 43,
+        "x": 1,
+        "y": 245
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_a/e",
+        "w": 67,
+        "h": 43,
+        "x": 1,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_b/a",
+        "w": 48,
+        "h": 69,
+        "x": 79,
+        "y": 63,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_b/b",
+        "w": 66,
+        "h": 38,
+        "x": 1,
+        "y": 335
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_b/c",
+        "w": 65,
+        "h": 44,
+        "x": 1,
+        "y": 375
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_b/d",
+        "w": 67,
+        "h": 43,
+        "x": 1,
+        "y": 245
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_flower_pattern_b/e",
+        "w": 67,
+        "h": 43,
+        "x": 1,
+        "y": 290
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_smoke/a",
+        "w": 60,
+        "h": 60,
+        "x": 63,
+        "y": 472
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_smoke/b",
+        "w": 50,
+        "h": 50,
+        "x": 1,
+        "y": 545
+    },
+    {
+        "n": "battle/effect/skill_unique/wind_spgirl_4anv/.gen/wind_spgirl_4anv_dash_smoke/c",
+        "w": 60,
+        "h": 60,
+        "x": 1,
+        "y": 483
+    }
+]

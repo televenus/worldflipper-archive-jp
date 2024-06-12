@@ -1,0 +1,539 @@
+[
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/a",
+        "w": 14,
+        "h": 9,
+        "x": 177,
+        "y": 92,
+        "fx": -72,
+        "fy": -72,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/aa",
+        "w": 66,
+        "h": 47,
+        "x": 89,
+        "y": 413,
+        "r": true,
+        "fx": -5,
+        "fy": -5,
+        "fw": 60,
+        "fh": 77
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ab",
+        "w": 83,
+        "h": 82,
+        "x": 1,
+        "y": 500,
+        "fx": -39,
+        "fy": -15,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ac",
+        "w": 83,
+        "h": 82,
+        "x": 1,
+        "y": 584,
+        "fx": -39,
+        "fy": -15,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ad",
+        "w": 84,
+        "h": 81,
+        "x": 91,
+        "y": 92,
+        "fx": -38,
+        "fy": -15,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ae",
+        "w": 84,
+        "h": 82,
+        "x": 1,
+        "y": 416,
+        "fx": -38,
+        "fy": -14,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/af",
+        "w": 82,
+        "h": 82,
+        "x": 90,
+        "y": 175,
+        "fx": -39,
+        "fy": -13,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ag",
+        "w": 78,
+        "h": 82,
+        "x": 177,
+        "y": 104,
+        "r": true,
+        "fx": -39,
+        "fy": -13,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ah",
+        "w": 79,
+        "h": 69,
+        "x": 174,
+        "y": 188,
+        "fx": -43,
+        "fy": -17,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ai",
+        "w": 57,
+        "h": 77,
+        "x": 162,
+        "y": 340,
+        "r": true,
+        "fx": -45,
+        "fy": -24,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/aj",
+        "w": 13,
+        "h": 14,
+        "x": 134,
+        "y": 689,
+        "r": true,
+        "fx": -74,
+        "fy": -68,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/ak",
+        "w": 49,
+        "h": 39,
+        "x": 147,
+        "y": 586,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/al",
+        "w": 34,
+        "h": 43,
+        "x": 221,
+        "y": 339
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/am",
+        "w": 32,
+        "h": 29,
+        "x": 221,
+        "y": 384
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/b",
+        "w": 100,
+        "h": 89,
+        "x": 91,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/c",
+        "w": 88,
+        "h": 102,
+        "x": 1,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/d",
+        "w": 87,
+        "h": 101,
+        "x": 1,
+        "y": 209
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/e",
+        "w": 86,
+        "h": 102,
+        "x": 1,
+        "y": 312
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/f",
+        "w": 71,
+        "h": 71,
+        "x": 89,
+        "y": 340
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/g",
+        "w": 65,
+        "h": 78,
+        "x": 176,
+        "y": 259
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/h",
+        "w": 59,
+        "h": 39,
+        "x": 87,
+        "y": 462,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/i",
+        "w": 87,
+        "h": 102,
+        "x": 1,
+        "y": 105
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/j",
+        "w": 30,
+        "h": 14,
+        "x": 102,
+        "y": 689,
+        "fx": -60,
+        "fy": -70,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/k",
+        "w": 45,
+        "h": 27,
+        "x": 209,
+        "y": 504,
+        "fx": -53,
+        "fy": -61,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/l",
+        "w": 55,
+        "h": 31,
+        "x": 198,
+        "y": 632,
+        "fx": -51,
+        "fy": -57,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/m",
+        "w": 56,
+        "h": 33,
+        "x": 140,
+        "y": 627,
+        "fx": -50,
+        "fy": -56,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/n",
+        "w": 36,
+        "h": 54,
+        "x": 219,
+        "y": 419,
+        "r": true,
+        "fx": -52,
+        "fy": -51,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/o",
+        "w": 52,
+        "h": 39,
+        "x": 86,
+        "y": 625,
+        "fx": -52,
+        "fy": -46,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/p",
+        "w": 43,
+        "h": 48,
+        "x": 198,
+        "y": 582,
+        "r": true,
+        "fx": -55,
+        "fy": -40,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/q",
+        "w": 45,
+        "h": 35,
+        "x": 55,
+        "y": 668,
+        "r": true,
+        "fx": -66,
+        "fy": -36,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/r",
+        "w": 46,
+        "h": 27,
+        "x": 209,
+        "y": 475,
+        "r": true,
+        "fx": -66,
+        "fy": -35,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/s",
+        "w": 48,
+        "h": 21,
+        "x": 102,
+        "y": 666,
+        "r": true,
+        "fx": -71,
+        "fy": -33,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/t",
+        "w": 52,
+        "h": 35,
+        "x": 1,
+        "y": 668,
+        "r": true,
+        "fx": -63,
+        "fy": -32,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/u",
+        "w": 40,
+        "h": 40,
+        "x": 152,
+        "y": 662
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/v",
+        "w": 62,
+        "h": 50,
+        "x": 193,
+        "y": 1,
+        "r": true,
+        "fx": -4,
+        "fy": -4,
+        "fw": 61,
+        "fh": 73
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/w",
+        "w": 60,
+        "h": 45,
+        "x": 157,
+        "y": 419,
+        "r": true,
+        "fx": -4,
+        "fy": -4,
+        "fw": 57,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/x",
+        "w": 49,
+        "h": 57,
+        "x": 147,
+        "y": 527,
+        "fx": -5,
+        "fy": -5,
+        "fw": 60,
+        "fh": 68
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/y",
+        "w": 47,
+        "h": 47,
+        "x": 198,
+        "y": 533,
+        "fx": -55,
+        "fy": -42,
+        "fw": 160,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all/z",
+        "w": 61,
+        "h": 49,
+        "x": 193,
+        "y": 53,
+        "r": true,
+        "fx": -3,
+        "fy": -5,
+        "fw": 59,
+        "fh": 72
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_1/a",
+        "w": 100,
+        "h": 89,
+        "x": 91,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_1/b",
+        "w": 84,
+        "h": 79,
+        "x": 90,
+        "y": 259
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_1/c",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 503,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_1/d",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 564,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_1/e",
+        "w": 59,
+        "h": 59,
+        "x": 148,
+        "y": 466,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_2/a",
+        "w": 100,
+        "h": 89,
+        "x": 91,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_2/b",
+        "w": 84,
+        "h": 79,
+        "x": 90,
+        "y": 259
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_2/c",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 503,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_2/d",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 564,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_2/e",
+        "w": 59,
+        "h": 59,
+        "x": 148,
+        "y": 466,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_3/a",
+        "w": 100,
+        "h": 89,
+        "x": 91,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_3/b",
+        "w": 84,
+        "h": 79,
+        "x": 90,
+        "y": 259
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_3/c",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 503,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_3/d",
+        "w": 59,
+        "h": 59,
+        "x": 86,
+        "y": 564,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/wirfled_playable/.gen/wirfled_playable_all_attack_3/e",
+        "w": 59,
+        "h": 59,
+        "x": 148,
+        "y": 466,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    }
+]

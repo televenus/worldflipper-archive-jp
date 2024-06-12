@@ -1,0 +1,105 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 49,
+            "name": "start",
+            "kind": "pass"
+        },
+        {
+            "begin": 50,
+            "end": 82,
+            "name": "neutral",
+            "kind": "loop"
+        },
+        {
+            "begin": 83,
+            "end": 149,
+            "name": "attack",
+            "kind": "once"
+        },
+        {
+            "begin": 150,
+            "end": 178,
+            "name": "dead",
+            "kind": "once"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/sf/se_sf_warp",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/sf/se_effect_skill_heal",
+            "begin": 110,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [
+        {
+            "path": "hp_gauge",
+            "frames": [
+                {
+                    "begin": 50,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -168
+                        }
+                    ]
+                },
+                {
+                    "begin": 150,
+                    "data": []
+                }
+            ]
+        },
+        {
+            "path": "center",
+            "frames": [
+                {
+                    "begin": 50,
+                    "data": [
+                        {
+                            "x": 0,
+                            "y": -66
+                        }
+                    ]
+                },
+                {
+                    "begin": 150,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "circles": [
+        {
+            "path": "enemy_body1",
+            "frames": [
+                {
+                    "begin": 50,
+                    "data": [
+                        {
+                            "x": -6,
+                            "y": -65.69999999999999,
+                            "r": 53.997802734375
+                        }
+                    ]
+                },
+                {
+                    "begin": 150,
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "rectangles": [],
+    "matrices": []
+}

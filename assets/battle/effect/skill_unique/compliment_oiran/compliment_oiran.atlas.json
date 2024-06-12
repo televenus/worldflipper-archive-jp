@@ -1,0 +1,556 @@
+[
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/a",
+        "w": 19,
+        "h": 17,
+        "x": 427,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/b",
+        "w": 9,
+        "h": 3,
+        "x": 161,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/c",
+        "w": 49,
+        "h": 49,
+        "x": 149,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/d",
+        "w": 49,
+        "h": 49,
+        "x": 200,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/e",
+        "w": 49,
+        "h": 49,
+        "x": 251,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/f",
+        "w": 49,
+        "h": 49,
+        "x": 268,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_blueball/g",
+        "w": 47,
+        "h": 30,
+        "x": 1,
+        "y": 96,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/a",
+        "w": 19,
+        "h": 17,
+        "x": 427,
+        "y": 20,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/b",
+        "w": 9,
+        "h": 3,
+        "x": 161,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/c",
+        "w": 49,
+        "h": 49,
+        "x": 149,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/d",
+        "w": 49,
+        "h": 49,
+        "x": 302,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/e",
+        "w": 49,
+        "h": 49,
+        "x": 319,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/f",
+        "w": 49,
+        "h": 49,
+        "x": 268,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_disappear_compliment_oiran_redball/g",
+        "w": 47,
+        "h": 30,
+        "x": 1,
+        "y": 96,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/a",
+        "w": 49,
+        "h": 49,
+        "x": 149,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/b",
+        "w": 49,
+        "h": 49,
+        "x": 200,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/c",
+        "w": 49,
+        "h": 49,
+        "x": 251,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/d",
+        "w": 42,
+        "h": 12,
+        "x": 198,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/e",
+        "w": 43,
+        "h": 18,
+        "x": 71,
+        "y": 68
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/f",
+        "w": 49,
+        "h": 49,
+        "x": 268,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/g",
+        "w": 46,
+        "h": 8,
+        "x": 192,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/h",
+        "w": 47,
+        "h": 13,
+        "x": 149,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/i",
+        "w": 38,
+        "h": 4,
+        "x": 36,
+        "y": 90
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/j",
+        "w": 56,
+        "h": 6,
+        "x": 76,
+        "y": 88
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/k",
+        "w": 31,
+        "h": 28,
+        "x": 136,
+        "y": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/l",
+        "w": 33,
+        "h": 87,
+        "x": 36,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 89,
+        "fh": 33
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/m",
+        "w": 26,
+        "h": 17,
+        "x": 240,
+        "y": 66
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/n",
+        "w": 26,
+        "h": 26,
+        "x": 410,
+        "y": 98
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/o",
+        "w": 41,
+        "h": 30,
+        "x": 50,
+        "y": 96,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/p",
+        "w": 47,
+        "h": 30,
+        "x": 1,
+        "y": 96,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/q",
+        "w": 19,
+        "h": 17,
+        "x": 427,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/r",
+        "w": 9,
+        "h": 3,
+        "x": 161,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/s",
+        "w": 32,
+        "h": 32,
+        "x": 393,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/t",
+        "w": 32,
+        "h": 32,
+        "x": 376,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/u",
+        "w": 37,
+        "h": 65,
+        "x": 71,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/v",
+        "w": 35,
+        "h": 23,
+        "x": 268,
+        "y": 103,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/w",
+        "w": 33,
+        "h": 93,
+        "x": 1,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 95,
+        "fh": 33
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/x",
+        "w": 64,
+        "h": 34,
+        "x": 202,
+        "y": 90,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 35,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_blueball/y",
+        "w": 38,
+        "h": 41,
+        "x": 353,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/a",
+        "w": 49,
+        "h": 49,
+        "x": 149,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/b",
+        "w": 49,
+        "h": 49,
+        "x": 302,
+        "y": 1,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/c",
+        "w": 49,
+        "h": 49,
+        "x": 319,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/d",
+        "w": 42,
+        "h": 12,
+        "x": 198,
+        "y": 52
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/e",
+        "w": 43,
+        "h": 18,
+        "x": 116,
+        "y": 68
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/f",
+        "w": 49,
+        "h": 49,
+        "x": 268,
+        "y": 52,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 50
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/g",
+        "w": 46,
+        "h": 8,
+        "x": 192,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/h",
+        "w": 47,
+        "h": 11,
+        "x": 161,
+        "y": 67
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/i",
+        "w": 38,
+        "h": 4,
+        "x": 36,
+        "y": 90
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/j",
+        "w": 56,
+        "h": 6,
+        "x": 134,
+        "y": 88
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/k",
+        "w": 32,
+        "h": 23,
+        "x": 342,
+        "y": 103
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/l",
+        "w": 31,
+        "h": 28,
+        "x": 169,
+        "y": 96
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/m",
+        "w": 32,
+        "h": 23,
+        "x": 410,
+        "y": 73
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/n",
+        "w": 41,
+        "h": 30,
+        "x": 93,
+        "y": 96,
+        "fx": 0,
+        "fy": 0,
+        "fw": 42,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/o",
+        "w": 47,
+        "h": 30,
+        "x": 1,
+        "y": 96,
+        "fx": -2,
+        "fy": 0,
+        "fw": 50,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/p",
+        "w": 19,
+        "h": 17,
+        "x": 427,
+        "y": 20,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/q",
+        "w": 9,
+        "h": 3,
+        "x": 161,
+        "y": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/r",
+        "w": 32,
+        "h": 32,
+        "x": 410,
+        "y": 39
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/s",
+        "w": 32,
+        "h": 32,
+        "x": 376,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/t",
+        "w": 37,
+        "h": 65,
+        "x": 110,
+        "y": 1,
+        "fx": 0,
+        "fy": -2,
+        "fw": 42,
+        "fh": 72
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/u",
+        "w": 35,
+        "h": 23,
+        "x": 305,
+        "y": 103,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 30,
+        "fh": 42
+    },
+    {
+        "n": "battle/effect/skill_unique/compliment_oiran/.gen/compliment_oiran_multiball_ready_compliment_oiran_redball/v",
+        "w": 38,
+        "h": 41,
+        "x": 370,
+        "y": 44,
+        "r": true
+    }
+]

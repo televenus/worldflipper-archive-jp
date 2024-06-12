@@ -1,0 +1,263 @@
+[
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff/a",
+        "w": 113,
+        "h": 90,
+        "x": 1,
+        "y": 164,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff/b",
+        "w": 66,
+        "h": 53,
+        "x": 261,
+        "y": 201,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 60,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff/c",
+        "w": 75,
+        "h": 60,
+        "x": 292,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff/d",
+        "w": 75,
+        "h": 59,
+        "x": 292,
+        "y": 63,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff/e",
+        "w": 55,
+        "h": 75,
+        "x": 261,
+        "y": 124,
+        "fx": -5,
+        "fy": 0,
+        "fw": 60,
+        "fh": 75
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_buff_back/a",
+        "w": 45,
+        "h": 72,
+        "x": 369,
+        "y": 1,
+        "r": true,
+        "fx": -1,
+        "fy": -1,
+        "fw": 73,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_dash/a",
+        "w": 75,
+        "h": 157,
+        "x": 78,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 78,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_dash/b",
+        "w": 59,
+        "h": 60,
+        "x": 318,
+        "y": 124,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_dash/c",
+        "w": 59,
+        "h": 60,
+        "x": 329,
+        "y": 186,
+        "fx": -1,
+        "fy": 0,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword1/a",
+        "w": 63,
+        "h": 84,
+        "x": 116,
+        "y": 160,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword1/b",
+        "w": 75,
+        "h": 157,
+        "x": 78,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 78,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword1/c",
+        "w": 73,
+        "h": 120,
+        "x": 186,
+        "y": 124,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword1/d",
+        "w": 67,
+        "h": 121,
+        "x": 155,
+        "y": 1,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword1/e",
+        "w": 66,
+        "h": 120,
+        "x": 224,
+        "y": 1,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword2/a",
+        "w": 63,
+        "h": 84,
+        "x": 116,
+        "y": 160,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword2/b",
+        "w": 75,
+        "h": 157,
+        "x": 78,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 78,
+        "fh": 160
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword2/c",
+        "w": 73,
+        "h": 120,
+        "x": 186,
+        "y": 124,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword2/d",
+        "w": 67,
+        "h": 121,
+        "x": 155,
+        "y": 1,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword2/e",
+        "w": 66,
+        "h": 120,
+        "x": 224,
+        "y": 1,
+        "fx": -12,
+        "fy": -12,
+        "fw": 150,
+        "fh": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword3/a",
+        "w": 75,
+        "h": 161,
+        "x": 1,
+        "y": 1,
+        "fx": -11,
+        "fy": -21,
+        "fw": 100,
+        "fh": 200
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword3/b",
+        "w": 29,
+        "h": 30,
+        "x": 155,
+        "y": 124,
+        "fx": -1,
+        "fy": 0,
+        "fw": 30,
+        "fh": 30
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword3/c",
+        "w": 15,
+        "h": 4,
+        "x": 137,
+        "y": 246,
+        "fx": -5,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword3/d",
+        "w": 19,
+        "h": 4,
+        "x": 116,
+        "y": 246,
+        "fx": -1,
+        "fy": 0,
+        "fw": 20,
+        "fh": 4
+    },
+    {
+        "n": "battle/effect/skill_unique/darkness/.gen/darkness_sword3/e",
+        "w": 75,
+        "h": 157,
+        "x": 78,
+        "y": 1,
+        "fx": 0,
+        "fy": -1,
+        "fw": 78,
+        "fh": 160
+    }
+]

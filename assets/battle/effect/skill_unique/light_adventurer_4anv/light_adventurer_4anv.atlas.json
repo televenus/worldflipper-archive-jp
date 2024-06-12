@@ -1,0 +1,825 @@
+[
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_dash/a",
+        "w": 30,
+        "h": 30,
+        "x": 787,
+        "y": 225
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_dash/b",
+        "w": 40,
+        "h": 40,
+        "x": 837,
+        "y": 210
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_dash/c",
+        "w": 50,
+        "h": 50,
+        "x": 428,
+        "y": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_dash/d",
+        "w": 80,
+        "h": 80,
+        "x": 798,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_dash/e",
+        "w": 77,
+        "h": 74,
+        "x": 880,
+        "y": 1,
+        "fx": 0,
+        "fy": -4,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/a",
+        "w": 40,
+        "h": 29,
+        "x": 880,
+        "y": 77,
+        "fx": -2,
+        "fy": -2,
+        "fw": 49,
+        "fh": 38
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/aa",
+        "w": 32,
+        "h": 16,
+        "x": 541,
+        "y": 239,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ab",
+        "w": 27,
+        "h": 23,
+        "x": 954,
+        "y": 155
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ac",
+        "w": 20,
+        "h": 24,
+        "x": 963,
+        "y": 180
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ad",
+        "w": 37,
+        "h": 17,
+        "x": 872,
+        "y": 188,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ae",
+        "w": 24,
+        "h": 34,
+        "x": 191,
+        "y": 220
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/af",
+        "w": 27,
+        "h": 17,
+        "x": 911,
+        "y": 188
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ag",
+        "w": 31,
+        "h": 23,
+        "x": 428,
+        "y": 232,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ah",
+        "w": 35,
+        "h": 26,
+        "x": 922,
+        "y": 77,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ai",
+        "w": 18,
+        "h": 32,
+        "x": 994,
+        "y": 115
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/aj",
+        "w": 15,
+        "h": 27,
+        "x": 931,
+        "y": 207
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ak",
+        "w": 17,
+        "h": 28,
+        "x": 696,
+        "y": 227
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/al",
+        "w": 40,
+        "h": 40,
+        "x": 872,
+        "y": 108
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/am",
+        "w": 40,
+        "h": 36,
+        "x": 872,
+        "y": 150
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/an",
+        "w": 90,
+        "h": 90,
+        "x": 480,
+        "y": 39,
+        "fx": -10,
+        "fy": -10,
+        "fw": 100,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ao",
+        "w": 84,
+        "h": 84,
+        "x": 712,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ap",
+        "w": 151,
+        "h": 150,
+        "x": 217,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/aq",
+        "w": 47,
+        "h": 35,
+        "x": 142,
+        "y": 220,
+        "fx": 0,
+        "fy": 0,
+        "fw": 50,
+        "fh": 39
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ar",
+        "w": 45,
+        "h": 34,
+        "x": 775,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/as",
+        "w": 214,
+        "h": 217,
+        "x": 1,
+        "y": 1,
+        "fx": -1,
+        "fy": 0,
+        "fw": 220,
+        "fh": 222
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/at",
+        "w": 60,
+        "h": 50,
+        "x": 959,
+        "y": 63,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 55,
+        "fh": 65
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/au",
+        "w": 48,
+        "h": 37,
+        "x": 822,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/av",
+        "w": 59,
+        "h": 49,
+        "x": 480,
+        "y": 131,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 52,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/aw",
+        "w": 38,
+        "h": 49,
+        "x": 785,
+        "y": 123,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ax",
+        "w": 52,
+        "h": 53,
+        "x": 601,
+        "y": 137,
+        "fx": 0,
+        "fy": 0,
+        "fw": 55,
+        "fh": 57
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ay",
+        "w": 37,
+        "h": 52,
+        "x": 655,
+        "y": 137,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/az",
+        "w": 52,
+        "h": 53,
+        "x": 603,
+        "y": 192,
+        "fx": 0,
+        "fy": 0,
+        "fw": 55,
+        "fh": 57
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/b",
+        "w": 33,
+        "h": 39,
+        "x": 879,
+        "y": 207,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/ba",
+        "w": 55,
+        "h": 38,
+        "x": 371,
+        "y": 194
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/bb",
+        "w": 37,
+        "h": 50,
+        "x": 746,
+        "y": 123,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 54,
+        "fh": 43
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/bc",
+        "w": 37,
+        "h": 55,
+        "x": 657,
+        "y": 191,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/bd",
+        "w": 33,
+        "h": 46,
+        "x": 837,
+        "y": 162,
+        "r": true,
+        "fx": -1,
+        "fy": 0,
+        "fw": 51,
+        "fh": 38
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/be",
+        "w": 37,
+        "h": 59,
+        "x": 748,
+        "y": 175,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/bf",
+        "w": 63,
+        "h": 34,
+        "x": 710,
+        "y": 87
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/c",
+        "w": 10,
+        "h": 26,
+        "x": 985,
+        "y": 179,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 27,
+        "fh": 10
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/d",
+        "w": 25,
+        "h": 16,
+        "x": 575,
+        "y": 239
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/e",
+        "w": 27,
+        "h": 19,
+        "x": 931,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/f",
+        "w": 19,
+        "h": 19,
+        "x": 960,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/g",
+        "w": 15,
+        "h": 24,
+        "x": 967,
+        "y": 206,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/h",
+        "w": 23,
+        "h": 21,
+        "x": 386,
+        "y": 234
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/i",
+        "w": 31,
+        "h": 19,
+        "x": 734,
+        "y": 236
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/j",
+        "w": 17,
+        "h": 28,
+        "x": 715,
+        "y": 227
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/k",
+        "w": 19,
+        "h": 19,
+        "x": 984,
+        "y": 207,
+        "fx": 0,
+        "fy": 0,
+        "fw": 20,
+        "fh": 19
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/l",
+        "w": 21,
+        "h": 17,
+        "x": 940,
+        "y": 188,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/m",
+        "w": 18,
+        "h": 23,
+        "x": 981,
+        "y": 232,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/n",
+        "w": 18,
+        "h": 22,
+        "x": 1001,
+        "y": 149
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/o",
+        "w": 17,
+        "h": 27,
+        "x": 948,
+        "y": 207
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/p",
+        "w": 24,
+        "h": 21,
+        "x": 360,
+        "y": 234
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/q",
+        "w": 19,
+        "h": 12,
+        "x": 505,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/r",
+        "w": 24,
+        "h": 12,
+        "x": 479,
+        "y": 243,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/s",
+        "w": 11,
+        "h": 22,
+        "x": 983,
+        "y": 155
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/t",
+        "w": 24,
+        "h": 8,
+        "x": 602,
+        "y": 247,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/u",
+        "w": 16,
+        "h": 23,
+        "x": 461,
+        "y": 232
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/v",
+        "w": 15,
+        "h": 19,
+        "x": 411,
+        "y": 234
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/w",
+        "w": 22,
+        "h": 21,
+        "x": 997,
+        "y": 173,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/x",
+        "w": 16,
+        "h": 25,
+        "x": 819,
+        "y": 225
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/y",
+        "w": 15,
+        "h": 32,
+        "x": 914,
+        "y": 207
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground/z",
+        "w": 29,
+        "h": 21,
+        "x": 329,
+        "y": 234,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/a",
+        "w": 104,
+        "h": 82,
+        "x": 572,
+        "y": 53,
+        "fx": -3,
+        "fy": -1,
+        "fw": 112,
+        "fh": 88
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/b",
+        "w": 110,
+        "h": 102,
+        "x": 217,
+        "y": 153,
+        "fx": -2,
+        "fy": -2,
+        "fw": 118,
+        "fh": 111
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/c",
+        "w": 108,
+        "h": 81,
+        "x": 370,
+        "y": 39,
+        "fx": -2,
+        "fy": -3,
+        "fw": 114,
+        "fh": 91
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/d",
+        "w": 51,
+        "h": 56,
+        "x": 427,
+        "y": 122,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 65,
+        "fh": 59
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/e",
+        "w": 58,
+        "h": 58,
+        "x": 541,
+        "y": 137,
+        "fx": -3,
+        "fy": -1,
+        "fw": 68,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/f",
+        "w": 43,
+        "h": 38,
+        "x": 825,
+        "y": 122,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_ground_thunder/g",
+        "w": 48,
+        "h": 49,
+        "x": 787,
+        "y": 174,
+        "fx": -1,
+        "fy": -2,
+        "fw": 55,
+        "fh": 56
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player/a",
+        "w": 13,
+        "h": 13,
+        "x": 678,
+        "y": 114,
+        "fx": -1,
+        "fy": -1,
+        "fw": 15,
+        "fh": 15
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player/b",
+        "w": 50,
+        "h": 50,
+        "x": 694,
+        "y": 123
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player/c",
+        "w": 60,
+        "h": 60,
+        "x": 959,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player/d",
+        "w": 59,
+        "h": 59,
+        "x": 480,
+        "y": 182,
+        "fx": -1,
+        "fy": -1,
+        "fw": 60,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_dash/a",
+        "w": 54,
+        "h": 70,
+        "x": 371,
+        "y": 122,
+        "fx": 0,
+        "fy": -1,
+        "fw": 54,
+        "fh": 71
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_dash/b",
+        "w": 30,
+        "h": 59,
+        "x": 678,
+        "y": 53,
+        "fx": 0,
+        "fy": -1,
+        "fw": 30,
+        "fh": 60
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_dash/c",
+        "w": 137,
+        "h": 50,
+        "x": 573,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/a",
+        "w": 60,
+        "h": 40,
+        "x": 541,
+        "y": 197
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/b",
+        "w": 110,
+        "h": 102,
+        "x": 217,
+        "y": 153,
+        "fx": -2,
+        "fy": -2,
+        "fw": 118,
+        "fh": 111
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/c",
+        "w": 51,
+        "h": 56,
+        "x": 427,
+        "y": 122,
+        "r": true,
+        "fx": -3,
+        "fy": -2,
+        "fw": 65,
+        "fh": 59
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/d",
+        "w": 58,
+        "h": 58,
+        "x": 541,
+        "y": 137,
+        "fx": -3,
+        "fy": -1,
+        "fw": 68,
+        "fh": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/e",
+        "w": 104,
+        "h": 82,
+        "x": 572,
+        "y": 53,
+        "fx": -3,
+        "fy": -1,
+        "fw": 112,
+        "fh": 88
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/f",
+        "w": 43,
+        "h": 38,
+        "x": 825,
+        "y": 122,
+        "fx": -1,
+        "fy": -1,
+        "fw": 50,
+        "fh": 46
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/g",
+        "w": 48,
+        "h": 49,
+        "x": 787,
+        "y": 174,
+        "fx": -1,
+        "fy": -2,
+        "fw": 55,
+        "fh": 56
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_player_thunder/h",
+        "w": 108,
+        "h": 81,
+        "x": 370,
+        "y": 39,
+        "fx": -2,
+        "fy": -3,
+        "fw": 114,
+        "fh": 91
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_pose/a",
+        "w": 40,
+        "h": 79,
+        "x": 329,
+        "y": 153
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_pose/b",
+        "w": 137,
+        "h": 50,
+        "x": 573,
+        "y": 1,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 54,
+        "fh": 140
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/a",
+        "w": 139,
+        "h": 32,
+        "x": 1,
+        "y": 220,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/b",
+        "w": 201,
+        "h": 36,
+        "x": 370,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/c",
+        "w": 38,
+        "h": 38,
+        "x": 914,
+        "y": 108,
+        "fx": -2,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/d",
+        "w": 38,
+        "h": 38,
+        "x": 914,
+        "y": 148,
+        "fx": -2,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/e",
+        "w": 38,
+        "h": 38,
+        "x": 954,
+        "y": 115,
+        "fx": -2,
+        "fy": -2,
+        "fw": 40,
+        "fh": 40
+    },
+    {
+        "n": "battle/effect/skill_unique/light_adventurer_4anv/.gen/light_adventurer_4anv_sword_swing_down/f",
+        "w": 50,
+        "h": 50,
+        "x": 696,
+        "y": 175
+    }
+]

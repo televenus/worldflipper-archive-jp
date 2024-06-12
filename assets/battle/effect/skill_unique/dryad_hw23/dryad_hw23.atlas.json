@@ -1,0 +1,288 @@
+[
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/a",
+        "w": 78,
+        "h": 80,
+        "x": 1,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/b",
+        "w": 80,
+        "h": 27,
+        "x": 307,
+        "y": 78
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/c",
+        "w": 80,
+        "h": 20,
+        "x": 307,
+        "y": 107
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/d",
+        "w": 80,
+        "h": 29,
+        "x": 79,
+        "y": 83
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/e",
+        "w": 79,
+        "h": 75,
+        "x": 164,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/f",
+        "w": 81,
+        "h": 75,
+        "x": 81,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_ghost/g",
+        "w": 79,
+        "h": 75,
+        "x": 245,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_kino/a",
+        "w": 16,
+        "h": 15,
+        "x": 262,
+        "y": 112,
+        "fx": -8,
+        "fy": -1,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_kino/b",
+        "w": 16,
+        "h": 16,
+        "x": 908,
+        "y": 90,
+        "fx": -8,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_kino/c",
+        "w": 16,
+        "h": 16,
+        "x": 908,
+        "y": 108,
+        "fx": -8,
+        "fy": 0,
+        "fw": 32,
+        "fh": 32
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_shineall/a",
+        "w": 50,
+        "h": 50,
+        "x": 389,
+        "y": 77
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_shineall/b",
+        "w": 50,
+        "h": 50,
+        "x": 681,
+        "y": 70
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_shineball/a",
+        "w": 50,
+        "h": 50,
+        "x": 733,
+        "y": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_shineball_out/a",
+        "w": 50,
+        "h": 50,
+        "x": 733,
+        "y": 64
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/a",
+        "w": 17,
+        "h": 33,
+        "x": 905,
+        "y": 25
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/b",
+        "w": 62,
+        "h": 22,
+        "x": 846,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/c",
+        "w": 16,
+        "h": 28,
+        "x": 897,
+        "y": 60,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/d",
+        "w": 72,
+        "h": 49,
+        "x": 161,
+        "y": 78,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/e",
+        "w": 25,
+        "h": 15,
+        "x": 235,
+        "y": 112,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/f",
+        "w": 79,
+        "h": 71,
+        "x": 407,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/g",
+        "w": 42,
+        "h": 18,
+        "x": 837,
+        "y": 106
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/h",
+        "w": 57,
+        "h": 24,
+        "x": 846,
+        "y": 25,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/i",
+        "w": 79,
+        "h": 74,
+        "x": 326,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/j",
+        "w": 36,
+        "h": 52,
+        "x": 808,
+        "y": 1,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/k",
+        "w": 76,
+        "h": 32,
+        "x": 1,
+        "y": 83,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/l",
+        "w": 80,
+        "h": 53,
+        "x": 441,
+        "y": 74,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/m",
+        "w": 24,
+        "h": 41,
+        "x": 871,
+        "y": 51,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/n",
+        "w": 75,
+        "h": 67,
+        "x": 652,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/o",
+        "w": 79,
+        "h": 54,
+        "x": 523,
+        "y": 72,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/p",
+        "w": 32,
+        "h": 49,
+        "x": 837,
+        "y": 55,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/q",
+        "w": 80,
+        "h": 68,
+        "x": 570,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/r",
+        "w": 70,
+        "h": 32,
+        "x": 235,
+        "y": 78
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/s",
+        "w": 77,
+        "h": 61,
+        "x": 729,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/t",
+        "w": 80,
+        "h": 69,
+        "x": 488,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/u",
+        "w": 75,
+        "h": 53,
+        "x": 604,
+        "y": 71,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/v",
+        "w": 25,
+        "h": 25,
+        "x": 881,
+        "y": 94
+    },
+    {
+        "n": "battle/effect/skill_unique/dryad_hw23/.gen/dryad_hw23_tree/w",
+        "w": 50,
+        "h": 50,
+        "x": 785,
+        "y": 64
+    }
+]

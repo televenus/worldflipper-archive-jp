@@ -1,0 +1,162 @@
+[
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_all/a",
+        "w": 40,
+        "h": 4,
+        "x": 139,
+        "y": 109,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_all/b",
+        "w": 40,
+        "h": 4,
+        "x": 200,
+        "y": 265,
+        "r": true
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_all/c",
+        "w": 4,
+        "h": 40,
+        "x": 237,
+        "y": 109
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/a",
+        "w": 106,
+        "h": 106,
+        "x": 139,
+        "y": 1
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/b",
+        "w": 50,
+        "h": 50,
+        "x": 195,
+        "y": 285
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/c",
+        "w": 121,
+        "h": 122,
+        "x": 1,
+        "y": 139,
+        "fx": -2,
+        "fy": -2,
+        "fw": 130,
+        "fh": 130
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/d",
+        "w": 4,
+        "h": 4,
+        "x": 114,
+        "y": 263
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/e",
+        "w": 4,
+        "h": 4,
+        "x": 77,
+        "y": 373
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/f",
+        "w": 4,
+        "h": 4,
+        "x": 114,
+        "y": 367
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/g",
+        "w": 4,
+        "h": 4,
+        "x": 239,
+        "y": 337
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/h",
+        "w": 79,
+        "h": 80,
+        "x": 114,
+        "y": 285,
+        "fx": -1,
+        "fy": 0,
+        "fw": 80,
+        "fh": 80
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/i",
+        "w": 35,
+        "h": 108,
+        "x": 77,
+        "y": 263,
+        "r": true,
+        "fx": -46,
+        "fy": 0,
+        "fw": 200,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/j",
+        "w": 74,
+        "h": 141,
+        "x": 1,
+        "y": 263,
+        "r": true,
+        "fx": -29,
+        "fy": -26,
+        "fw": 200,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/k",
+        "w": 74,
+        "h": 144,
+        "x": 124,
+        "y": 139,
+        "r": true,
+        "fx": -28,
+        "fy": -26,
+        "fw": 200,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/l",
+        "w": 35,
+        "h": 108,
+        "x": 200,
+        "y": 109,
+        "r": true,
+        "fx": -46,
+        "fy": 0,
+        "fw": 200,
+        "fh": 100
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/m",
+        "w": 44,
+        "h": 44,
+        "x": 200,
+        "y": 219
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal/n",
+        "w": 42,
+        "h": 42,
+        "x": 195,
+        "y": 337
+    },
+    {
+        "n": "battle/effect/skill_unique/aqua/.gen/aqua_heal_back/a",
+        "w": 136,
+        "h": 136,
+        "x": 1,
+        "y": 1,
+        "fx": -9,
+        "fy": -9,
+        "fw": 156,
+        "fh": 156
+    }
+]
