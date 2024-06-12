@@ -1,0 +1,290 @@
+[
+    {
+        "n": "battle/common/attention/.gen/hud_attention/a",
+        "w": 10,
+        "h": 10,
+        "x": 212,
+        "y": 350
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/b",
+        "w": 1,
+        "h": 1,
+        "x": 486,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 26
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/c",
+        "w": 120,
+        "h": 25,
+        "x": 2,
+        "y": 328
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/d",
+        "w": 1,
+        "h": 1,
+        "x": 486,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 119,
+        "fh": 94
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/e",
+        "w": 36,
+        "h": 11,
+        "x": 273,
+        "y": 343
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/f",
+        "w": 88,
+        "h": 25,
+        "x": 123,
+        "y": 328
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/g",
+        "w": 1,
+        "h": 1,
+        "x": 486,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 88,
+        "fh": 88
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/h",
+        "w": 1,
+        "h": 1,
+        "x": 486,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 26
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/i",
+        "w": 1,
+        "h": 1,
+        "x": 486,
+        "y": 361,
+        "fx": 0,
+        "fy": 0,
+        "fw": 75,
+        "fh": 26
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/j",
+        "w": 138,
+        "h": 138,
+        "x": 324,
+        "y": 361
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/k",
+        "w": 56,
+        "h": 54,
+        "x": 287,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention/l",
+        "w": 321,
+        "h": 138,
+        "x": 2,
+        "y": 361
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_accept_button/a",
+        "w": 138,
+        "h": 198,
+        "x": 2,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_accept_button/b",
+        "w": 138,
+        "h": 198,
+        "x": 141,
+        "y": 129,
+        "r": true
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_bg/a",
+        "w": 358,
+        "h": 126,
+        "x": 2,
+        "y": 2
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_bg/b",
+        "w": 126,
+        "h": 358,
+        "x": 361,
+        "y": 2,
+        "r": true
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/a",
+        "w": 22,
+        "h": 22,
+        "x": 463,
+        "y": 361
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/b",
+        "w": 21,
+        "h": 21,
+        "x": 212,
+        "y": 328,
+        "fx": 0,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/c",
+        "w": 10,
+        "h": 10,
+        "x": 223,
+        "y": 350
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/d",
+        "w": 18,
+        "h": 21,
+        "x": 254,
+        "y": 328,
+        "fx": -2,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/e",
+        "w": 19,
+        "h": 21,
+        "x": 234,
+        "y": 328,
+        "r": true,
+        "fx": 0,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/f",
+        "w": 13,
+        "h": 14,
+        "x": 273,
+        "y": 328,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/g",
+        "w": 22,
+        "h": 22,
+        "x": 463,
+        "y": 384
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/h",
+        "w": 22,
+        "h": 21,
+        "x": 463,
+        "y": 407,
+        "fx": 0,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/i",
+        "w": 22,
+        "h": 21,
+        "x": 463,
+        "y": 429,
+        "fx": 0,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/j",
+        "w": 22,
+        "h": 21,
+        "x": 463,
+        "y": 407,
+        "fx": 0,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/k",
+        "w": 22,
+        "h": 21,
+        "x": 463,
+        "y": 429,
+        "fx": 0,
+        "fy": 0,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/l",
+        "w": 22,
+        "h": 22,
+        "x": 463,
+        "y": 361
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/m",
+        "w": 13,
+        "h": 14,
+        "x": 273,
+        "y": 328,
+        "r": true,
+        "fx": 0,
+        "fy": 0,
+        "fw": 14,
+        "fh": 14
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/n",
+        "w": 22,
+        "h": 21,
+        "x": 463,
+        "y": 451,
+        "fx": 0,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    },
+    {
+        "n": "battle/common/attention/.gen/hud_attention_label/o",
+        "w": 22,
+        "h": 20,
+        "x": 463,
+        "y": 473,
+        "fx": 0,
+        "fy": -1,
+        "fw": 22,
+        "fh": 22
+    }
+]
