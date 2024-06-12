@@ -1,0 +1,536 @@
+{
+    "sequences": [
+        {
+            "begin": 1,
+            "end": 1495,
+            "name": "scene0",
+            "kind": "pass"
+        },
+        {
+            "begin": 1496,
+            "end": 1496,
+            "name": "end0",
+            "kind": "pass"
+        },
+        {
+            "begin": 1497,
+            "end": 1613,
+            "name": "scene2",
+            "kind": "pass"
+        },
+        {
+            "begin": 1614,
+            "end": 1615,
+            "name": "end2",
+            "kind": "once"
+        },
+        {
+            "begin": 1616,
+            "end": 1819,
+            "name": "scene3",
+            "kind": "pass"
+        },
+        {
+            "begin": 1820,
+            "end": 1820,
+            "name": "end3",
+            "kind": "pass"
+        }
+    ],
+    "sounds": [
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_fu",
+            "begin": 507,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_ikuzo_2",
+            "begin": 240,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_ha",
+            "begin": 401,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_ha",
+            "begin": 496,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_ha",
+            "begin": 523,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_ha_1",
+            "begin": 576,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_uketemiyo",
+            "begin": 948,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_power_flip_0",
+            "begin": 1094,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/main_chapter_00_voice/se_n",
+            "begin": 1353,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gust",
+            "begin": 2,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/thunder/se_thunder_rumbling",
+            "begin": 141,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_fast",
+            "begin": 201,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_fast",
+            "begin": 207,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_fast",
+            "begin": 213,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 226,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_impress_stabsword_dl",
+            "begin": 288,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/battle_common/se_enemy_escape",
+            "begin": 361,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/wind/se_screw_thrust_big",
+            "begin": 403,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/monster/se_gravity_beast",
+            "begin": 426,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_finish",
+            "begin": 464,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 496,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 498,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 506,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 508,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 520,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 522,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/battle_common/se_combo_power_flip_charge_lv3",
+            "begin": 532,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_swing",
+            "begin": 543,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_impress_turnlance",
+            "begin": 576,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_deck_hit",
+            "begin": 608,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_air_blast",
+            "begin": 609,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_strong_slash_stroke",
+            "begin": 647,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_metal_claw",
+            "begin": 699,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_fine_superior_blade",
+            "begin": 725,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 759,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 761,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_jump_up",
+            "begin": 767,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 782,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 784,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_impress_landing_b",
+            "begin": 798,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 801,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_jump_up",
+            "begin": 807,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 822,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 824,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_impress_landing_b",
+            "begin": 837,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 840,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_short_incisure",
+            "begin": 842,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_rapier_slash",
+            "begin": 844,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_jump_up",
+            "begin": 848,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_blow_hard_parry",
+            "begin": 864,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_air_blast",
+            "begin": 880,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_hit_ground",
+            "begin": 881,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_aura_clash",
+            "begin": 914,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/blow/se_aura_clash",
+            "begin": 924,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_swing",
+            "begin": 974,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 1014,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_finish",
+            "begin": 1032,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_power_flip_knight_lv2",
+            "begin": 1034,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_slash_finish",
+            "begin": 1112,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/slash/se_power_flip_knight_lv3_spin",
+            "begin": 1114,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/element/se_magic_big_wave_shot",
+            "begin": 1176,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/light/se_light_sparkling_hard_explosion",
+            "begin": 1196,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/wind/se_swirling_wind_stick",
+            "begin": 1200,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/yakumono/se_sf_box_hit",
+            "begin": 1353,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flame_collision",
+            "begin": 1407,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/situation/se_emote_happning",
+            "begin": 1425,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_flame_collision",
+            "begin": 1437,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_single_fire",
+            "begin": 1508,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/fire/se_single_fire",
+            "begin": 1521,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        },
+        {
+            "path": "sound_effect/weapon/se_throw_fast",
+            "begin": 1626,
+            "loop": 1,
+            "end": -1,
+            "volume": -1
+        }
+    ],
+    "points": [],
+    "circles": [],
+    "rectangles": [],
+    "matrices": []
+}
